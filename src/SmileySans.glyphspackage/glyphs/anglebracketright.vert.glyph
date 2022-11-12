@@ -1,0 +1,25 @@
+{
+color = 8;
+glyphname = anglebracketright.vert;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(762,579,l),
+(774,669,l),
+(272,451,l),
+(445,453,l),
+(-26,666,l),
+(-39,575,l),
+(352,387,l)
+);
+}
+);
+width = 800;
+}
+);
+unicode = 65088;
+}

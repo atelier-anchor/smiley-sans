@@ -1,0 +1,21 @@
+{
+export = 0;
+glyphname = circumflexcomb_gravecomb;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+pos = (90,0);
+ref = circumflexcomb;
+},
+{
+alignment = -1;
+pos = (313,94);
+ref = gravecomb;
+}
+);
+width = 600;
+}
+);
+}

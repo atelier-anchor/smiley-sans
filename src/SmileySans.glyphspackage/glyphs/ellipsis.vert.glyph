@@ -1,0 +1,36 @@
+{
+color = 8;
+glyphname = ellipsis.vert;
+layers = (
+{
+anchors = (
+{
+name = BSB;
+pos = (400,-120);
+},
+{
+name = TSB;
+pos = (400,880);
+}
+);
+layerId = m01;
+shapes = (
+{
+pos = (315,322);
+ref = period;
+},
+{
+pos = (315,662);
+ref = period;
+},
+{
+pos = (315,-18);
+ref = period;
+}
+);
+vertWidth = 998;
+width = 800;
+}
+);
+unicode = 65049;
+}

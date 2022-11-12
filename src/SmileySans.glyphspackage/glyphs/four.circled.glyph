@@ -1,0 +1,24 @@
+{
+color = 6;
+glyphname = four.circled;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (13,0);
+ref = _part.circle;
+},
+{
+alignment = -1;
+pos = (184,44);
+ref = four;
+scale = (0.907,0.907);
+}
+);
+width = 800;
+}
+);
+unicode = 9315;
+}

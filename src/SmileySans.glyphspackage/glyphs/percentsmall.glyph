@@ -1,0 +1,18 @@
+{
+color = 1;
+glyphname = percentsmall;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+pos = (-26,0);
+ref = percent;
+scale = (0.6542,1);
+}
+);
+width = 400;
+}
+);
+unicode = 65130;
+}

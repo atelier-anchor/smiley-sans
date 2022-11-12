@@ -1,0 +1,45 @@
+{
+color = 8;
+glyphname = whitecornerbracketleft.vert;
+layers = (
+{
+anchors = (
+{
+name = BSB;
+pos = (400,-100);
+},
+{
+name = TSB;
+pos = (400,900);
+}
+);
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(208,89,l),
+(637,89,l),
+(624,-29,l),
+(831,-30,l),
+(873,329,l),
+(236,329,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(787,240,l),
+(766,59,l),
+(711,60,l),
+(724,178,l),
+(294,177,l),
+(303,240,l)
+);
+}
+);
+width = 800;
+}
+);
+unicode = 65091;
+}

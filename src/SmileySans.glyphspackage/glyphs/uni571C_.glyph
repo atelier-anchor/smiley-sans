@@ -1,0 +1,268 @@
+{
+color = 10;
+glyphname = uni571C;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(227,816,l),
+(181,784,l),
+(741,784,l),
+(705,816,l),
+(615,-30,l),
+(661,3,l),
+(74,3,l),
+(48,-75,l),
+(696,-75,l),
+(788,786,ls),
+(793,833,o),
+(771,861,o),
+(715,861,cs),
+(146,861,l),
+(48,-75,l),
+(134,-75,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(631,548,l),
+(646,687,ls),
+(651,728,o),
+(629,749,o),
+(582,749,cs),
+(266,749,l),
+(243,548,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(328,705,l),
+(314,681,l),
+(596,681,l),
+(581,705,l),
+(569,590,l),
+(592,616,l),
+(300,616,l),
+(315,596,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(371,698,l),
+(359,587,l),
+(418,589,l),
+(431,698,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(476,695,l),
+(464,588,l),
+(524,588,l),
+(535,695,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(313,156,o),
+(383,204,o),
+(453,282,c),
+(395,299,l),
+(341,247,o),
+(285,216,o),
+(176,195,c),
+(192,128,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(541,212,o),
+(511,196,o),
+(464,177,c),
+(495,122,l),
+(546,145,o),
+(577,166,o),
+(616,198,c),
+(574,241,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(333,69,l),
+(350,232,l),
+(281,203,l),
+(268,69,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(353,118,o),
+(284,97,o),
+(208,84,c),
+(224,23,l),
+(313,40,o),
+(382,61,o),
+(449,88,c),
+(426,149,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(589,355,ls),
+(594,394,o),
+(575,414,o),
+(530,414,cs),
+(251,414,l),
+(234,251,l),
+(577,251,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(515,352,l),
+(510,313,l),
+(312,313,l),
+(317,352,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(223,519,l),
+(216,447,l),
+(639,447,l),
+(647,519,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(453,143,o),
+(494,93,o),
+(549,25,c),
+(604,74,l),
+(549,142,o),
+(510,180,o),
+(443,236,c),
+(393,192,l)
+);
+}
+);
+userData = {
+assembly = "SVTCA[0]	/* SetFreedomAndProjectionVectorToAxis */
+PUSHW[ ]	/* 4 values pushed */
+8 1 0 4 
+CALL[ ]	/* CallFunction */
+PUSHW[ ]	/* 4 values pushed */
+2 1 12 4 
+CALL[ ]	/* CallFunction */
+PUSHW[ ]	/* 3 values pushed */
+76 60 3 
+CALL[ ]	/* CallFunction */
+PUSHW[ ]	/* 4 values pushed */
+17 1 26 4 
+CALL[ ]	/* CallFunction */
+PUSHW[ ]	/* 3 values pushed */
+23 34 3 
+CALL[ ]	/* CallFunction */
+PUSHW[ ]	/* 4 values pushed */
+83 1 80 4 
+CALL[ ]	/* CallFunction */
+PUSHW[ ]	/* 4 values pushed */
+72 1 78 4 
+CALL[ ]	/* CallFunction */
+PUSHW[ ]	/* 1 value pushed */
+0 
+SRP0[ ]	/* SetRefPoint0 */
+PUSHW[ ]	/* 1 value pushed */
+6 
+MDRP[10000]	/* MoveDirectRelPt */
+PUSHW[ ]	/* 3 values pushed */
+10 0 8 
+SRP1[ ]	/* SetRefPoint1 */
+SRP2[ ]	/* SetRefPoint2 */
+IP[ ]	/* InterpolatePts */
+PUSHW[ ]	/* 3 values pushed */
+14 12 2 
+SRP1[ ]	/* SetRefPoint1 */
+SRP2[ ]	/* SetRefPoint2 */
+IP[ ]	/* InterpolatePts */
+PUSHW[ ]	/* 1 value pushed */
+23 
+SRP0[ ]	/* SetRefPoint0 */
+PUSHW[ ]	/* 2 values pushed */
+20 1 
+MIRP[10100]	/* MoveIndirectRelPt */
+PUSHW[ ]	/* 3 values pushed */
+28 26 17 
+SRP1[ ]	/* SetRefPoint1 */
+SRP2[ ]	/* SetRefPoint2 */
+IP[ ]	/* InterpolatePts */
+PUSHW[ ]	/* 3 values pushed */
+29 34 23 
+SRP1[ ]	/* SetRefPoint1 */
+SRP2[ ]	/* SetRefPoint2 */
+IP[ ]	/* InterpolatePts */
+PUSHW[ ]	/* 1 value pushed */
+34 
+SRP0[ ]	/* SetRefPoint0 */
+PUSHW[ ]	/* 1 value pushed */
+30 
+MDRP[10000]	/* MoveDirectRelPt */
+PUSHW[ ]	/* 1 value pushed */
+30 
+MDAP[1]	/* MoveDirectAbsPt */
+PUSHW[ ]	/* 1 value pushed */
+35 
+SRP0[ ]	/* SetRefPoint0 */
+PUSHW[ ]	/* 1 value pushed */
+31 
+MDRP[10000]	/* MoveDirectRelPt */
+PUSHW[ ]	/* 1 value pushed */
+31 
+MDAP[1]	/* MoveDirectAbsPt */
+PUSHW[ ]	/* 1 value pushed */
+34 
+SRP0[ ]	/* SetRefPoint0 */
+PUSHW[ ]	/* 2 values pushed */
+33 1 
+MIRP[10100]	/* MoveIndirectRelPt */
+PUSHW[ ]	/* 1 value pushed */
+37 
+MDRP[10000]	/* MoveDirectRelPt */
+PUSHW[ ]	/* 1 value pushed */
+37 
+MDAP[1]	/* MoveDirectAbsPt */
+PUSHW[ ]	/* 3 values pushed */
+45 60 76 
+SRP1[ ]	/* SetRefPoint1 */
+SRP2[ ]	/* SetRefPoint2 */
+IP[ ]	/* InterpolatePts */
+PUSHW[ ]	/* 1 value pushed */
+76 
+SRP0[ ]	/* SetRefPoint0 */
+PUSHW[ ]	/* 2 values pushed */
+70 1 
+MIRP[10100]	/* MoveIndirectRelPt */
+IUP[0]	/* InterpolateUntPts */
+IUP[1]	/* InterpolateUntPts */";
+};
+width = 800;
+}
+);
+note = uni571C;
+unicode = 22300;
+}

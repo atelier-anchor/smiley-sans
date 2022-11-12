@@ -1,0 +1,36 @@
+{
+export = 0;
+glyphname = circumflexcomb;
+layers = (
+{
+anchors = (
+{
+name = _top;
+pos = (316,580);
+},
+{
+name = top;
+pos = (355,747);
+}
+);
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(161,664,l),
+(251,664,l),
+(393,785,l),
+(313,785,l),
+(410,664,l),
+(490,664,l),
+(402,807,l),
+(306,807,l)
+);
+}
+);
+width = 600;
+}
+);
+unicode = 770;
+}

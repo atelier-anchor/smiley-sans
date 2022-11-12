@@ -1,0 +1,17 @@
+{
+color = 6;
+glyphname = comma.full;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+pos = (100,0);
+ref = comma;
+}
+);
+width = 800;
+}
+);
+unicode = 65292;
+}

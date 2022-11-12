@@ -1,0 +1,21 @@
+{
+glyphname = Ccedilla;
+kernLeft = O;
+kernRight = C;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = C;
+},
+{
+pos = (-91,0);
+ref = cedillacomb.case;
+}
+);
+width = 472;
+}
+);
+unicode = 199;
+}

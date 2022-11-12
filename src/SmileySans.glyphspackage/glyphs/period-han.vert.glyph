@@ -1,0 +1,17 @@
+{
+color = 8;
+glyphname = "period-han.vert";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+pos = (385,579);
+ref = "period-han";
+}
+);
+width = 800;
+}
+);
+unicode = 65042;
+}

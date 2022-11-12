@@ -1,0 +1,38 @@
+{
+color = 8;
+glyphname = "comma-han.vert";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+pos = (388,575);
+ref = "comma-han";
+}
+);
+width = 800;
+},
+{
+associatedMasterId = m01;
+layerId = "0FB53527-23BA-462B-8653-89DCBDBA7CAA";
+name = "Oct 18, 22, 17:22";
+shapes = (
+{
+closed = 1;
+nodes = (
+(705,703,o),
+(650,777,o),
+(593,836,c),
+(527,781,l),
+(583,722,o),
+(639,649,o),
+(695,560,c),
+(762,614,l)
+);
+}
+);
+width = 800;
+}
+);
+unicode = 65041;
+}

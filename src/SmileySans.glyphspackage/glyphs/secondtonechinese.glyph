@@ -1,0 +1,15 @@
+{
+glyphname = secondtonechinese;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = acutecomb;
+}
+);
+width = 600;
+}
+);
+unicode = 714;
+}

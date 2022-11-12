@@ -1,0 +1,17 @@
+{
+color = 6;
+glyphname = less.full;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+pos = (192,0);
+ref = less;
+}
+);
+width = 800;
+}
+);
+unicode = 65308;
+}

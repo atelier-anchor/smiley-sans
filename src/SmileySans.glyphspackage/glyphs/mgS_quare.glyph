@@ -1,0 +1,25 @@
+{
+color = 6;
+glyphname = mgSquare;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+pos = (-32,0);
+ref = m;
+scale = (0.7934,1);
+slant = (1.2603,0);
+},
+{
+pos = (459,0);
+ref = g;
+scale = (0.7934,1);
+slant = (1.2603,0);
+}
+);
+width = 800;
+}
+);
+unicode = 13198;
+}

@@ -1,0 +1,19 @@
+{
+glyphname = Iacute;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = I;
+},
+{
+pos = (-114,0);
+ref = acutecomb.case;
+}
+);
+width = 211;
+}
+);
+unicode = 205;
+}

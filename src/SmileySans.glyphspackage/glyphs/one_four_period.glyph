@@ -1,0 +1,25 @@
+{
+color = 6;
+glyphname = one_four_period;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+pos = (595,0);
+ref = period;
+},
+{
+pos = (17,0);
+ref = one;
+},
+{
+pos = (247,0);
+ref = four;
+}
+);
+width = 800;
+}
+);
+unicode = 9365;
+}

@@ -1,0 +1,17 @@
+{
+color = 6;
+glyphname = bar.full;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+pos = (257,0);
+ref = bar;
+}
+);
+width = 800;
+}
+);
+unicode = 65372;
+}

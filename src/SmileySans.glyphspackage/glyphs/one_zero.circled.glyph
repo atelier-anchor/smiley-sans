@@ -1,0 +1,32 @@
+{
+color = 6;
+glyphname = one_zero.circled;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (286,45);
+ref = zero;
+scale = (0.8172,0.907);
+slant = (1.1954,0);
+},
+{
+alignment = -1;
+pos = (13,0);
+ref = _part.circle;
+},
+{
+alignment = -1;
+pos = (127,47);
+ref = one;
+scale = (0.8172,0.907);
+slant = (1.1954,0);
+}
+);
+width = 800;
+}
+);
+unicode = 9321;
+}

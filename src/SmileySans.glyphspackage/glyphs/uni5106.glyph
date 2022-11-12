@@ -1,0 +1,325 @@
+{
+color = 10;
+glyphname = uni5106;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(166,704,o),
+(106,550,o),
+(37,429,c),
+(93,371,l),
+(186,565,o),
+(253,712,o),
+(294,862,c),
+(217,890,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(250,792,l),
+(159,618,l),
+(81,-80,l),
+(163,-80,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(332,2,o),
+(314,20,o),
+(309,68,c),
+(239,51,l),
+(252,-36,o),
+(291,-79,o),
+(349,-79,cs),
+(422,-79,o),
+(461,-25,o),
+(470,64,cs),
+(515,503,ls),
+(519,540,o),
+(494,568,o),
+(453,568,cs),
+(330,568,l),
+(306,489,l),
+(471,489,l),
+(442,530,l),
+(394,72,ls),
+(389,25,o),
+(374,2,o),
+(349,2,cs)
+);
+},
+{
+closed = 1;
+nodes = (
+(295,541,o),
+(256,477,o),
+(205,417,c),
+(260,373,l),
+(327,453,o),
+(362,520,o),
+(393,621,c),
+(324,635,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(385,651,l),
+(410,886,l),
+(336,886,l),
+(309,651,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(289,801,l),
+(281,722,l),
+(570,722,l),
+(579,801,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(511,644,l),
+(537,886,l),
+(462,886,l),
+(435,644,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(398,370,ls),
+(402,407,o),
+(385,426,o),
+(348,426,cs),
+(260,426,l),
+(224,97,l),
+(368,97,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(383,357,l),
+(343,402,l),
+(312,121,l),
+(362,166,l),
+(246,166,l),
+(286,121,l),
+(316,402,l),
+(266,357,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(599,764,o),
+(560,581,o),
+(500,470,c),
+(563,417,l),
+(620,542,o),
+(666,704,o),
+(697,879,c),
+(620,890,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(618,728,l),
+(613,641,l),
+(771,641,l),
+(779,728,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(641,378,o),
+(595,188,o),
+(453,-43,c),
+(515,-87,l),
+(660,153,o),
+(702,358,o),
+(751,675,c),
+(679,683,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(541,346,o),
+(582,89,o),
+(668,-87,c),
+(733,-43,l),
+(610,224,o),
+(602,407,o),
+(615,620,c),
+(543,542,l)
+);
+}
+);
+userData = {
+assembly = "PUSHW[ ]	/* 4 values pushed */
+95 2 91 4 
+CALL[ ]	/* CallFunction */
+PUSHW[ ]	/* 1 value pushed */
+91 
+SRP0[ ]	/* SetRefPoint0 */
+PUSHW[ ]	/* 1 value pushed */
+51 
+MDRP[10000]	/* MoveDirectRelPt */
+PUSHW[ ]	/* 1 value pushed */
+51 
+MDAP[1]	/* MoveDirectAbsPt */
+PUSHW[ ]	/* 3 values pushed */
+68 91 95 
+SRP1[ ]	/* SetRefPoint1 */
+SRP2[ ]	/* SetRefPoint2 */
+IP[ ]	/* InterpolatePts */
+PUSHW[ ]	/* 1 value pushed */
+95 
+SRP0[ ]	/* SetRefPoint0 */
+PUSHW[ ]	/* 1 value pushed */
+76 
+MDRP[10000]	/* MoveDirectRelPt */
+PUSHW[ ]	/* 1 value pushed */
+76 
+MDAP[1]	/* MoveDirectAbsPt */
+SVTCA[0]	/* SetFreedomAndProjectionVectorToAxis */
+PUSHW[ ]	/* 1 value pushed */
+0 
+MDAP[1]	/* MoveDirectAbsPt */
+PUSHW[ ]	/* 1 value pushed */
+42 
+MDAP[1]	/* MoveDirectAbsPt */
+PUSHW[ ]	/* 1 value pushed */
+50 
+MDAP[1]	/* MoveDirectAbsPt */
+PUSHW[ ]	/* 1 value pushed */
+64 
+MDAP[1]	/* MoveDirectAbsPt */
+PUSHW[ ]	/* 1 value pushed */
+9 
+MDAP[1]	/* MoveDirectAbsPt */
+PUSHW[ ]	/* 1 value pushed */
+27 
+MDAP[1]	/* MoveDirectAbsPt */
+PUSHW[ ]	/* 1 value pushed */
+85 
+MDAP[1]	/* MoveDirectAbsPt */
+PUSHW[ ]	/* 1 value pushed */
+105 
+MDAP[1]	/* MoveDirectAbsPt */
+PUSHW[ ]	/* 4 values pushed */
+51 1 46 4 
+CALL[ ]	/* CallFunction */
+PUSHW[ ]	/* 4 values pushed */
+78 1 75 4 
+CALL[ ]	/* CallFunction */
+PUSHW[ ]	/* 4 values pushed */
+20 1 17 4 
+CALL[ ]	/* CallFunction */
+PUSHW[ ]	/* 3 values pushed */
+6 85 0 
+SRP1[ ]	/* SetRefPoint1 */
+SRP2[ ]	/* SetRefPoint2 */
+IP[ ]	/* InterpolatePts */
+PUSHW[ ]	/* 3 values pushed */
+11 46 51 
+SRP1[ ]	/* SetRefPoint1 */
+SRP2[ ]	/* SetRefPoint2 */
+IP[ ]	/* InterpolatePts */
+PUSHW[ ]	/* 1 value pushed */
+27 
+SRP0[ ]	/* SetRefPoint0 */
+PUSHW[ ]	/* 1 value pushed */
+12 
+MDRP[10000]	/* MoveDirectRelPt */
+PUSHW[ ]	/* 1 value pushed */
+27 
+SRP0[ ]	/* SetRefPoint0 */
+PUSHW[ ]	/* 2 values pushed */
+13 1 
+MIRP[10100]	/* MoveIndirectRelPt */
+PUSHW[ ]	/* 1 value pushed */
+75 
+SRP0[ ]	/* SetRefPoint0 */
+PUSHW[ ]	/* 1 value pushed */
+32 
+MDRP[10000]	/* MoveDirectRelPt */
+PUSHW[ ]	/* 1 value pushed */
+32 
+MDAP[1]	/* MoveDirectAbsPt */
+PUSHW[ ]	/* 3 values pushed */
+38 85 0 
+SRP1[ ]	/* SetRefPoint1 */
+SRP2[ ]	/* SetRefPoint2 */
+IP[ ]	/* InterpolatePts */
+PUSHW[ ]	/* 1 value pushed */
+51 
+SRP0[ ]	/* SetRefPoint0 */
+PUSHW[ ]	/* 1 value pushed */
+43 
+MDRP[10000]	/* MoveDirectRelPt */
+PUSHW[ ]	/* 1 value pushed */
+46 
+SRP0[ ]	/* SetRefPoint0 */
+PUSHW[ ]	/* 2 values pushed */
+49 1 
+MIRP[10100]	/* MoveIndirectRelPt */
+PUSHW[ ]	/* 1 value pushed */
+75 
+SRP0[ ]	/* SetRefPoint0 */
+PUSHW[ ]	/* 1 value pushed */
+52 
+MDRP[10000]	/* MoveDirectRelPt */
+PUSHW[ ]	/* 1 value pushed */
+52 
+MDAP[1]	/* MoveDirectAbsPt */
+PUSHW[ ]	/* 1 value pushed */
+51 
+SRP0[ ]	/* SetRefPoint0 */
+PUSHW[ ]	/* 1 value pushed */
+65 
+MDRP[10000]	/* MoveDirectRelPt */
+PUSHW[ ]	/* 1 value pushed */
+65 
+MDAP[1]	/* MoveDirectAbsPt */
+PUSHW[ ]	/* 3 values pushed */
+68 85 0 
+SRP1[ ]	/* SetRefPoint1 */
+SRP2[ ]	/* SetRefPoint2 */
+IP[ ]	/* InterpolatePts */
+PUSHW[ ]	/* 1 value pushed */
+46 
+SRP0[ ]	/* SetRefPoint0 */
+PUSHW[ ]	/* 1 value pushed */
+77 
+MDRP[10000]	/* MoveDirectRelPt */
+PUSHW[ ]	/* 1 value pushed */
+77 
+MDAP[1]	/* MoveDirectAbsPt */
+PUSHW[ ]	/* 3 values pushed */
+92 85 0 
+SRP1[ ]	/* SetRefPoint1 */
+SRP2[ ]	/* SetRefPoint2 */
+IP[ ]	/* InterpolatePts */
+IUP[0]	/* InterpolateUntPts */
+IUP[1]	/* InterpolateUntPts */";
+};
+width = 800;
+}
+);
+note = uni5106;
+unicode = 20742;
+}

@@ -1,0 +1,280 @@
+{
+color = 10;
+glyphname = uni5AE0;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(168,54,o),
+(191,168,o),
+(211,330,cs),
+(222,421,l),
+(136,421,l),
+(125,331,ls),
+(108,190,o),
+(92,105,o),
+(19,-32,c),
+(93,-85,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(190,421,l),
+(180,332,l),
+(753,332,l),
+(763,421,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(338,60,o),
+(402,36,o),
+(465,9,cs),
+(524,-16,o),
+(596,-52,o),
+(672,-88,c),
+(711,-14,l),
+(590,46,o),
+(473,97,o),
+(340,134,c),
+(335,82,l),
+(403,147,o),
+(446,210,o),
+(498,301,c),
+(417,319,l),
+(360,227,o),
+(321,166,o),
+(246,88,c)
+);
+},
+{
+closed = 1;
+nodes = (
+(537,150,o),
+(494,98,o),
+(431,60,cs),
+(368,22,o),
+(286,-3,o),
+(170,-16,c),
+(198,-90,l),
+(337,-73,o),
+(430,-41,o),
+(500,10,cs),
+(570,61,o),
+(616,129,o),
+(664,224,c),
+(573,221,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(228,253,l),
+(220,175,l),
+(733,175,l),
+(742,253,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(245,443,l),
+(324,443,l),
+(371,890,l),
+(292,890,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(248,629,o),
+(188,582,o),
+(93,531,c),
+(122,452,l),
+(193,491,o),
+(260,554,o),
+(313,626,c),
+(295,693,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(162,829,l),
+(153,753,l),
+(472,753,l),
+(481,829,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(130,705,l),
+(121,629,l),
+(464,629,l),
+(473,705,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(411,601,o),
+(345,650,o),
+(280,697,c),
+(292,624,l),
+(327,593,o),
+(372,547,o),
+(428,486,c),
+(471,542,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(557,801,o),
+(512,726,o),
+(459,680,c),
+(507,619,l),
+(572,685,o),
+(628,783,o),
+(655,873,c),
+(580,888,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(579,811,l),
+(571,738,l),
+(790,738,l),
+(798,811,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(664,644,o),
+(579,546,o),
+(457,502,c),
+(493,435,l),
+(645,493,o),
+(726,601,o),
+(758,752,c),
+(685,767,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(538,608,o),
+(611,491,o),
+(742,436,c),
+(777,505,l),
+(656,556,o),
+(603,633,o),
+(595,753,c),
+(530,737,l)
+);
+}
+);
+userData = {
+assembly = "PUSHW[ ]	/* 4 values pushed */
+108 2 107 4 
+CALL[ ]	/* CallFunction */
+SVTCA[0]	/* SetFreedomAndProjectionVectorToAxis */
+PUSHW[ ]	/* 1 value pushed */
+55 
+MDAP[1]	/* MoveDirectAbsPt */
+PUSHW[ ]	/* 1 value pushed */
+83 
+MDAP[1]	/* MoveDirectAbsPt */
+PUSHW[ ]	/* 1 value pushed */
+0 
+MDAP[1]	/* MoveDirectAbsPt */
+PUSHW[ ]	/* 1 value pushed */
+34 
+MDAP[1]	/* MoveDirectAbsPt */
+PUSHW[ ]	/* 1 value pushed */
+45 
+MDAP[1]	/* MoveDirectAbsPt */
+PUSHW[ ]	/* 4 values pushed */
+94 1 91 4 
+CALL[ ]	/* CallFunction */
+PUSHW[ ]	/* 4 values pushed */
+74 1 71 4 
+CALL[ ]	/* CallFunction */
+PUSHW[ ]	/* 4 values pushed */
+39 1 51 4 
+CALL[ ]	/* CallFunction */
+PUSHW[ ]	/* 4 values pushed */
+17 1 14 4 
+CALL[ ]	/* CallFunction */
+PUSHW[ ]	/* 1 value pushed */
+17 
+SRP0[ ]	/* SetRefPoint0 */
+PUSHW[ ]	/* 1 value pushed */
+7 
+MDRP[10000]	/* MoveDirectRelPt */
+PUSHW[ ]	/* 3 values pushed */
+18 45 83 
+SRP1[ ]	/* SetRefPoint1 */
+SRP2[ ]	/* SetRefPoint2 */
+IP[ ]	/* InterpolatePts */
+PUSHW[ ]	/* 3 values pushed */
+24 45 83 
+SRP1[ ]	/* SetRefPoint1 */
+SRP2[ ]	/* SetRefPoint2 */
+IP[ ]	/* InterpolatePts */
+PUSHW[ ]	/* 3 values pushed */
+29 45 83 
+SRP1[ ]	/* SetRefPoint1 */
+SRP2[ ]	/* SetRefPoint2 */
+IP[ ]	/* InterpolatePts */
+PUSHW[ ]	/* 1 value pushed */
+51 
+SRP0[ ]	/* SetRefPoint0 */
+PUSHW[ ]	/* 2 values pushed */
+54 1 
+MIRP[10100]	/* MoveIndirectRelPt */
+PUSHW[ ]	/* 3 values pushed */
+66 71 74 
+SRP1[ ]	/* SetRefPoint1 */
+SRP2[ ]	/* SetRefPoint2 */
+IP[ ]	/* InterpolatePts */
+PUSHW[ ]	/* 1 value pushed */
+55 
+SRP0[ ]	/* SetRefPoint0 */
+PUSHW[ ]	/* 2 values pushed */
+67 1 
+MIRP[10100]	/* MoveIndirectRelPt */
+PUSHW[ ]	/* 2 values pushed */
+70 1 
+MIRP[10100]	/* MoveIndirectRelPt */
+PUSHW[ ]	/* 3 values pushed */
+80 71 74 
+SRP1[ ]	/* SetRefPoint1 */
+SRP2[ ]	/* SetRefPoint2 */
+IP[ ]	/* InterpolatePts */
+PUSHW[ ]	/* 1 value pushed */
+67 
+SRP0[ ]	/* SetRefPoint0 */
+PUSHW[ ]	/* 1 value pushed */
+96 
+MDRP[10000]	/* MoveDirectRelPt */
+PUSHW[ ]	/* 1 value pushed */
+96 
+MDAP[1]	/* MoveDirectAbsPt */
+IUP[0]	/* InterpolateUntPts */
+IUP[1]	/* InterpolateUntPts */";
+};
+width = 800;
+}
+);
+note = uni5AE0;
+unicode = 23264;
+}

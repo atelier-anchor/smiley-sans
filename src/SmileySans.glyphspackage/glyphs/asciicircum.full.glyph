@@ -1,0 +1,17 @@
+{
+color = 6;
+glyphname = asciicircum.full;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+pos = (165,0);
+ref = asciicircum;
+}
+);
+width = 800;
+}
+);
+unicode = 65342;
+}

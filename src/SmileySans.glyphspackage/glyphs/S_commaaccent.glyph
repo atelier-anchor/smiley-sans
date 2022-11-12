@@ -1,0 +1,21 @@
+{
+glyphname = Scommaaccent;
+kernLeft = S;
+kernRight = S;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = S;
+},
+{
+pos = (-167,0);
+ref = commaaccentcomb.case;
+}
+);
+width = 472;
+}
+);
+unicode = 536;
+}

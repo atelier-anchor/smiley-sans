@@ -1,0 +1,18 @@
+{
+color = 6;
+glyphname = leftArrow;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+angle = 90;
+pos = (749,-56);
+ref = upArrow;
+}
+);
+width = 800;
+}
+);
+unicode = 8592;
+}

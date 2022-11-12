@@ -1,0 +1,17 @@
+{
+glyphname = "One-roman";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (70,0);
+ref = I;
+}
+);
+width = 351;
+}
+);
+unicode = 8544;
+}

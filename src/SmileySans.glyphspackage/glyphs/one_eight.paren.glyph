@@ -1,0 +1,30 @@
+{
+color = 6;
+glyphname = one_eight.paren;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (13,0);
+ref = _part.paren;
+},
+{
+alignment = -1;
+pos = (115,47);
+ref = one;
+scale = (0.907,0.907);
+},
+{
+alignment = -1;
+pos = (288,45);
+ref = eight;
+scale = (0.907,0.907);
+}
+);
+width = 800;
+}
+);
+unicode = 9349;
+}

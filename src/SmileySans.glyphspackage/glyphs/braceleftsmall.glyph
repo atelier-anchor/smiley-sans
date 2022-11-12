@@ -1,0 +1,17 @@
+{
+color = 1;
+glyphname = braceleftsmall;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+pos = (-61,71);
+ref = braceleft;
+}
+);
+width = 400;
+}
+);
+unicode = 65115;
+}

@@ -1,0 +1,17 @@
+{
+glyphname = schwa;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+angle = 180;
+pos = (449,580);
+ref = e;
+}
+);
+width = 449;
+}
+);
+unicode = 601;
+}

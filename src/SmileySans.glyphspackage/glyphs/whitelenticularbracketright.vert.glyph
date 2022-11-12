@@ -1,0 +1,49 @@
+{
+color = 8;
+glyphname = whitelenticularbracketright.vert;
+layers = (
+{
+anchors = (
+{
+name = BSB;
+pos = (400,-100);
+},
+{
+name = TSB;
+pos = (400,900);
+}
+);
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(690,627,l),
+(669,449,l),
+(19,446,l),
+(39,623,l),
+(65,622,l),
+(258,504,o),
+(448,497,o),
+(665,626,c)
+);
+},
+{
+closed = 1;
+nodes = (
+(776,709,l),
+(649,709,l),
+(457,572,o),
+(265,569,o),
+(90,709,c),
+(-27,709,l),
+(-65,356,l),
+(736,360,l)
+);
+}
+);
+width = 800;
+}
+);
+unicode = 65048;
+}

@@ -1,0 +1,16 @@
+{
+color = 4;
+glyphname = asciitilde.number;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+pos = (0,73);
+ref = asciitilde;
+}
+);
+width = 486;
+}
+);
+}

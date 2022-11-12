@@ -1,0 +1,16 @@
+{
+color = 4;
+glyphname = minus.number;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+pos = (0,80);
+ref = minus;
+}
+);
+width = 464;
+}
+);
+}

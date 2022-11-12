@@ -1,0 +1,21 @@
+{
+glyphname = Racute;
+kernLeft = H;
+kernRight = R;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = R;
+},
+{
+pos = (16,0);
+ref = acutecomb.case;
+}
+);
+width = 487;
+}
+);
+unicode = 340;
+}

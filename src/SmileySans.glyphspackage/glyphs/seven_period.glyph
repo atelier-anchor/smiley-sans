@@ -1,0 +1,22 @@
+{
+color = 6;
+glyphname = seven_period;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+pos = (586,0);
+ref = period;
+},
+{
+alignment = -1;
+pos = (208,0);
+ref = seven;
+}
+);
+width = 800;
+}
+);
+unicode = 9358;
+}

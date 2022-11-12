@@ -1,0 +1,15 @@
+{
+glyphname = ring;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = ringcomb;
+}
+);
+width = 600;
+}
+);
+unicode = 730;
+}

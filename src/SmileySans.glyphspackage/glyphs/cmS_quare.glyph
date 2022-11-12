@@ -1,0 +1,25 @@
+{
+color = 6;
+glyphname = cmSquare;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+pos = (-27,0);
+ref = c;
+scale = (0.8175,1);
+slant = (1.2231,0);
+},
+{
+pos = (289,0);
+ref = m;
+scale = (0.8175,1);
+slant = (1.2231,0);
+}
+);
+width = 800;
+}
+);
+unicode = 13213;
+}

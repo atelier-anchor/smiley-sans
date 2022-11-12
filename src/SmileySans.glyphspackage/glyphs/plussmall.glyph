@@ -1,0 +1,17 @@
+{
+color = 1;
+glyphname = plussmall;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+pos = (-36,0);
+ref = plus;
+}
+);
+width = 400;
+}
+);
+unicode = 65122;
+}

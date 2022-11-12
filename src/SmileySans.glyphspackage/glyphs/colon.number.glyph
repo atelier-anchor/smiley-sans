@@ -1,0 +1,20 @@
+{
+color = 4;
+glyphname = colon.number;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+pos = (20,80);
+ref = period;
+},
+{
+pos = (81,509);
+ref = period;
+}
+);
+width = 270;
+}
+);
+}

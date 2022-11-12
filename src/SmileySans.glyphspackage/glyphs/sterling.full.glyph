@@ -1,0 +1,17 @@
+{
+color = 6;
+glyphname = sterling.full;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+pos = (169,0);
+ref = sterling;
+}
+);
+width = 800;
+}
+);
+unicode = 65505;
+}

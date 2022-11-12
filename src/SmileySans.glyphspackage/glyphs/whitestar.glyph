@@ -1,0 +1,12 @@
+{
+color = 10;
+export = 0;
+glyphname = whitestar;
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 9734;
+}

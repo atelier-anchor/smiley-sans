@@ -1,0 +1,16 @@
+{
+color = 1;
+glyphname = greatersmall;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = greater;
+}
+);
+width = 400;
+}
+);
+unicode = 65125;
+}

@@ -1,0 +1,1312 @@
+{
+.appVersion = "3145";
+.formatVersion = 3;
+classes = (
+{
+code = "zero
+one
+two
+three
+four
+five
+six
+seven
+eight
+nine
+zero.lf
+one.lf
+two.lf
+three.lf
+four.lf
+five.lf
+six.lf
+seven.lf
+eight.lf
+nine.lf
+zero.tf
+one.tf
+two.tf
+three.tf
+four.tf
+five.tf
+six.tf
+seven.tf
+eight.tf
+nine.tf
+";
+name = allNumbers;
+},
+{
+code = "colon.number
+plus.number
+minus.number
+multiply.number
+equal.number
+greater.number
+less.number
+plusminus.number
+approxequal.number
+asciitilde.number
+divide.number
+notequal.number
+hyphen.number
+
+";
+name = symbolflex.number;
+},
+{
+code = "colon
+plus
+minus
+multiply
+equal
+greater
+less
+plusminus
+approxequal
+asciitilde
+divide
+notequal
+hyphen
+
+";
+name = symbolflex;
+},
+{
+automatic = 1;
+code = "A Aacute Abreve Abreveacute Abrevedotbelow Abrevegrave Abrevehookabove Abrevetilde Acaron Acircumflex Acircumflexacute Acircumflexdotbelow Acircumflexgrave Acircumflexhookabove Acircumflextilde Adieresis Adotbelow Agrave Ahookabove Amacron Aogonek Aring Atilde AE B C Cacute Ccaron Ccedilla Cdotaccent D Eth Dcaron Dcroat E Eacute Ecaron Ecircumflex Ecircumflexacute Ecircumflexdotbelow Ecircumflexgrave Ecircumflexhookabove Ecircumflextilde Edieresis Edotaccent Edotbelow Egrave Ehookabove Emacron Eogonek Etilde Schwa F G Gbreve Gcommaaccent Gdotaccent Gmacron H Hbar I IJ Iacute Icaron Icircumflex Idieresis Idotaccent Idotbelow Igrave Ihookabove Imacron Iogonek Itilde J Jacute K Kcommaaccent L Lacute Lcaron Lcommaaccent Lslash M N Nacute Ncaron Ncommaaccent Ntilde O Oacute Ocaron Ocircumflex Ocircumflexacute Ocircumflexdotbelow Ocircumflexgrave Ocircumflexhookabove Ocircumflextilde Odieresis Odotbelow Ograve Ohookabove Ohorn Ohornacute Ohorndotbelow Ohorngrave Ohornhookabove Ohorntilde Ohungarumlaut Omacron Oslash Otilde OE P Thorn Q R Racute Rcaron Rcommaaccent S Sacute Scaron Scedilla Scommaaccent T Tcaron Tcedilla Tcommaaccent U Uacute Ucaron Ucircumflex Udieresis Udieresisacute Udieresiscaron Udieresisgrave Udieresismacron Udotbelow Ugrave Uhookabove Uhorn Uhornacute Uhorndotbelow Uhorngrave Uhornhookabove Uhorntilde Uhungarumlaut Umacron Uogonek Uring Utilde V W Wacute Wcircumflex Wdieresis Wgrave X Y Yacute Ycircumflex Ydieresis Ydotbelow Ygrave Yhookabove Ytilde Z Zacute Zcaron Zdotaccent Lcommaaccent.loclMAH Ncommaaccent.loclMAH K.ss01";
+name = Uppercase;
+},
+{
+code = "i
+idotless
+iacute
+icaron
+icircumflex
+idieresis
+idotaccent
+idotbelow
+igrave
+ihookabove
+ij
+imacron
+iogonek
+itilde
+j
+jdotless
+jacute
+t
+tcaron
+tcedilla
+tcommaaccent
+";
+name = itgroup;
+}
+);
+customParameters = (
+{
+name = "Guides Palette Config";
+value = {
+showAngle = 1;
+showCoordinates = 1;
+sortBy = "";
+tagPrefix = guide_;
+};
+}
+);
+date = "2022-11-11 15:33:37 +0000";
+familyName = "Smiley Sans";
+featurePrefixes = (
+{
+automatic = 1;
+code = "languagesystem DFLT dflt;
+
+languagesystem latn dflt;
+languagesystem latn AZE;
+languagesystem latn CRT;
+languagesystem latn KAZ;
+languagesystem latn TAT;
+languagesystem latn TRK;
+languagesystem latn ROM;
+languagesystem latn MOL;
+languagesystem latn MAH;
+languagesystem latn NLD;
+";
+name = Languagesystems;
+}
+);
+features = (
+{
+automatic = 1;
+code = "feature locl;
+feature sups;
+feature frac;
+feature ordn;
+feature pnum;
+feature tnum;
+feature fwid;
+feature vert;
+feature vrt2;
+feature ss01;
+feature ss02;
+feature calt;
+";
+tag = aalt;
+},
+{
+automatic = 1;
+code = "lookup locl_latn_0 {
+	script latn;
+	language AZE;
+	sub i by idotaccent;
+	language CRT;
+	sub i by idotaccent;
+	language KAZ;
+	sub i by idotaccent;
+	language TAT;
+	sub i by idotaccent;
+	language TRK;
+	sub i by idotaccent;
+} locl_latn_0;
+
+lookup locl_latn_1 {
+	script latn;
+	language ROM;
+	sub Scedilla by Scommaaccent;
+	sub scedilla by scommaaccent;
+	sub Tcedilla by Tcommaaccent;
+	sub tcedilla by tcommaaccent;
+	language MOL;
+	sub Scedilla by Scommaaccent;
+	sub scedilla by scommaaccent;
+	sub Tcedilla by Tcommaaccent;
+	sub tcedilla by tcommaaccent;
+} locl_latn_1;
+
+lookup locl_latn_2 {
+	script latn;
+	language MAH;
+	sub Lcommaaccent by Lcommaaccent.loclMAH;
+	sub Ncommaaccent by Ncommaaccent.loclMAH;
+	sub lcommaaccent by lcommaaccent.loclMAH;
+	sub ncommaaccent by ncommaaccent.loclMAH;
+} locl_latn_2;
+
+lookup locl_latn_3 {
+	script latn;
+	language NLD;
+	sub iacute j' by jacute;
+	sub Iacute J' by Jacute;
+} locl_latn_3;
+";
+tag = locl;
+},
+{
+automatic = 1;
+code = "sub one by onesuperior;
+sub two by twosuperior;
+sub three by threesuperior;
+";
+tag = sups;
+},
+{
+automatic = 1;
+code = "sub one slash four by onequarter;
+sub one slash two by onehalf;
+sub three slash four by threequarters;
+";
+tag = frac;
+},
+{
+automatic = 1;
+code = "sub [zero one two three four five six seven eight nine] [A a]' by ordfeminine;
+sub [zero one two three four five six seven eight nine] [O o]' by ordmasculine;
+sub N o period by numero;
+";
+tag = ordn;
+},
+{
+automatic = 1;
+code = "sub zero.tf by zero;
+sub one.tf by one;
+sub two.tf by two;
+sub three.tf by three;
+sub four.tf by four;
+sub five.tf by five;
+sub six.tf by six;
+sub seven.tf by seven;
+sub eight.tf by eight;
+sub nine.tf by nine;
+";
+tag = pnum;
+},
+{
+automatic = 1;
+code = "sub zero by zero.tf;
+sub one by one.tf;
+sub two by two.tf;
+sub three by three.tf;
+sub four by four.tf;
+sub five by five.tf;
+sub six by six.tf;
+sub seven by seven.tf;
+sub eight by eight.tf;
+sub nine by nine.tf;
+";
+tag = tnum;
+},
+{
+automatic = 1;
+code = "lookupflag IgnoreMarks;
+sub t i by t_i.liga;
+";
+tag = liga;
+},
+{
+automatic = 1;
+code = "sub A by A.full;
+sub B by B.full;
+sub C by C.full;
+sub D by D.full;
+sub E by E.full;
+sub F by F.full;
+sub G by G.full;
+sub H by H.full;
+sub I by I.full;
+sub J by J.full;
+sub K by K.full;
+sub L by L.full;
+sub M by M.full;
+sub N by N.full;
+sub O by O.full;
+sub P by P.full;
+sub Q by Q.full;
+sub R by R.full;
+sub S by S.full;
+sub T by T.full;
+sub U by U.full;
+sub V by V.full;
+sub W by W.full;
+sub X by X.full;
+sub Y by Y.full;
+sub Z by Z.full;
+sub a by a.full;
+sub b by b.full;
+sub c by c.full;
+sub d by d.full;
+sub e by e.full;
+sub f by f.full;
+sub g by g.full;
+sub h by h.full;
+sub i by i.full;
+sub j by j.full;
+sub k by k.full;
+sub l by l.full;
+sub m by m.full;
+sub n by n.full;
+sub o by o.full;
+sub p by p.full;
+sub q by q.full;
+sub r by r.full;
+sub s by s.full;
+sub t by t.full;
+sub u by u.full;
+sub v by v.full;
+sub w by w.full;
+sub x by x.full;
+sub y by y.full;
+sub z by z.full;
+sub zero by zero.full;
+sub one by one.full;
+sub two by two.full;
+sub three by three.full;
+sub four by four.full;
+sub five by five.full;
+sub six by six.full;
+sub seven by seven.full;
+sub eight by eight.full;
+sub nine by nine.full;
+sub ampersand by ampersand.full;
+sub asterisk by asterisk.full;
+sub at by at.full;
+sub backslash by backslash.full;
+sub colon by colon.full;
+sub comma by comma.full;
+sub exclam by exclam.full;
+sub numbersign by numbersign.full;
+sub percent by percent.full;
+sub period by period.full;
+sub question by question.full;
+sub quotedbl by quotedbl.full;
+sub quotesingle by quotesingle.full;
+sub semicolon by semicolon.full;
+sub slash by slash.full;
+sub underscore by underscore.full;
+sub hyphen by hyphen.full;
+sub braceleft by braceleft.full;
+sub braceright by braceright.full;
+sub bracketleft by bracketleft.full;
+sub bracketright by bracketright.full;
+sub parenleft by parenleft.full;
+sub parenright by parenright.full;
+sub asciicircum by asciicircum.full;
+sub grave by grave.full;
+sub macron by macron.full;
+sub brokenbar by brokenbar.full;
+sub cent by cent.full;
+sub dollar by dollar.full;
+sub sterling by sterling.full;
+sub yen by yen.full;
+sub asciitilde by asciitilde.full;
+sub bar by bar.full;
+sub equal by equal.full;
+sub greater by greater.full;
+sub less by less.full;
+sub logicalnot by logicalnot.full;
+sub plus by plus.full;
+";
+tag = fwid;
+},
+{
+automatic = 1;
+code = "sub comma-han by comma-han.vert;
+sub period-han by period-han.vert;
+sub colon by colon.vert;
+sub ellipsis by ellipsis.vert;
+sub exclam by exclam.vert;
+sub question by question.vert;
+sub semicolon by semicolon.vert;
+sub comma.full by comma.full.vert;
+sub underscore.full by underscore.full.vert;
+sub emdash by emdash.vert;
+sub anglebracketleft by anglebracketleft.vert;
+sub anglebracketright by anglebracketright.vert;
+sub blacklenticularbracketleft by blacklenticularbracketleft.vert;
+sub blacklenticularbracketright by blacklenticularbracketright.vert;
+sub cornerbracketleft by cornerbracketleft.vert;
+sub cornerbracketright by cornerbracketright.vert;
+sub dblanglebracketleft by dblanglebracketleft.vert;
+sub dblanglebracketright by dblanglebracketright.vert;
+sub tortoiseshellbracketleft by tortoiseshellbracketleft.vert;
+sub tortoiseshellbracketright by tortoiseshellbracketright.vert;
+sub whitecornerbracketleft by whitecornerbracketleft.vert;
+sub whitecornerbracketright by whitecornerbracketright.vert;
+sub whitelenticularbracketleft by whitelenticularbracketleft.vert;
+sub whitelenticularbracketright by whitelenticularbracketright.vert;
+sub braceleft.full by braceleft.full.vert;
+sub braceright.full by braceright.full.vert;
+sub parenleft.full by parenleft.full.vert;
+sub parenright.full by parenright.full.vert;
+sub prolonged-kana by prolonged-kana.vert;
+";
+tag = vert;
+},
+{
+automatic = 1;
+code = "sub comma-han by comma-han.vert;
+sub period-han by period-han.vert;
+sub colon by colon.vert;
+sub ellipsis by ellipsis.vert;
+sub exclam by exclam.vert;
+sub question by question.vert;
+sub semicolon by semicolon.vert;
+sub comma.full by comma.full.vert;
+sub underscore.full by underscore.full.vert;
+sub emdash by emdash.vert;
+sub anglebracketleft by anglebracketleft.vert;
+sub anglebracketright by anglebracketright.vert;
+sub blacklenticularbracketleft by blacklenticularbracketleft.vert;
+sub blacklenticularbracketright by blacklenticularbracketright.vert;
+sub cornerbracketleft by cornerbracketleft.vert;
+sub cornerbracketright by cornerbracketright.vert;
+sub dblanglebracketleft by dblanglebracketleft.vert;
+sub dblanglebracketright by dblanglebracketright.vert;
+sub tortoiseshellbracketleft by tortoiseshellbracketleft.vert;
+sub tortoiseshellbracketright by tortoiseshellbracketright.vert;
+sub whitecornerbracketleft by whitecornerbracketleft.vert;
+sub whitecornerbracketright by whitecornerbracketright.vert;
+sub whitelenticularbracketleft by whitelenticularbracketleft.vert;
+sub whitelenticularbracketright by whitelenticularbracketright.vert;
+sub braceleft.full by braceleft.full.vert;
+sub braceright.full by braceright.full.vert;
+sub parenleft.full by parenleft.full.vert;
+sub parenright.full by parenright.full.vert;
+sub prolonged-kana by prolonged-kana.vert;
+";
+tag = vrt2;
+},
+{
+automatic = 1;
+code = "sub J by J.ss01;
+sub K by K.ss01;
+sub Q by Q.ss01;
+sub a by a.ss01;
+sub f by f.ss01;
+sub ampersand by ampersand.ss01;
+sub numero by numero.ss01;
+";
+labels = (
+{
+language = dflt;
+value = "";
+}
+);
+tag = ss01;
+},
+{
+automatic = 1;
+code = "sub f by f.ss02;
+";
+labels = (
+{
+language = dflt;
+value = "";
+}
+);
+tag = ss02;
+},
+{
+code = "sub [@allNumbers @Uppercase] @symbolflex' [@allNumbers @Uppercase] by @symbolflex.number;
+###This action is to alter symbol after uppercase and numbers by a upper version
+sub f' [i idotless iacute icaron icircumflex idieresis idotaccent idotbelow igrave ihookabove ij imacron iogonek itilde j jdotless jacute t tcaron tcedilla tcommaaccent] by f.before-it;
+###This action is to alter f before iandtgroup by fwithlogerbar
+sub t' [i idotless iacute icaron icircumflex idieresis idotaccent idotbelow igrave ihookabove ij imacron iogonek itilde j jdotless jacute t tcaron tcedilla tcommaaccent] by t.before-it;
+###This action is to alter t before iandtgroup by twithlogerbar
+
+
+";
+tag = calt;
+},
+{
+code = "sub S H D zero zero numbersign by heartBlackSuit;";
+tag = ccmp;
+}
+);
+fontMaster = (
+{
+customParameters = (
+{
+name = "Master Icon Glyph Name";
+value = uni7535;
+}
+);
+guides = (
+{
+filter = "tags CONTAINS \"guide_heng\"";
+lockAngle = 1;
+pos = (979,897);
+showMeasurement = 1;
+},
+{
+angle = 90;
+filter = "tags CONTAINS \"guide_heng\"";
+lockAngle = 1;
+pos = (924,936);
+showMeasurement = 1;
+},
+{
+locked = 1;
+pos = (63,888);
+},
+{
+locked = 1;
+pos = (63,-102);
+},
+{
+locked = 1;
+pos = (347,-80);
+},
+{
+locked = 1;
+pos = (449,856);
+},
+{
+angle = 84;
+locked = 1;
+pos = (83,206);
+},
+{
+angle = 84;
+locked = 1;
+pos = (769,39);
+},
+{
+locked = 1;
+pos = (468,900);
+},
+{
+angle = 84;
+locked = 1;
+pos = (0,177);
+},
+{
+angle = 84;
+locked = 1;
+pos = (42,198);
+},
+{
+angle = 84;
+locked = 1;
+pos = (746,180);
+},
+{
+angle = 84;
+locked = 1;
+pos = (760,592);
+},
+{
+locked = 1;
+pos = (787,-58);
+},
+{
+angle = 84;
+locked = 1;
+pos = (476,958);
+}
+);
+id = m01;
+metricValues = (
+{
+over = 10;
+pos = 810;
+},
+{
+over = 10;
+pos = 778;
+},
+{
+over = 10;
+pos = 580;
+},
+{
+},
+{
+over = -10;
+pos = -230;
+},
+{
+pos = 900;
+},
+{
+pos = -100;
+},
+{
+pos = 900;
+},
+{
+pos = -100;
+},
+{
+pos = 8;
+},
+{
+pos = 6;
+},
+{
+pos = 6;
+},
+{
+over = -10;
+pos = -30;
+},
+{
+over = 10;
+pos = 768;
+},
+{
+pos = 8;
+}
+);
+name = Regular;
+userData = {
+GSCornerRadius = 40;
+GSOffsetHorizontal = -2;
+GSOffsetKeepCompatible = 1;
+GSOffsetVertical = -1;
+};
+visible = 1;
+}
+);
+kerningLTR = {
+m01 = {
+"@MMK_L_A" = {
+"@MMK_R_A" = 20;
+"@MMK_R_H" = 0;
+"@MMK_R_O" = -20;
+"@MMK_R_S" = -10;
+"@MMK_R_T" = -70;
+"@MMK_R_U" = -20;
+"@MMK_R_V" = -60;
+"@MMK_R_Y" = -70;
+"@MMK_R_Z" = 10;
+"@MMK_R_f" = -20;
+"@MMK_R_g" = -10;
+"@MMK_R_o" = -10;
+"@MMK_R_t" = -10;
+"@MMK_R_v" = -20;
+};
+"@MMK_L_B" = {
+"@MMK_R_T" = -50;
+"@MMK_R_V" = -30;
+"@MMK_R_X" = -10;
+"@MMK_R_Y" = -40;
+"@MMK_R_Z" = 0;
+"@MMK_R_v" = -20;
+"@MMK_R_x" = -20;
+};
+"@MMK_L_C" = {
+"@MMK_R_O" = 0;
+"@MMK_R_Y" = -20;
+"@MMK_R_amper" = -10;
+};
+"@MMK_L_E" = {
+"@MMK_R_A" = 10;
+"@MMK_R_O" = -10;
+"@MMK_R_T" = 10;
+"@MMK_R_X" = 20;
+"@MMK_R_Z" = 20;
+"@MMK_R_z" = 10;
+};
+"@MMK_L_F" = {
+"@MMK_R_A" = -40;
+"@MMK_R_O" = -10;
+"@MMK_R_T" = 20;
+"@MMK_R_V" = 10;
+"@MMK_R_X" = 20;
+"@MMK_R_Y" = 10;
+"@MMK_R_Z" = 20;
+"@MMK_R_amper" = -20;
+"@MMK_R_g" = -10;
+"@MMK_R_o" = -30;
+"@MMK_R_s" = -20;
+"@MMK_R_x" = -10;
+};
+"@MMK_L_G" = {
+"@MMK_R_A" = 10;
+"@MMK_R_T" = -40;
+"@MMK_R_V" = -30;
+"@MMK_R_n" = 7;
+"@MMK_R_v" = -20;
+};
+"@MMK_L_H" = {
+"@MMK_R_T" = -20;
+"@MMK_R_X" = -10;
+"@MMK_R_g" = -10;
+"@MMK_R_o" = -10;
+"@MMK_R_v" = -10;
+"@MMK_R_x" = -10;
+"@MMK_R_z" = -20;
+};
+"@MMK_L_J" = {
+"@MMK_R_Y" = -10;
+};
+"@MMK_L_K" = {
+"@MMK_R_O" = -40;
+"@MMK_R_V" = 0;
+"@MMK_R_amper" = -20;
+"@MMK_R_g" = -30;
+"@MMK_R_n" = -20;
+"@MMK_R_o" = -30;
+"@MMK_R_s" = -20;
+"@MMK_R_t" = -20;
+"@MMK_R_v" = -50;
+};
+"@MMK_L_L" = {
+"@MMK_R_A" = 20;
+"@MMK_R_H" = -10;
+"@MMK_R_O" = -50;
+"@MMK_R_S" = -30;
+"@MMK_R_T" = -100;
+"@MMK_R_U" = -30;
+"@MMK_R_V" = -80;
+"@MMK_R_Y" = -110;
+"@MMK_R_Z" = 10;
+"@MMK_R_amper" = -30;
+"@MMK_R_o" = -30;
+"@MMK_R_s" = -10;
+"@MMK_R_t" = -20;
+"@MMK_R_v" = -70;
+};
+"@MMK_L_O" = {
+"@MMK_R_A" = 0;
+"@MMK_R_S" = -10;
+"@MMK_R_T" = -40;
+"@MMK_R_V" = -13;
+"@MMK_R_X" = -20;
+"@MMK_R_Y" = -40;
+"@MMK_R_Z" = -10;
+"@MMK_R_amper" = -20;
+"@MMK_R_o" = -8;
+"@MMK_R_s" = -10;
+"@MMK_R_x" = -10;
+"@MMK_R_z" = -10;
+};
+"@MMK_L_P" = {
+"@MMK_R_A" = -50;
+"@MMK_R_S" = -10;
+"@MMK_R_T" = -20;
+"@MMK_R_X" = -30;
+"@MMK_R_Y" = -20;
+"@MMK_R_Z" = -20;
+"@MMK_R_amper" = -30;
+"@MMK_R_o" = -20;
+"@MMK_R_t" = 20;
+};
+"@MMK_L_Q" = {
+"@MMK_R_A" = -20;
+"@MMK_R_H" = -10;
+"@MMK_R_O" = -10;
+"@MMK_R_S" = -20;
+"@MMK_R_T" = -50;
+"@MMK_R_U" = -20;
+"@MMK_R_V" = -30;
+"@MMK_R_Y" = -40;
+"@MMK_R_Z" = -10;
+"@MMK_R_i" = -20;
+"@MMK_R_n" = -11;
+"@MMK_R_o" = -30;
+};
+"@MMK_L_R" = {
+"@MMK_R_O" = -10;
+"@MMK_R_S" = -10;
+"@MMK_R_T" = -30;
+"@MMK_R_V" = -20;
+"@MMK_R_Y" = -30;
+"@MMK_R_g" = -20;
+"@MMK_R_o" = -20;
+"@MMK_R_s" = -10;
+};
+"@MMK_L_S" = {
+"@MMK_R_A" = -10;
+"@MMK_R_H" = -10;
+"@MMK_R_J" = -20;
+"@MMK_R_O" = -20;
+"@MMK_R_T" = -30;
+"@MMK_R_V" = -30;
+"@MMK_R_X" = -20;
+"@MMK_R_Y" = -40;
+"@MMK_R_Z" = -10;
+"@MMK_R_g" = -10;
+"@MMK_R_i" = -20;
+"@MMK_R_j" = -10;
+"@MMK_R_l" = -20;
+"@MMK_R_n" = -20;
+"@MMK_R_o" = -20;
+"@MMK_R_s" = -10;
+"@MMK_R_t" = -20;
+"@MMK_R_v" = -30;
+"@MMK_R_z" = -10;
+};
+"@MMK_L_T" = {
+"@MMK_R_A" = -70;
+"@MMK_R_H" = -20;
+"@MMK_R_O" = -20;
+"@MMK_R_S" = -10;
+"@MMK_R_T" = 20;
+"@MMK_R_U" = -10;
+"@MMK_R_V" = 20;
+"@MMK_R_X" = 20;
+"@MMK_R_Y" = 20;
+"@MMK_R_Z" = 20;
+"@MMK_R_amper" = -30;
+"@MMK_R_g" = -37;
+"@MMK_R_l" = -20;
+"@MMK_R_n" = -40;
+"@MMK_R_o" = -60;
+"@MMK_R_s" = -30;
+"@MMK_R_v" = -10;
+"@MMK_R_x" = -10;
+"@MMK_R_z" = -20;
+};
+"@MMK_L_U" = {
+"@MMK_R_A" = -10;
+"@MMK_R_T" = -10;
+};
+"@MMK_L_V" = {
+"@MMK_R_A" = -40;
+"@MMK_R_O" = -8;
+"@MMK_R_S" = -20;
+"@MMK_R_T" = 20;
+"@MMK_R_V" = 20;
+"@MMK_R_X" = 10;
+"@MMK_R_Z" = 10;
+"@MMK_R_amper" = -40;
+"@MMK_R_g" = -20;
+"@MMK_R_o" = -30;
+"@MMK_R_s" = -20;
+"@MMK_R_z" = -20;
+};
+"@MMK_L_X" = {
+"@MMK_R_H" = -10;
+"@MMK_R_O" = -20;
+"@MMK_R_S" = -20;
+"@MMK_R_T" = 0;
+"@MMK_R_amper" = -30;
+"@MMK_R_n" = -10;
+"@MMK_R_o" = -20;
+"@MMK_R_s" = -10;
+"@MMK_R_t" = -20;
+"@MMK_R_v" = -30;
+};
+"@MMK_L_Y" = {
+"@MMK_R_A" = -40;
+"@MMK_R_O" = -10;
+"@MMK_R_S" = -20;
+"@MMK_R_T" = 20;
+"@MMK_R_Z" = 10;
+"@MMK_R_amper" = -50;
+"@MMK_R_g" = -50;
+"@MMK_R_n" = -20;
+"@MMK_R_o" = -40;
+"@MMK_R_s" = -30;
+"@MMK_R_v" = -20;
+"@MMK_R_x" = -10;
+"@MMK_R_z" = -20;
+};
+"@MMK_L_Z" = {
+"@MMK_R_A" = 10;
+"@MMK_R_O" = -10;
+"@MMK_R_S" = -10;
+"@MMK_R_T" = 10;
+"@MMK_R_V" = 10;
+"@MMK_R_amper" = -30;
+"@MMK_R_o" = -20;
+"@MMK_R_s" = -10;
+};
+"@MMK_L_amper" = {
+"@MMK_R_O" = -10;
+"@MMK_R_T" = -70;
+"@MMK_R_U" = -10;
+"@MMK_R_V" = -60;
+"@MMK_R_Y" = -60;
+};
+"@MMK_L_c" = {
+"@MMK_R_Y" = -50;
+"@MMK_R_j" = -10;
+"@MMK_R_n" = 0;
+"@MMK_R_o" = -10;
+"@MMK_R_v" = -10;
+};
+"@MMK_L_e" = {
+"@MMK_R_V" = -30;
+"@MMK_R_Y" = -40;
+"@MMK_R_j" = -10;
+"@MMK_R_l" = -10;
+"@MMK_R_o" = -10;
+"@MMK_R_s" = -20;
+"@MMK_R_t" = 0;
+"@MMK_R_v" = -10;
+"@MMK_R_x" = -20;
+};
+"@MMK_L_eight" = {
+"@MMK_R_eight" = -10;
+"@MMK_R_five" = -10;
+"@MMK_R_nine" = -30;
+"@MMK_R_one" = -10;
+"@MMK_R_seven" = -20;
+"@MMK_R_zero" = -20;
+};
+"@MMK_L_f" = {
+"@MMK_R_A" = -20;
+"@MMK_R_V" = 10;
+"@MMK_R_f" = -30;
+"@MMK_R_f1" = -20;
+"@MMK_R_g" = -20;
+"@MMK_R_l" = -10;
+"@MMK_R_o" = -20;
+"@MMK_R_s" = -10;
+"@MMK_R_t" = -20;
+"@MMK_R_v" = 10;
+"f.before-it" = -30;
+icaron = 60;
+icircumflex = 50;
+idieresis = 0;
+igrave = 50;
+ihookabove = 20;
+imacron = 50;
+itilde = 40;
+};
+"@MMK_L_five" = {
+"@MMK_R_nine" = -30;
+"@MMK_R_one" = -10;
+"@MMK_R_seven" = -20;
+"@MMK_R_six" = 0;
+"@MMK_R_three" = -10;
+};
+"@MMK_L_four" = {
+"@MMK_R_eight" = 0;
+"@MMK_R_seven" = -20;
+"@MMK_R_three" = 0;
+"@MMK_R_zero" = -10;
+};
+"@MMK_L_g" = {
+"@MMK_R_T" = -30;
+"@MMK_R_V" = -10;
+"@MMK_R_Y" = -30;
+"@MMK_R_g" = -10;
+"@MMK_R_o" = -10;
+"@MMK_R_s" = -10;
+"@MMK_R_v" = -10;
+"@MMK_R_x" = -14;
+};
+"@MMK_L_i" = {
+"@MMK_R_i" = 0;
+"@MMK_R_n" = 10;
+"@MMK_R_s" = -10;
+};
+"@MMK_L_k" = {
+"@MMK_R_H" = -10;
+"@MMK_R_O" = -20;
+"@MMK_R_S" = -10;
+"@MMK_R_U" = -10;
+"@MMK_R_V" = -10;
+"@MMK_R_Y" = -10;
+"@MMK_R_Z" = 10;
+"@MMK_R_f" = 20;
+"@MMK_R_g" = -30;
+"@MMK_R_o" = -30;
+"@MMK_R_s" = -17;
+"@MMK_R_t" = 20;
+};
+"@MMK_L_l" = {
+"@MMK_R_g" = -10;
+"@MMK_R_l" = 10;
+"@MMK_R_o" = -10;
+"@MMK_R_s" = -10;
+"@MMK_R_v" = -10;
+};
+"@MMK_L_n" = {
+"@MMK_R_T" = -40;
+"@MMK_R_Y" = -40;
+"@MMK_R_g" = -10;
+"@MMK_R_i" = 10;
+"@MMK_R_n" = 10;
+"@MMK_R_o" = 0;
+"@MMK_R_s" = -10;
+"@MMK_R_v" = -10;
+"@MMK_R_x" = -10;
+};
+"@MMK_L_nine" = {
+"@MMK_R_four" = 0;
+"@MMK_R_nine" = -10;
+"@MMK_R_seven" = -10;
+};
+"@MMK_L_o" = {
+"@MMK_R_A" = -10;
+"@MMK_R_S" = -10;
+"@MMK_R_T" = -30;
+"@MMK_R_V" = -30;
+"@MMK_R_X" = -20;
+"@MMK_R_Y" = -40;
+"@MMK_R_Z" = -10;
+"@MMK_R_f" = -20;
+"@MMK_R_g" = -20;
+"@MMK_R_j" = -20;
+"@MMK_R_l" = -10;
+"@MMK_R_n" = -10;
+"@MMK_R_o" = -10;
+"@MMK_R_s" = -20;
+"@MMK_R_t" = -10;
+"@MMK_R_u" = -20;
+"@MMK_R_v" = -26;
+"@MMK_R_x" = -30;
+"@MMK_R_z" = -20;
+};
+"@MMK_L_one" = {
+"@MMK_R_nine" = -30;
+};
+"@MMK_L_r" = {
+"@MMK_R_X" = -10;
+"@MMK_R_Y" = -10;
+"@MMK_R_Z" = -10;
+"@MMK_R_f" = 10;
+"@MMK_R_g" = -10;
+"@MMK_R_l" = -10;
+"@MMK_R_o" = -30;
+"@MMK_R_t" = 10;
+};
+"@MMK_L_s" = {
+"@MMK_R_H" = -10;
+"@MMK_R_T" = -30;
+"@MMK_R_V" = -20;
+"@MMK_R_X" = -10;
+"@MMK_R_Y" = -30;
+"@MMK_R_g" = -10;
+"@MMK_R_l" = -10;
+"@MMK_R_o" = -10;
+"@MMK_R_s" = -10;
+"@MMK_R_v" = -10;
+"@MMK_R_x" = -20;
+};
+"@MMK_L_seven" = {
+"@MMK_R_eight" = -10;
+"@MMK_R_five" = -10;
+"@MMK_R_four" = -60;
+"@MMK_R_nine" = -20;
+"@MMK_R_six" = -10;
+"@MMK_R_three" = 0;
+"@MMK_R_zero" = -10;
+asciitilde.number = -30;
+greater.number = -10;
+hyphen.number = -20;
+less.number = -20;
+};
+"@MMK_L_six" = {
+"@MMK_R_five" = -10;
+"@MMK_R_nine" = -30;
+"@MMK_R_one" = -10;
+"@MMK_R_seven" = -20;
+"@MMK_R_six" = -10;
+"@MMK_R_three" = -10;
+"@MMK_R_two" = -10;
+"@MMK_R_zero" = -10;
+};
+"@MMK_L_t" = {
+"@MMK_R_A" = 20;
+"@MMK_R_O" = -10;
+"@MMK_R_T" = -20;
+"@MMK_R_X" = -4;
+"@MMK_R_Y" = -20;
+"@MMK_R_g" = -31;
+"@MMK_R_l" = -10;
+"@MMK_R_n" = -10;
+"@MMK_R_o" = -30;
+"@MMK_R_s" = -20;
+"@MMK_R_v" = -10;
+"@MMK_R_x" = -10;
+tbar = 0;
+};
+"@MMK_L_three" = {
+"@MMK_R_nine" = -20;
+"@MMK_R_seven" = -10;
+"@MMK_R_two" = -20;
+"@MMK_R_zero" = -10;
+};
+"@MMK_L_two" = {
+"@MMK_R_four" = -20;
+"@MMK_R_nine" = -10;
+"@MMK_R_seven" = -10;
+"@MMK_R_three" = -10;
+"@MMK_R_zero" = -10;
+};
+"@MMK_L_v" = {
+"@MMK_R_A" = -20;
+"@MMK_R_H" = -10;
+"@MMK_R_T" = -10;
+"@MMK_R_X" = -20;
+"@MMK_R_Y" = -20;
+"@MMK_R_f" = 10;
+"@MMK_R_g" = -20;
+"@MMK_R_l" = 0;
+"@MMK_R_n" = 10;
+"@MMK_R_o" = -10;
+"@MMK_R_s" = -20;
+"@MMK_R_t" = 14;
+"@MMK_R_x" = -10;
+"@MMK_R_z" = -10;
+};
+"@MMK_L_x" = {
+"@MMK_R_O" = -10;
+"@MMK_R_T" = -10;
+"@MMK_R_Y" = -10;
+"@MMK_R_g" = -20;
+"@MMK_R_n" = -7;
+"@MMK_R_o" = -20;
+"@MMK_R_s" = -20;
+"@MMK_R_t" = 6;
+"@MMK_R_v" = -10;
+};
+"@MMK_L_z" = {
+"@MMK_R_A" = 10;
+"@MMK_R_H" = -10;
+"@MMK_R_O" = -10;
+"@MMK_R_V" = -20;
+"@MMK_R_Y" = -30;
+"@MMK_R_g" = -30;
+"@MMK_R_o" = -20;
+};
+"@MMK_L_zero" = {
+"@MMK_R_eight" = -10;
+"@MMK_R_five" = -10;
+"@MMK_R_nine" = -20;
+"@MMK_R_seven" = -30;
+"@MMK_R_three" = -10;
+"@MMK_R_two" = -30;
+};
+asciitilde.number = {
+"@MMK_R_seven" = -30;
+};
+asterisk = {
+"@MMK_R_seven" = -20;
+};
+backslash = {
+backslash = -70;
+};
+"f.before-it" = {
+"@MMK_R_t" = -20;
+"f.before-it" = -20;
+};
+greater.number = {
+"@MMK_R_seven" = -30;
+};
+hyphen.number = {
+"@MMK_R_seven" = -30;
+};
+less.number = {
+"@MMK_R_seven" = -20;
+};
+slash = {
+slash = -160;
+};
+"t.before-it" = {
+"@MMK_R_t" = -20;
+};
+};
+};
+metrics = (
+{
+type = ascender;
+},
+{
+type = "cap height";
+},
+{
+type = "x-height";
+},
+{
+type = baseline;
+},
+{
+type = descender;
+},
+{
+filter = "script == \"han\"";
+name = "汉字";
+type = ascender;
+},
+{
+filter = "script == \"han\"";
+name = "汉字";
+type = descender;
+},
+{
+filter = "script == \"kana\"";
+name = "假名";
+type = ascender;
+},
+{
+filter = "script == \"kana\"";
+name = "假名";
+type = descender;
+},
+{
+filter = "script == \"latin\"";
+name = "西文斜度";
+type = "italic angle";
+},
+{
+filter = "script == \"han\"";
+name = "汉字斜度";
+type = "italic angle";
+},
+{
+filter = "script == \"kana\"";
+name = "假名斜度";
+type = "italic angle";
+},
+{
+name = Latin;
+type = baseline;
+},
+{
+filter = "category == \"Number\"";
+name = Number;
+type = "cap height";
+},
+{
+filter = "category == \"Number\"";
+name = Number;
+type = "italic angle";
+}
+);
+properties = (
+{
+key = familyNames;
+values = (
+{
+language = ZHS;
+value = "得意黑";
+}
+);
+},
+{
+key = designers;
+values = (
+{
+language = ENG;
+value = "oooooohmygosh, Nagisa Chen, Janine Sui, Heda Shi, Jian Li
+";
+}
+);
+},
+{
+key = designerURL;
+value = "https://atelier-anchor.com/";
+},
+{
+key = manufacturers;
+values = (
+{
+language = ENG;
+value = "atelierAnchor
+";
+}
+);
+},
+{
+key = manufacturerURL;
+value = "https://atelier-anchor.com/";
+},
+{
+key = copyrights;
+values = (
+{
+language = ENG;
+value = "Copyright © 2022 atelierAnchor. All rights reserved.
+";
+}
+);
+},
+{
+key = licenses;
+values = (
+{
+language = ENG;
+value = "This Font Software is licensed under the SIL Open Font License, Version 1.1. This Font Software is distributed on an \"AS IS\" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the SIL Open Font License for the specific language, permissions and limitations governing your use of this Font Software.
+";
+}
+);
+},
+{
+key = licenseURL;
+value = "http://scripts.sil.org/OFL";
+},
+{
+key = postscriptFontName;
+value = "Smiley Sans Slanted";
+}
+);
+unitsPerEm = 1000;
+userData = {
+GSDimensionPlugin.Dimensions = {
+m01 = {
+HH = "95";
+HV = "100";
+OH = "95";
+OV = "108";
+};
+};
+};
+versionMajor = 1;
+versionMinor = 0;
+}

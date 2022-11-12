@@ -1,0 +1,44 @@
+{
+glyphname = parenright;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(108,788,l),
+(144,685,o),
+(162,576,o),
+(162,468,cs),
+(162,242,o),
+(75,19,o),
+(-60,-138,c),
+(7,-190,l),
+(154,-21,o),
+(246,215,o),
+(246,458,cs),
+(246,576,o),
+(230,695,o),
+(192,814,c)
+);
+}
+);
+width = 313;
+},
+{
+associatedMasterId = m01;
+layerId = "627D53DC-FA69-448B-93AA-45B0E45E4FDC";
+name = "Oct 28, 22, 13:51";
+shapes = (
+{
+angle = 180;
+pos = (373,620);
+ref = parenleft;
+}
+);
+width = 373;
+}
+);
+unicode = 41;
+}

@@ -1,0 +1,35 @@
+{
+color = 6;
+glyphname = "ten-han.paren";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = _part.paren;
+},
+{
+closed = 1;
+nodes = (
+(401,25,l),
+(478,783,l),
+(387,783,l),
+(310,25,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(148,496,l),
+(138,409,l),
+(654,409,l),
+(664,496,l)
+);
+}
+);
+width = 800;
+}
+);
+unicode = 12841;
+}

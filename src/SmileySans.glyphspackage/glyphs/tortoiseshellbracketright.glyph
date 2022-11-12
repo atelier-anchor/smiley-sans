@@ -1,0 +1,25 @@
+{
+glyphname = tortoiseshellbracketright;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(234,880,l),
+(170,836,l),
+(271,701,l),
+(177,50,l),
+(50,-73,l),
+(105,-120,l),
+(264,21,l),
+(364,718,l)
+);
+}
+);
+width = 800;
+}
+);
+unicode = 12309;
+}

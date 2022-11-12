@@ -1,0 +1,17 @@
+{
+color = 1;
+glyphname = reverseslashsmall;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+pos = (50,0);
+ref = backslash;
+}
+);
+width = 400;
+}
+);
+unicode = 65128;
+}

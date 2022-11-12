@@ -1,0 +1,27 @@
+{
+glyphname = "seven-roman";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (70,0);
+ref = v;
+},
+{
+alignment = -1;
+pos = (483,0);
+ref = i;
+},
+{
+alignment = -1;
+pos = (676,0);
+ref = i;
+}
+);
+width = 939;
+}
+);
+unicode = 8566;
+}

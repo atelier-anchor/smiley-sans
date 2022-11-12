@@ -1,0 +1,17 @@
+{
+color = 2;
+glyphname = four.tf;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (20,0);
+ref = four.lf;
+}
+);
+width = 470;
+}
+);
+}

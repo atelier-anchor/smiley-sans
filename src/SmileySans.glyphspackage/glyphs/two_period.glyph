@@ -1,0 +1,21 @@
+{
+color = 6;
+glyphname = two_period;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+pos = (586,0);
+ref = period;
+},
+{
+pos = (189,0);
+ref = two;
+}
+);
+width = 800;
+}
+);
+unicode = 9353;
+}

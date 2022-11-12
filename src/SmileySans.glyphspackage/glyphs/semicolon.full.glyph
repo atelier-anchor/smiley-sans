@@ -1,0 +1,17 @@
+{
+color = 6;
+glyphname = semicolon.full;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+pos = (93,0);
+ref = semicolon;
+}
+);
+width = 800;
+}
+);
+unicode = 65307;
+}

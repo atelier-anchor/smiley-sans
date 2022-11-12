@@ -1,0 +1,18 @@
+{
+color = 1;
+glyphname = dollarsmall;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+pos = (5,0);
+ref = dollar;
+scale = (0.866,1);
+}
+);
+width = 400;
+}
+);
+unicode = 65129;
+}

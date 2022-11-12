@@ -1,0 +1,17 @@
+{
+color = 2;
+glyphname = six.tf;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (-11,0);
+ref = six.lf;
+}
+);
+width = 470;
+}
+);
+}

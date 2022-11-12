@@ -1,0 +1,27 @@
+{
+color = 8;
+glyphname = question.vert;
+layers = (
+{
+anchors = (
+{
+name = BSB;
+pos = (400,-100);
+},
+{
+name = TSB;
+pos = (400,900);
+}
+);
+layerId = m01;
+shapes = (
+{
+pos = (323,0);
+ref = question;
+}
+);
+width = 800;
+}
+);
+unicode = 65046;
+}

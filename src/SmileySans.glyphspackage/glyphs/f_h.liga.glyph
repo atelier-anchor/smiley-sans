@@ -1,0 +1,13 @@
+{
+color = 1;
+export = 0;
+glyphname = f_h.liga;
+layers = (
+{
+layerId = m01;
+width = 693;
+}
+);
+metricLeft = f;
+metricRight = n;
+}

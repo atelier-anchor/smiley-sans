@@ -1,0 +1,17 @@
+{
+color = 2;
+glyphname = two.tf;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (29,0);
+ref = two.lf;
+}
+);
+width = 470;
+}
+);
+}

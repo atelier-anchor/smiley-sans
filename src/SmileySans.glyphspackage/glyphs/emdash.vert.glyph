@@ -1,0 +1,32 @@
+{
+color = 8;
+glyphname = emdash.vert;
+layers = (
+{
+anchors = (
+{
+name = BSB;
+pos = (400,-100);
+},
+{
+name = TSB;
+pos = (400,900);
+}
+);
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(367,830,l),
+(367,-40,l),
+(435,-40,l),
+(435,830,l)
+);
+}
+);
+width = 800;
+}
+);
+unicode = 65073;
+}

@@ -1,0 +1,31 @@
+{
+color = 8;
+glyphname = twodotleader.vert;
+layers = (
+{
+anchors = (
+{
+name = BSB;
+pos = (400,-100);
+},
+{
+name = TSB;
+pos = (400,900);
+}
+);
+layerId = m01;
+shapes = (
+{
+pos = (315,610);
+ref = period;
+},
+{
+pos = (315,70);
+ref = period;
+}
+);
+width = 800;
+}
+);
+unicode = 65072;
+}

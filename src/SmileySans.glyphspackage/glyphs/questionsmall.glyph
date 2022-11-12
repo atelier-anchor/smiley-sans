@@ -1,0 +1,17 @@
+{
+color = 1;
+glyphname = questionsmall;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+pos = (-43,0);
+ref = question;
+}
+);
+width = 400;
+}
+);
+unicode = 65110;
+}

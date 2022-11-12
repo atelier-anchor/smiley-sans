@@ -1,0 +1,17 @@
+{
+color = 6;
+glyphname = cent.full;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+pos = (177,0);
+ref = cent;
+}
+);
+width = 800;
+}
+);
+unicode = 65504;
+}

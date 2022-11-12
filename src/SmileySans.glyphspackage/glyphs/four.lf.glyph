@@ -1,0 +1,40 @@
+{
+color = 1;
+glyphname = four.lf;
+kernLeft = four;
+kernRight = four;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(311,636,o),
+(293,540,o),
+(285,487,cs),
+(211,-30,l),
+(313,-30,l),
+(426,778,l),
+(320,778,l),
+(231,614,o),
+(107,414,o),
+(7,263,c),
+(-4,182,l),
+(404,182,l),
+(418,277,l),
+(51,277,l),
+(86,239,l),
+(171,368,o),
+(274,539,o),
+(349,683,c),
+(322,679,l)
+);
+}
+);
+width = 444;
+}
+);
+metricLeft = four;
+metricRight = four;
+}

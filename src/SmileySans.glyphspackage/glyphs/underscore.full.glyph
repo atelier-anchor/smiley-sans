@@ -1,0 +1,22 @@
+{
+color = 6;
+glyphname = underscore.full;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(-10,-230,l),
+(800,-230,l),
+(810,-162,l),
+(0,-162,l)
+);
+}
+);
+width = 800;
+}
+);
+unicode = 65343;
+}

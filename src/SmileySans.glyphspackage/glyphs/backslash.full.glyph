@@ -1,0 +1,22 @@
+{
+color = 6;
+glyphname = backslash.full;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(709,-80,l),
+(184,856,l),
+(92,856,l),
+(617,-80,l)
+);
+}
+);
+width = 800;
+}
+);
+unicode = 65340;
+}

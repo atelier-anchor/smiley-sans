@@ -1,0 +1,73 @@
+{
+glyphname = L;
+kernLeft = H;
+kernRight = L;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (178,-30);
+},
+{
+name = top;
+pos = (193,778);
+},
+{
+name = topright;
+pos = (317,778);
+}
+);
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(224,778,l),
+(124,778,l),
+(11,-30,l),
+(111,-30,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(46,-30,l),
+(346,-30,l),
+(359,65,l),
+(58,65,l)
+);
+}
+);
+width = 408;
+},
+{
+associatedMasterId = m01;
+layerId = "A0267C48-6720-4960-8E02-C63603C8C38C";
+name = "Oct 12, 22, 16:01";
+shapes = (
+{
+closed = 1;
+nodes = (
+(237,778,l),
+(134,778,l),
+(21,-30,l),
+(124,-30,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(59,-30,l),
+(355,-30,l),
+(367,62,l),
+(71,62,l)
+);
+}
+);
+width = 420;
+}
+);
+metricLeft = H;
+unicode = 76;
+}

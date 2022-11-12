@@ -1,0 +1,21 @@
+{
+glyphname = ocircumflexgrave;
+kernLeft = o;
+kernRight = o;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = o;
+},
+{
+pos = (-141,0);
+ref = circumflexcomb_gravecomb;
+}
+);
+width = 460;
+}
+);
+unicode = 7891;
+}

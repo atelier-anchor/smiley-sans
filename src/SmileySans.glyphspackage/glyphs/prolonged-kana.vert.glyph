@@ -1,0 +1,20 @@
+{
+glyphname = "prolonged-kana.vert";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(457,745,l),
+(362,745,l),
+(362,29,l),
+(457,29,l)
+);
+}
+);
+width = 800;
+}
+);
+}

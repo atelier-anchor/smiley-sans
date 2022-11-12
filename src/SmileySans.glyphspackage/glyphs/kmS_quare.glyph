@@ -1,0 +1,23 @@
+{
+color = 6;
+glyphname = kmSquare;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+pos = (-30,0);
+ref = k;
+scale = (0.8323,1);
+},
+{
+pos = (269,0);
+ref = m;
+scale = (0.8323,1);
+}
+);
+width = 800;
+}
+);
+unicode = 13214;
+}

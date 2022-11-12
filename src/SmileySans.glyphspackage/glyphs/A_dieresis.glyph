@@ -1,0 +1,21 @@
+{
+glyphname = Adieresis;
+kernLeft = A;
+kernRight = A;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = A;
+},
+{
+pos = (17,0);
+ref = dieresiscomb.case;
+}
+);
+width = 497;
+}
+);
+unicode = 196;
+}

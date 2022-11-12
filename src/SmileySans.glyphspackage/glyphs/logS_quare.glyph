@@ -1,0 +1,31 @@
+{
+color = 6;
+glyphname = logSquare;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+pos = (-28,0);
+ref = l;
+scale = (0.8411,1);
+slant = (1.1625,0);
+},
+{
+pos = (89,0);
+ref = o;
+scale = (0.8411,1);
+slant = (1.1625,0);
+},
+{
+pos = (435,0);
+ref = g;
+scale = (0.8411,1);
+slant = (1.1625,0);
+}
+);
+width = 800;
+}
+);
+unicode = 13266;
+}

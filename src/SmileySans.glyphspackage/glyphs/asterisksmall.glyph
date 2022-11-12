@@ -1,0 +1,17 @@
+{
+color = 1;
+glyphname = asterisksmall;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+pos = (-48,0);
+ref = asterisk;
+}
+);
+width = 400;
+}
+);
+unicode = 65121;
+}

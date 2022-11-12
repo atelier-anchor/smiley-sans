@@ -1,0 +1,52 @@
+{
+export = 0;
+glyphname = gravecomb;
+layers = (
+{
+anchors = (
+{
+name = _top;
+pos = (277,580);
+}
+);
+associatedMasterId = m01;
+layerId = "6A6BD067-6B60-4DE5-A3E3-2FEE01267C21";
+name = "Oct 13, 22, 15:43";
+shapes = (
+{
+closed = 1;
+nodes = (
+(181,807,l),
+(284,660,l),
+(352,675,l),
+(277,824,l)
+);
+}
+);
+width = 600;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (277,580);
+}
+);
+layerId = m01;
+name = Regular;
+shapes = (
+{
+closed = 1;
+nodes = (
+(162,807,l),
+(263,664,l),
+(343,664,l),
+(268,807,l)
+);
+}
+);
+width = 600;
+}
+);
+unicode = 768;
+}

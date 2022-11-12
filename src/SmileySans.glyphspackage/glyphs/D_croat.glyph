@@ -1,0 +1,15 @@
+{
+glyphname = Dcroat;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = Eth;
+}
+);
+width = 525;
+}
+);
+unicode = 272;
+}

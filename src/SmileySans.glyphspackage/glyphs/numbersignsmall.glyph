@@ -1,0 +1,19 @@
+{
+color = 1;
+glyphname = numbersignsmall;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+pos = (-19,0);
+ref = numbersign;
+scale = (0.8204,1);
+slant = (1.1751,0);
+}
+);
+width = 400;
+}
+);
+unicode = 65119;
+}

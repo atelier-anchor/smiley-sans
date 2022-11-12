@@ -1,0 +1,32 @@
+{
+export = 0;
+glyphname = circumflexcomb_tildecomb.case;
+layers = (
+{
+anchors = (
+{
+name = _top;
+pos = (307,778);
+},
+{
+name = top;
+pos = (336,914);
+}
+);
+layerId = m01;
+shapes = (
+{
+pos = (-20,237);
+ref = circumflexcomb;
+scale = (1,0.8959);
+},
+{
+pos = (33,387);
+ref = tildecomb;
+scale = (1,0.8959);
+}
+);
+width = 600;
+}
+);
+}

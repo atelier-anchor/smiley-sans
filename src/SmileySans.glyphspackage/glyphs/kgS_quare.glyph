@@ -1,0 +1,21 @@
+{
+color = 6;
+glyphname = kgSquare;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+pos = (7,0);
+ref = k;
+},
+{
+pos = (337,0);
+ref = g;
+}
+);
+width = 800;
+}
+);
+unicode = 13199;
+}

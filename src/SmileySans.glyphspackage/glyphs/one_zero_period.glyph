@@ -1,0 +1,26 @@
+{
+color = 6;
+glyphname = one_zero_period;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+pos = (586,0);
+ref = period;
+},
+{
+pos = (7,0);
+ref = one;
+},
+{
+alignment = -1;
+pos = (204,0);
+ref = zero;
+}
+);
+width = 800;
+}
+);
+unicode = 9361;
+}

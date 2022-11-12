@@ -1,0 +1,45 @@
+{
+color = 8;
+glyphname = dblanglebracketright.vert;
+layers = (
+{
+anchors = (
+{
+name = BSB;
+pos = (400,-100);
+},
+{
+name = TSB;
+pos = (400,900);
+}
+);
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(770,639,l),
+(781,718,l),
+(350,532,l),
+(-28,720,l),
+(-40,640,l),
+(339,452,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(750,498,l),
+(761,577,l),
+(330,392,l),
+(-48,579,l),
+(-59,500,l),
+(319,311,l)
+);
+}
+);
+width = 800;
+}
+);
+unicode = 65086;
+}

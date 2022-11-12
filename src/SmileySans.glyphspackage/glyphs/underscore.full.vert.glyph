@@ -1,0 +1,32 @@
+{
+color = 8;
+glyphname = underscore.full.vert;
+layers = (
+{
+anchors = (
+{
+name = BSB;
+pos = (400,-100);
+},
+{
+name = TSB;
+pos = (400,900);
+}
+);
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(0,900,l),
+(0,-100,l),
+(68,-100,l),
+(68,900,l)
+);
+}
+);
+width = 800;
+}
+);
+unicode = 65075;
+}

@@ -1,0 +1,18 @@
+{
+color = 1;
+glyphname = ampersandsmall;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+pos = (-36,0);
+ref = ampersand;
+scale = (0.7974,1);
+}
+);
+width = 400;
+}
+);
+unicode = 65120;
+}

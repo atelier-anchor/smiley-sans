@@ -1,0 +1,21 @@
+{
+glyphname = amacron;
+kernLeft = o;
+kernRight = n;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = a;
+},
+{
+pos = (8,0);
+ref = macroncomb;
+}
+);
+width = 455;
+}
+);
+unicode = 257;
+}

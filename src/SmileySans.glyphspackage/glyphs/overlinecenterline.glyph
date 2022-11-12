@@ -1,0 +1,17 @@
+{
+color = 6;
+glyphname = overlinecenterline;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+pos = (0,868);
+ref = lowlinecenterline;
+}
+);
+width = 800;
+}
+);
+unicode = 65098;
+}

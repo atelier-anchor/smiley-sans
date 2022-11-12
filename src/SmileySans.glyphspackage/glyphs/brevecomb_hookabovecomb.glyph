@@ -1,0 +1,26 @@
+{
+export = 0;
+glyphname = brevecomb_hookabovecomb;
+layers = (
+{
+anchors = (
+{
+name = _top;
+pos = (369,778);
+}
+);
+layerId = m01;
+shapes = (
+{
+pos = (87,191);
+ref = brevecomb;
+},
+{
+pos = (101,335);
+ref = hookabovecomb;
+}
+);
+width = 600;
+}
+);
+}

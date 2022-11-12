@@ -1,0 +1,35 @@
+{
+color = 1;
+glyphname = one.lf;
+kernLeft = one;
+kernRight = one;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(276,773,l),
+(209,778,l),
+(177,751,o),
+(113,723,o),
+(75,723,c),
+(94,771,l),
+(82,591,l),
+(62,641,l),
+(113,638,o),
+(168,652,o),
+(203,670,c),
+(164,693,l),
+(63,-30,l),
+(163,-30,l)
+);
+}
+);
+width = 288;
+}
+);
+metricLeft = one;
+metricRight = one;
+}

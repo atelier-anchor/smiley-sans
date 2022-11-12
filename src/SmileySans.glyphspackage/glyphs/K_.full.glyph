@@ -1,0 +1,18 @@
+{
+color = 6;
+glyphname = K.full;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (153,0);
+ref = K;
+}
+);
+width = 800;
+}
+);
+unicode = 65323;
+}

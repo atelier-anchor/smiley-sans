@@ -1,0 +1,11 @@
+{
+export = 0;
+glyphname = _cjkguide;
+layers = (
+{
+layerId = m01;
+width = 800;
+}
+);
+script = han;
+}

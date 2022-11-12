@@ -1,0 +1,12 @@
+.DS_Store
+
+*(Autosaved).*
+*（自动存储）.*
+*.ufo
+UIState.plist
+
+*.otf
+*.ttf
+*.woff
+*.woff2
+*.zip

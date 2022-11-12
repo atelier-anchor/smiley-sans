@@ -1,0 +1,33 @@
+{
+color = 1;
+glyphname = seven.lf;
+kernLeft = seven;
+kernRight = seven;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(75,682,l),
+(347,682,l),
+(330,712,l),
+(217,528,o),
+(97,236,o),
+(49,-30,c),
+(157,-30,l),
+(204,240,o),
+(304,506,o),
+(424,696,c),
+(443,778,l),
+(99,778,l)
+);
+}
+);
+width = 394;
+}
+);
+metricLeft = seven;
+metricRight = seven;
+}

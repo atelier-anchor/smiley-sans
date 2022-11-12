@@ -1,0 +1,17 @@
+{
+color = 1;
+glyphname = colonsmall;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+pos = (85,0);
+ref = colon;
+}
+);
+width = 400;
+}
+);
+unicode = 65109;
+}

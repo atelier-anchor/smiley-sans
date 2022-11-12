@@ -1,0 +1,15 @@
+{
+glyphname = micro;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = mu;
+}
+);
+width = 431;
+}
+);
+unicode = 181;
+}

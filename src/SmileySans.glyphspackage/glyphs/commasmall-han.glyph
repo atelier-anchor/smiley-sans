@@ -1,0 +1,17 @@
+{
+color = 1;
+glyphname = "commasmall-han";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+pos = (-40,0);
+ref = "comma-han";
+}
+);
+width = 400;
+}
+);
+unicode = 65105;
+}

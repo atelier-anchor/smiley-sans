@@ -1,0 +1,17 @@
+{
+color = 6;
+glyphname = greater.full;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+pos = (191,0);
+ref = greater;
+}
+);
+width = 800;
+}
+);
+unicode = 65310;
+}

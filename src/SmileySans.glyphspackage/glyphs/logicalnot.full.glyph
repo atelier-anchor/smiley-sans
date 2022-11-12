@@ -1,0 +1,17 @@
+{
+color = 6;
+glyphname = logicalnot.full;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+pos = (145,0);
+ref = logicalnot;
+}
+);
+width = 800;
+}
+);
+unicode = 65506;
+}

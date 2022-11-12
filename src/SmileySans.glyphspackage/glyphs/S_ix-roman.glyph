@@ -1,0 +1,22 @@
+{
+glyphname = "Six-roman";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (70,0);
+ref = V;
+},
+{
+alignment = -1;
+pos = (536,0);
+ref = I;
+}
+);
+width = 817;
+}
+);
+unicode = 8549;
+}

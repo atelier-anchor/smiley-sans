@@ -1,0 +1,32 @@
+{
+export = 0;
+glyphname = caroncomb;
+layers = (
+{
+anchors = (
+{
+name = _top;
+pos = (315,580);
+}
+);
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(513,794,l),
+(423,794,l),
+(281,673,l),
+(361,673,l),
+(264,794,l),
+(184,794,l),
+(272,651,l),
+(368,651,l)
+);
+}
+);
+width = 600;
+}
+);
+unicode = 780;
+}

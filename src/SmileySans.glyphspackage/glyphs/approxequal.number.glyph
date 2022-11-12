@@ -1,0 +1,16 @@
+{
+color = 4;
+glyphname = approxequal.number;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+pos = (0,70);
+ref = approxequal;
+}
+);
+width = 502;
+}
+);
+}

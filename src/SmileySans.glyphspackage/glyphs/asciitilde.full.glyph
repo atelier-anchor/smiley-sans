@@ -1,0 +1,17 @@
+{
+color = 6;
+glyphname = asciitilde.full;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+pos = (157,0);
+ref = asciitilde;
+}
+);
+width = 800;
+}
+);
+unicode = 65374;
+}

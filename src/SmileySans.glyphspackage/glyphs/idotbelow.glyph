@@ -1,0 +1,21 @@
+{
+glyphname = idotbelow;
+kernLeft = i;
+kernRight = i;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = i;
+},
+{
+pos = (-248,0);
+ref = dotbelowcomb;
+}
+);
+width = 198;
+}
+);
+unicode = 7883;
+}

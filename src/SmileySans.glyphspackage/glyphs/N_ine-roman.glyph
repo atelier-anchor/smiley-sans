@@ -1,0 +1,22 @@
+{
+glyphname = "Nine-roman";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (70,0);
+ref = I;
+},
+{
+alignment = -1;
+pos = (281,0);
+ref = X;
+}
+);
+width = 786;
+}
+);
+unicode = 8552;
+}

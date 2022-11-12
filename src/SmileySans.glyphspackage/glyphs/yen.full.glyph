@@ -1,0 +1,17 @@
+{
+color = 6;
+glyphname = yen.full;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+pos = (133,0);
+ref = yen;
+}
+);
+width = 800;
+}
+);
+unicode = 65509;
+}

@@ -1,0 +1,23 @@
+{
+color = 6;
+glyphname = overlinedblwavy;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+pos = (0,845);
+ref = underscorewavy;
+scale = (1,0.8176);
+},
+{
+pos = (0,744);
+ref = underscorewavy;
+scale = (1,0.8176);
+}
+);
+width = 800;
+}
+);
+unicode = 65100;
+}

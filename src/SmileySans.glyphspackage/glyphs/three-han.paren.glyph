@@ -1,0 +1,44 @@
+{
+color = 6;
+glyphname = "three-han.paren";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = _part.paren;
+},
+{
+closed = 1;
+nodes = (
+(240,737,l),
+(230,650,l),
+(613,650,l),
+(623,737,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(141,126,l),
+(132,39,l),
+(587,39,l),
+(596,126,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(229,443,l),
+(220,356,l),
+(562,356,l),
+(571,443,l)
+);
+}
+);
+width = 800;
+}
+);
+unicode = 12834;
+}

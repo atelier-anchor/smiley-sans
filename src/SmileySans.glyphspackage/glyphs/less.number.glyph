@@ -1,0 +1,16 @@
+{
+color = 4;
+glyphname = less.number;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+pos = (0,70);
+ref = less;
+}
+);
+width = 418;
+}
+);
+}

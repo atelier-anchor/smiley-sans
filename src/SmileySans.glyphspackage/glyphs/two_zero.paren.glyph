@@ -1,0 +1,32 @@
+{
+color = 6;
+glyphname = two_zero.paren;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (13,0);
+ref = _part.paren;
+},
+{
+alignment = -1;
+pos = (64,47);
+ref = two;
+scale = (0.7252,0.907);
+slant = (7.0607,0);
+},
+{
+alignment = -1;
+pos = (307,35);
+ref = zero;
+scale = (0.7252,0.907);
+slant = (7.0607,0);
+}
+);
+width = 800;
+}
+);
+unicode = 9351;
+}

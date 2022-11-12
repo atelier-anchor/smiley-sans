@@ -1,0 +1,27 @@
+{
+export = 0;
+glyphname = macroncomb.case;
+layers = (
+{
+anchors = (
+{
+name = _top;
+pos = (300,778);
+}
+);
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(161,867,l),
+(425,867,l),
+(436,943,l),
+(172,943,l)
+);
+}
+);
+width = 600;
+}
+);
+}

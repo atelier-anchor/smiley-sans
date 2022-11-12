@@ -1,0 +1,16 @@
+{
+color = 4;
+glyphname = divide.number;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+pos = (0,82);
+ref = divide;
+}
+);
+width = 477;
+}
+);
+}

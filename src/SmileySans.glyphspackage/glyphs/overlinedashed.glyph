@@ -1,0 +1,17 @@
+{
+color = 6;
+glyphname = overlinedashed;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+pos = (0,868);
+ref = lowlinedashed;
+}
+);
+width = 800;
+}
+);
+unicode = 65097;
+}

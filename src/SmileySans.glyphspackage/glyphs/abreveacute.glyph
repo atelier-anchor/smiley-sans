@@ -1,0 +1,21 @@
+{
+glyphname = abreveacute;
+kernLeft = o;
+kernRight = n;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = a;
+},
+{
+pos = (-45,0);
+ref = brevecomb_acutecomb;
+}
+);
+width = 455;
+}
+);
+unicode = 7855;
+}

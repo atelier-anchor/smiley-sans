@@ -1,0 +1,37 @@
+{
+glyphname = Z;
+kernLeft = Z;
+kernRight = Z;
+layers = (
+{
+anchors = (
+{
+name = top;
+pos = (265,778);
+}
+);
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(65,683,l),
+(366,683,l),
+(332,722,l),
+(-23,54,l),
+(-34,-30,l),
+(327,-30,l),
+(340,65,l),
+(38,65,l),
+(67,26,l),
+(422,694,l),
+(433,778,l),
+(77,778,l)
+);
+}
+);
+width = 383;
+}
+);
+unicode = 90;
+}

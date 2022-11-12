@@ -1,0 +1,49 @@
+{
+glyphname = Lslash;
+kernLeft = H;
+kernRight = L;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(339,425,l),
+(354,517,l),
+(11,363,l),
+(-3,272,l)
+);
+},
+{
+pos = (30,0);
+ref = L;
+}
+);
+width = 438;
+},
+{
+associatedMasterId = m01;
+layerId = "54269B50-E9A0-412B-B5B5-68044A382115";
+name = "Oct 19, 22, 13:23";
+shapes = (
+{
+closed = 1;
+nodes = (
+(340,431,l),
+(353,511,l),
+(10,357,l),
+(-2,278,l)
+);
+},
+{
+pos = (30,0);
+ref = L;
+}
+);
+width = 438;
+}
+);
+metricRight = L;
+unicode = 321;
+}

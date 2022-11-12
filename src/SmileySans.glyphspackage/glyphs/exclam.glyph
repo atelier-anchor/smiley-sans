@@ -1,0 +1,60 @@
+{
+glyphname = exclam;
+layers = (
+{
+associatedMasterId = m01;
+layerId = "368D6B4E-CFC7-46F1-8891-3C1787704FF2";
+name = "Oct 14, 22, 18:02";
+shapes = (
+{
+closed = 1;
+nodes = (
+(115,-40,o),
+(147,-10,o),
+(154,41,cs),
+(161,91,o),
+(136,121,o),
+(96,121,cs),
+(55,121,o),
+(22,91,o),
+(15,41,cs),
+(8,-10,o),
+(34,-40,o),
+(75,-40,cs)
+);
+},
+{
+closed = 1;
+nodes = (
+(254,788,l),
+(130,778,l),
+(66,190,l),
+(146,190,l)
+);
+}
+);
+width = 239;
+},
+{
+layerId = m01;
+name = Regular;
+shapes = (
+{
+closed = 1;
+nodes = (
+(282,788,l),
+(160,788,l),
+(94,190,l),
+(174,190,l)
+);
+},
+{
+pos = (28,0);
+ref = period;
+}
+);
+width = 322;
+}
+);
+unicode = 33;
+}

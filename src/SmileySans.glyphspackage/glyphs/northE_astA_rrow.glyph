@@ -1,0 +1,18 @@
+{
+color = 6;
+glyphname = northEastArrow;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+angle = -45;
+pos = (-120,385);
+ref = upArrow;
+}
+);
+width = 800;
+}
+);
+unicode = 8599;
+}

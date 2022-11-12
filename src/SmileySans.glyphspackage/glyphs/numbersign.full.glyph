@@ -1,0 +1,17 @@
+{
+color = 6;
+glyphname = numbersign.full;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+pos = (143,0);
+ref = numbersign;
+}
+);
+width = 800;
+}
+);
+unicode = 65283;
+}

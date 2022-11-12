@@ -1,0 +1,17 @@
+{
+color = 6;
+glyphname = parenleft.full;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+pos = (387,71);
+ref = parenleft;
+}
+);
+width = 800;
+}
+);
+unicode = 65288;
+}

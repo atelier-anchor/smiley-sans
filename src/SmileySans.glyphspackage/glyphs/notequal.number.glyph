@@ -1,0 +1,16 @@
+{
+color = 4;
+glyphname = notequal.number;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+pos = (0,80);
+ref = notequal;
+}
+);
+width = 495;
+}
+);
+}

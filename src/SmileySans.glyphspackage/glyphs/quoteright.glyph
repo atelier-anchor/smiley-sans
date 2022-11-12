@@ -1,0 +1,16 @@
+{
+glyphname = quoteright;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+pos = (132,780);
+ref = quotesinglbase;
+}
+);
+width = 216;
+}
+);
+unicode = 8217;
+}

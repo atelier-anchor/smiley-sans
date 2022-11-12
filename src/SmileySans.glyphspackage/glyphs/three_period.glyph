@@ -1,0 +1,21 @@
+{
+color = 6;
+glyphname = three_period;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+pos = (586,0);
+ref = period;
+},
+{
+pos = (190,0);
+ref = three;
+}
+);
+width = 800;
+}
+);
+unicode = 9354;
+}

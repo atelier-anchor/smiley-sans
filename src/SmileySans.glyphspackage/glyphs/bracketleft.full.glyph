@@ -1,0 +1,17 @@
+{
+color = 6;
+glyphname = bracketleft.full;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+pos = (362,70);
+ref = bracketleft;
+}
+);
+width = 800;
+}
+);
+unicode = 65339;
+}

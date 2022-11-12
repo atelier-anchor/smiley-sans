@@ -1,0 +1,25 @@
+{
+color = 6;
+glyphname = KMSquare;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+pos = (-38,0);
+ref = K;
+scale = (0.7913,1);
+slant = (1.2355,0);
+},
+{
+pos = (302,0);
+ref = M;
+scale = (0.7913,1);
+slant = (1.2355,0);
+}
+);
+width = 800;
+}
+);
+unicode = 13262;
+}

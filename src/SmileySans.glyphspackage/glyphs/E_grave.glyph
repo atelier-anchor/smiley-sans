@@ -1,0 +1,21 @@
+{
+glyphname = Egrave;
+kernLeft = H;
+kernRight = E;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = E;
+},
+{
+pos = (49,0);
+ref = gravecomb.case;
+}
+);
+width = 429;
+}
+);
+unicode = 200;
+}

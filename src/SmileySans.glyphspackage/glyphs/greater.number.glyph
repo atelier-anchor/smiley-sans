@@ -1,0 +1,16 @@
+{
+color = 4;
+glyphname = greater.number;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+pos = (0,69);
+ref = greater;
+}
+);
+width = 418;
+}
+);
+}

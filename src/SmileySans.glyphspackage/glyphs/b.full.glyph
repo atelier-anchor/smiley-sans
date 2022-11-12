@@ -1,0 +1,18 @@
+{
+color = 6;
+glyphname = b.full;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (168,0);
+ref = b;
+}
+);
+width = 800;
+}
+);
+unicode = 65346;
+}

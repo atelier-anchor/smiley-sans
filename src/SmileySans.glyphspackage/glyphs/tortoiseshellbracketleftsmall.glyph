@@ -1,0 +1,17 @@
+{
+color = 1;
+glyphname = tortoiseshellbracketleftsmall;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+pos = (-393,0);
+ref = tortoiseshellbracketleft;
+}
+);
+width = 400;
+}
+);
+unicode = 65117;
+}

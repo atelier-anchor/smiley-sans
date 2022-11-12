@@ -1,0 +1,17 @@
+{
+color = 1;
+glyphname = periodsmall;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+pos = (106,0);
+ref = period;
+}
+);
+width = 400;
+}
+);
+unicode = 65106;
+}

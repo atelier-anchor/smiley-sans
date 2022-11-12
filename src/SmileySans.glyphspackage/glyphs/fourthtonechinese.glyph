@@ -1,0 +1,15 @@
+{
+glyphname = fourthtonechinese;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = gravecomb;
+}
+);
+width = 600;
+}
+);
+unicode = 715;
+}

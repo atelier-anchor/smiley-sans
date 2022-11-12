@@ -1,0 +1,17 @@
+{
+color = 6;
+glyphname = overlinewavy;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+pos = (0,840);
+ref = underscorewavy;
+}
+);
+width = 800;
+}
+);
+unicode = 65099;
+}

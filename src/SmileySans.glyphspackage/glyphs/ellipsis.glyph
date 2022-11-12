@@ -1,0 +1,25 @@
+{
+color = 6;
+glyphname = ellipsis;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+pos = (316,339);
+ref = period;
+},
+{
+pos = (51,339);
+ref = period;
+},
+{
+pos = (581,339);
+ref = period;
+}
+);
+width = 800;
+}
+);
+unicode = 8230;
+}

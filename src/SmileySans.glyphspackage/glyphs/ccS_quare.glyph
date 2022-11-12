@@ -1,0 +1,21 @@
+{
+color = 6;
+glyphname = ccSquare;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+pos = (-16,0);
+ref = c;
+},
+{
+pos = (374,0);
+ref = c;
+}
+);
+width = 800;
+}
+);
+unicode = 13252;
+}

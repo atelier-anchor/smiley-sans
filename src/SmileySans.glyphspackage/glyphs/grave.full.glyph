@@ -1,0 +1,17 @@
+{
+color = 6;
+glyphname = grave.full;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+pos = (140,-29);
+ref = gravecomb;
+}
+);
+width = 800;
+}
+);
+unicode = 65344;
+}

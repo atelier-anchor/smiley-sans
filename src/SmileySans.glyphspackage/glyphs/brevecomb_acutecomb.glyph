@@ -1,0 +1,20 @@
+{
+export = 0;
+glyphname = brevecomb_acutecomb;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+pos = (60,0);
+ref = brevecomb;
+},
+{
+pos = (46,144);
+ref = acutecomb;
+}
+);
+width = 600;
+}
+);
+}

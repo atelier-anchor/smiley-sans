@@ -1,0 +1,17 @@
+{
+color = 6;
+glyphname = macron.full;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+pos = (109,0);
+ref = macroncomb;
+}
+);
+width = 800;
+}
+);
+unicode = 65507;
+}

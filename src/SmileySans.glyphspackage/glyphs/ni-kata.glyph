@@ -1,0 +1,30 @@
+{
+glyphname = "ni-kata";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(185,688,l),
+(173,587,l),
+(721,587,l),
+(733,688,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(69,117,l),
+(58,13,l),
+(706,13,l),
+(717,117,l)
+);
+}
+);
+width = 800;
+}
+);
+unicode = 12491;
+}

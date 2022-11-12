@@ -1,0 +1,15 @@
+{
+glyphname = softhyphen;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = hyphen;
+}
+);
+width = 295;
+}
+);
+unicode = 173;
+}

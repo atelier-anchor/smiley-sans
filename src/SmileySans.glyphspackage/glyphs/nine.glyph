@@ -1,0 +1,20 @@
+{
+glyphname = nine;
+kernLeft = nine;
+kernRight = nine;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+angle = 180;
+pos = (509,738);
+ref = six;
+}
+);
+width = 475;
+}
+);
+unicode = 57;
+}

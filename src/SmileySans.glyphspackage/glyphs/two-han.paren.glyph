@@ -1,0 +1,35 @@
+{
+color = 6;
+glyphname = "two-han.paren";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = _part.paren;
+},
+{
+closed = 1;
+nodes = (
+(238,719,l),
+(228,627,l),
+(614,627,l),
+(625,719,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(128,148,l),
+(119,57,l),
+(590,57,l),
+(599,148,l)
+);
+}
+);
+width = 800;
+}
+);
+unicode = 12833;
+}

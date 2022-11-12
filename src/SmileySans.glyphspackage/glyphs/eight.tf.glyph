@@ -1,0 +1,17 @@
+{
+color = 2;
+glyphname = eight.tf;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (-4,0);
+ref = eight.lf;
+}
+);
+width = 470;
+}
+);
+}

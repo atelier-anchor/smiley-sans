@@ -1,0 +1,12 @@
+{
+color = 6;
+export = 0;
+glyphname = getamark;
+layers = (
+{
+layerId = m01;
+width = 800;
+}
+);
+unicode = 12307;
+}

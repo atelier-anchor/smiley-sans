@@ -1,0 +1,17 @@
+{
+color = 1;
+glyphname = hyphensmall;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+pos = (40,0);
+ref = hyphen;
+}
+);
+width = 400;
+}
+);
+unicode = 65123;
+}

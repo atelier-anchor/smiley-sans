@@ -1,0 +1,19 @@
+{
+glyphname = fahrenheit;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = degree;
+},
+{
+pos = (230,0);
+ref = F;
+}
+);
+width = 600;
+}
+);
+unicode = 8457;
+}

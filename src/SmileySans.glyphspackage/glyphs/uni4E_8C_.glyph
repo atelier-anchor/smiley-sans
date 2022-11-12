@@ -1,0 +1,31 @@
+{
+color = 7;
+glyphname = uni4E8C;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(187,810,l),
+(176,712,l),
+(720,712,l),
+(731,810,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(62,63,l),
+(52,-34,l),
+(704,-34,l),
+(714,63,l)
+);
+}
+);
+width = 800;
+}
+);
+unicode = 20108;
+}

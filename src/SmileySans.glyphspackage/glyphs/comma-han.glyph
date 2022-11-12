@@ -1,0 +1,46 @@
+{
+glyphname = "comma-han";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(288,50,o),
+(213,137,o),
+(153,196,c),
+(87,141,l),
+(138,82,o),
+(207,-17,o),
+(252,-96,c),
+(342,-26,l)
+);
+}
+);
+width = 800;
+},
+{
+associatedMasterId = m01;
+layerId = "DE7CDDEB-3BFC-412D-8759-FD759907A671";
+name = "Oct 18, 22, 17:20";
+shapes = (
+{
+closed = 1;
+nodes = (
+(265,63,o),
+(210,137,o),
+(153,196,c),
+(87,141,l),
+(143,82,o),
+(199,9,o),
+(255,-80,c),
+(322,-26,l)
+);
+}
+);
+width = 800;
+}
+);
+unicode = 12289;
+}

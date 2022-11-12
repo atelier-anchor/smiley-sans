@@ -1,0 +1,45 @@
+{
+glyphname = obreve;
+kernLeft = o;
+kernRight = o;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (178,-30);
+},
+{
+name = center;
+pos = (228,290);
+},
+{
+name = top;
+pos = (265,580);
+},
+{
+name = topright;
+pos = (361,538);
+}
+);
+guides = (
+{
+angle = 82;
+pos = (224,280);
+}
+);
+layerId = m01;
+shapes = (
+{
+ref = o;
+},
+{
+pos = (-9,0);
+ref = brevecomb;
+}
+);
+width = 460;
+}
+);
+unicode = 335;
+}

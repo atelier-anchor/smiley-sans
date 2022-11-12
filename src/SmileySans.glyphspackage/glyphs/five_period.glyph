@@ -1,0 +1,21 @@
+{
+color = 6;
+glyphname = five_period;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+pos = (586,0);
+ref = period;
+},
+{
+pos = (184,0);
+ref = five;
+}
+);
+width = 800;
+}
+);
+unicode = 9356;
+}

@@ -1,0 +1,16 @@
+{
+color = 1;
+glyphname = lesssmall;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = less;
+}
+);
+width = 400;
+}
+);
+unicode = 65124;
+}

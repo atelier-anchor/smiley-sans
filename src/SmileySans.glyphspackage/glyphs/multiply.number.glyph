@@ -1,0 +1,16 @@
+{
+color = 4;
+glyphname = multiply.number;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+pos = (0,80);
+ref = multiply;
+}
+);
+width = 452;
+}
+);
+}

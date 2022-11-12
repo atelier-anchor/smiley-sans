@@ -1,0 +1,21 @@
+{
+glyphname = ohorndotbelow;
+kernLeft = o;
+kernRight = o;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = ohorn;
+},
+{
+pos = (-115,0);
+ref = dotbelowcomb;
+}
+);
+width = 460;
+}
+);
+unicode = 7907;
+}

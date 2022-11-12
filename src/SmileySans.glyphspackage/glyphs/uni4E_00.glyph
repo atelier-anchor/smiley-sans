@@ -1,0 +1,22 @@
+{
+color = 7;
+glyphname = uni4E00;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(92,513,l),
+(82,420,l),
+(757,420,l),
+(767,513,l)
+);
+}
+);
+width = 800;
+}
+);
+unicode = 19968;
+}

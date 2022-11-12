@@ -1,0 +1,26 @@
+{
+color = 3;
+glyphname = numero.ss01;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (39,0);
+ref = N;
+},
+{
+alignment = -1;
+pos = (564,0);
+ref = o;
+},
+{
+pos = (949,0);
+ref = period;
+}
+);
+width = 1154;
+}
+);
+}

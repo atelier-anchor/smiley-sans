@@ -1,0 +1,26 @@
+{
+color = 6;
+glyphname = one_nine_period;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+pos = (586,0);
+ref = period;
+},
+{
+pos = (17,0);
+ref = one;
+},
+{
+alignment = -1;
+pos = (210,0);
+ref = nine;
+}
+);
+width = 800;
+}
+);
+unicode = 9370;
+}

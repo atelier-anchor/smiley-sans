@@ -1,0 +1,23 @@
+{
+glyphname = anglebracketleft;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(521,-120,l),
+(611,-120,l),
+(492,380,l),
+(750,880,l),
+(660,880,l),
+(401,380,l)
+);
+}
+);
+width = 800;
+}
+);
+unicode = 12296;
+}

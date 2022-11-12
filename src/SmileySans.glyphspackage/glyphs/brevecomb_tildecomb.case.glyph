@@ -1,0 +1,27 @@
+{
+export = 0;
+glyphname = brevecomb_tildecomb.case;
+layers = (
+{
+anchors = (
+{
+name = _top;
+pos = (289,778);
+}
+);
+layerId = m01;
+shapes = (
+{
+pos = (7,181);
+ref = brevecomb;
+},
+{
+alignment = -1;
+pos = (6,325);
+ref = tildecomb;
+}
+);
+width = 600;
+}
+);
+}
