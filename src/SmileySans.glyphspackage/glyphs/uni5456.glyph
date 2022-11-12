@@ -3,24 +3,6 @@ color = 10;
 glyphname = uni5456;
 layers = (
 {
-anchors = (
-{
-name = "1a";
-pos = (446.969,716.85);
-},
-{
-name = "2a";
-pos = (381.862,387.155);
-},
-{
-name = "3a";
-pos = (328.287,84.286);
-},
-{
-name = "4a";
-pos = (270.069,-186);
-}
-);
 associatedMasterId = m01;
 layerId = "407B07F9-0241-4DEC-8D97-FF1479DA639E";
 name = "22年8月17日 17:06";

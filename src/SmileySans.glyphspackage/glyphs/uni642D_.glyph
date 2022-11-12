@@ -142,12 +142,6 @@ name = "22年10月31日 10:44";
 width = 800;
 },
 {
-anchors = (
-{
-name = a;
-pos = (129.741,659.742);
-}
-);
 associatedMasterId = m01;
 layerId = "A43C1130-B805-48B5-8043-A68A63F0D3FF";
 name = "22年11月7日 11:29";
@@ -264,12 +258,6 @@ nodes = (
 width = 800;
 },
 {
-anchors = (
-{
-name = a;
-pos = (129.741,659.742);
-}
-);
 associatedMasterId = m01;
 color = 4;
 layerId = "AF1EF701-517A-4B5A-B246-2CDEECF132C2";

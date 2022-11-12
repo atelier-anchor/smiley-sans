@@ -66,32 +66,6 @@ nodes = (
 width = 800;
 },
 {
-anchors = (
-{
-name = "1a";
-pos = (475,866);
-},
-{
-name = "2a";
-pos = (450.579,609.236);
-},
-{
-name = "3a";
-pos = (380,-80);
-},
-{
-name = "4a";
-pos = (477,885);
-},
-{
-name = "5a";
-pos = (138.149,615.377);
-},
-{
-name = "6a";
-pos = (356.149,558.377);
-}
-);
 associatedMasterId = m01;
 layerId = "C93C3FFE-14B0-4B9A-9929-AE252621ADB9";
 name = "22年11月2日 17:52";
@@ -139,36 +113,6 @@ nodes = (
 width = 800;
 },
 {
-anchors = (
-{
-name = "1a";
-pos = (475,866);
-},
-{
-name = "2a";
-pos = (450.579,609.236);
-},
-{
-name = "3a";
-pos = (380,-80);
-},
-{
-name = "4a";
-pos = (477,885);
-},
-{
-name = "5a";
-pos = (138.149,615.377);
-},
-{
-name = "6a";
-pos = (356.149,558.377);
-},
-{
-name = a;
-pos = (144.249,612.279);
-}
-);
 associatedMasterId = m01;
 layerId = "8F54AC20-0449-4941-9BE9-77AF133EFF87";
 name = "22年11月7日 11:29";

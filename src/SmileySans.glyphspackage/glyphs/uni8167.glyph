@@ -179,16 +179,6 @@ name = "22年10月20日 11:25";
 width = 800;
 },
 {
-anchors = (
-{
-name = "1a";
-pos = (564.013,878.98);
-},
-{
-name = "2a";
-pos = (324.096,589.107);
-}
-);
 associatedMasterId = m01;
 color = 4;
 layerId = "3B2F84D4-A91E-43E5-A752-DAA5356EC7E6";

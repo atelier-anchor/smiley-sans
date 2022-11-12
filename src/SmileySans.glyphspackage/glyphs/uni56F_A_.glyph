@@ -75,12 +75,6 @@ name = "22年10月20日 10:41";
 width = 800;
 },
 {
-anchors = (
-{
-name = a;
-pos = (268.503,558.465);
-}
-);
 associatedMasterId = m01;
 layerId = "F6FB35F1-50F6-4381-9F04-756B6DE9AB80";
 name = "22年11月7日 11:29";

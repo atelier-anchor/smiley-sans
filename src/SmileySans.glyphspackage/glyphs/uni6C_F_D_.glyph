@@ -107,28 +107,6 @@ nodes = (
 width = 800;
 },
 {
-anchors = (
-{
-name = "1a";
-pos = (337.554,851.407);
-},
-{
-name = "2a";
-pos = (325.798,818.16);
-},
-{
-name = "3a";
-pos = (296.705,455.635);
-},
-{
-name = "4a";
-pos = (415.91,787.006);
-},
-{
-name = "5a";
-pos = (726.975,779.064);
-}
-);
 associatedMasterId = m01;
 layerId = "B03752CB-39B7-4E9B-B3DF-783EBA589BC2";
 name = "22年9月28日 11:20";

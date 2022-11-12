@@ -193,24 +193,6 @@ nodes = (
 width = 800;
 },
 {
-anchors = (
-{
-name = "1a";
-pos = (445.867,742.949);
-},
-{
-name = "2a";
-pos = (389.793,475.706);
-},
-{
-name = "3a";
-pos = (343.981,131.298);
-},
-{
-name = "4a";
-pos = (329.189,-80);
-}
-);
 associatedMasterId = m01;
 color = 4;
 layerId = "DF4DA899-7ACB-4CAF-A8AF-5764896E09A9";

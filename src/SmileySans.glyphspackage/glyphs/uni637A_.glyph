@@ -3,20 +3,6 @@ color = 10;
 glyphname = uni637A;
 layers = (
 {
-anchors = (
-{
-name = "1a";
-pos = (261.097,773);
-},
-{
-name = "2a";
-pos = (15.403,-58.091);
-},
-{
-name = "3a";
-pos = (43.167,-47.148);
-}
-);
 associatedMasterId = m01;
 layerId = "B3BFFDF3-25AB-4330-815D-40D00CEE1F57";
 name = "22年7月12日 13:55";

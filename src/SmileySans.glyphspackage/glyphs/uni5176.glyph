@@ -90,16 +90,6 @@ nodes = (
 width = 800;
 },
 {
-anchors = (
-{
-name = a;
-pos = (299.165,921.921);
-},
-{
-name = b;
-pos = (560.21,188);
-}
-);
 associatedMasterId = m01;
 layerId = "A2B8E268-B7A2-4585-B712-3319B7D10101";
 name = "22年10月18日 13:05";
@@ -134,16 +124,6 @@ nodes = (
 width = 800;
 },
 {
-anchors = (
-{
-name = a;
-pos = (299.165,921.921);
-},
-{
-name = b;
-pos = (560.21,188);
-}
-);
 associatedMasterId = m01;
 layerId = "B581AB7B-B651-4FE7-8A32-8B84A67EC7AB";
 name = "22年11月7日 11:29";
@@ -178,16 +158,6 @@ nodes = (
 width = 800;
 },
 {
-anchors = (
-{
-name = a;
-pos = (299.165,921.921);
-},
-{
-name = b;
-pos = (560.21,188);
-}
-);
 associatedMasterId = m01;
 color = 4;
 layerId = "EA365A94-91A8-429B-9278-6503DE515887";

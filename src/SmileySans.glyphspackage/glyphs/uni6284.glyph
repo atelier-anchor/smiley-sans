@@ -3,20 +3,6 @@ color = 0;
 glyphname = uni6284;
 layers = (
 {
-anchors = (
-{
-name = "1a";
-pos = (261.097,773);
-},
-{
-name = "2a";
-pos = (15.403,-58.091);
-},
-{
-name = "3a";
-pos = (43.167,-47.148);
-}
-);
 associatedMasterId = m01;
 layerId = "6A6D2590-0620-4FA9-94E8-99943E311A35";
 name = "22年7月6日 18:21";
@@ -183,20 +169,6 @@ nodes = (
 width = 800;
 },
 {
-anchors = (
-{
-name = "1a";
-pos = (272.097,873);
-},
-{
-name = "2a";
-pos = (26.403,41.909);
-},
-{
-name = "3a";
-pos = (54.167,52.852);
-}
-);
 associatedMasterId = m01;
 layerId = "31D587CE-E561-49EE-A06C-7140C0B35697";
 name = "22年10月26日 11:40";
@@ -265,16 +237,6 @@ nodes = (
 width = 800;
 },
 {
-anchors = (
-{
-name = "1a";
-pos = (128.778,294.5);
-},
-{
-name = "2a";
-pos = (219.223,324.915);
-}
-);
 associatedMasterId = m01;
 layerId = "697E03B8-89FB-4D90-92F1-8C95843BC0B7";
 name = "22年11月7日 11:29";

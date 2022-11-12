@@ -180,12 +180,6 @@ nodes = (
 width = 800;
 },
 {
-anchors = (
-{
-name = a;
-pos = (302.703,242);
-}
-);
 associatedMasterId = m01;
 layerId = "F7238299-0EF2-4119-98C2-26D8A06EBC9E";
 name = "22年11月7日 11:29";
