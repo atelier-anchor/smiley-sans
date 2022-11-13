@@ -3,7 +3,7 @@ sed -i -E "s/(^ +Version .+)/\1 (dev $datetime)/g" src/SmileySans.ttx
 
 mkdir build
 fontmake \
-    -g src/SmileySansX.glyphspackage \
+    -g src/SmileySans.glyphspackage \
     --output-dir build \
     --master-dir {tmp} \
     --timing
