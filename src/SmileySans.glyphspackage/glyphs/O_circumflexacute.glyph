@@ -10,7 +10,7 @@ shapes = (
 ref = O;
 },
 {
-pos = (34,0);
+pos = (152,0);
 ref = circumflexcomb_acutecomb.case;
 }
 );

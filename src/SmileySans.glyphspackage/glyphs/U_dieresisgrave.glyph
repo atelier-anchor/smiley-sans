@@ -10,11 +10,11 @@ shapes = (
 ref = U;
 },
 {
-pos = (36,0);
+pos = (39,0);
 ref = dieresiscomb.case;
 },
 {
-pos = (71,159);
+pos = (2,159);
 ref = gravecomb.case;
 }
 );

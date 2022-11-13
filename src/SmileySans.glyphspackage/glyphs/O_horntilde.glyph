@@ -10,7 +10,7 @@ shapes = (
 ref = Ohorn;
 },
 {
-pos = (59,0);
+pos = (41,0);
 ref = tildecomb.case;
 }
 );

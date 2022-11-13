@@ -10,7 +10,7 @@ shapes = (
 ref = U;
 },
 {
-pos = (221,-97);
+pos = (231,-97);
 ref = horncomb.case;
 }
 );

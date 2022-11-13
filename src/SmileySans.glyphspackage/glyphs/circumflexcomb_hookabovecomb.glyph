@@ -3,14 +3,21 @@ export = 0;
 glyphname = circumflexcomb_hookabovecomb;
 layers = (
 {
+anchors = (
+{
+name = _top;
+pos = (286,580);
+}
+);
 layerId = m01;
 shapes = (
 {
+pos = (11,0);
 ref = circumflexcomb;
 },
 {
 alignment = -1;
-pos = (230,100);
+pos = (211,100);
 ref = hookabovecomb;
 }
 );

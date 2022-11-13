@@ -10,15 +10,15 @@ shapes = (
 ref = u;
 },
 {
-pos = (-28,0);
+pos = (-30,0);
 ref = dieresiscomb;
 },
 {
-pos = (-36,162);
+pos = (9,162);
 ref = caroncomb;
 }
 );
-width = 414;
+width = 415;
 }
 );
 unicode = 474;

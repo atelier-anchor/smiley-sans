@@ -12,7 +12,7 @@ ref = _part.circle;
 },
 {
 alignment = -1;
-pos = (226,43);
+pos = (226,50);
 ref = two;
 scale = (0.907,0.907);
 }

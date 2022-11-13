@@ -9,11 +9,11 @@ shapes = (
 ref = uhorn;
 },
 {
-pos = (-28,0);
+pos = (-76,0);
 ref = gravecomb;
 }
 );
-width = 414;
+width = 415;
 }
 );
 unicode = 7915;

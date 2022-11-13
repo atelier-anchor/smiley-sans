@@ -10,7 +10,7 @@ shapes = (
 ref = G;
 },
 {
-pos = (-88,0);
+pos = (-98,0);
 ref = commaaccentcomb.case;
 }
 );

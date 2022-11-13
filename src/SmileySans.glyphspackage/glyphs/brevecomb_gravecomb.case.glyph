@@ -6,17 +6,17 @@ layers = (
 anchors = (
 {
 name = _top;
-pos = (289,778);
+pos = (282,778);
 }
 );
 layerId = m01;
 shapes = (
 {
-pos = (7,181);
+pos = (0,181);
 ref = brevecomb;
 },
 {
-pos = (18,325);
+pos = (-40,325);
 ref = gravecomb;
 }
 );

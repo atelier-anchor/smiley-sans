@@ -1,5 +1,5 @@
 {
-color = 1;
+color = 0;
 export = 0;
 glyphname = f_h.liga;
 layers = (

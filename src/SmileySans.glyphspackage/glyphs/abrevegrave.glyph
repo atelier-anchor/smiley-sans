@@ -7,10 +7,12 @@ layers = (
 layerId = m01;
 shapes = (
 {
+alignment = -1;
 ref = a;
 },
 {
-pos = (-65,0);
+alignment = -1;
+pos = (-55,0);
 ref = brevecomb_gravecomb;
 }
 );

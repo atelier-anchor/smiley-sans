@@ -6,13 +6,13 @@ layers = (
 anchors = (
 {
 name = _top;
-pos = (265,778);
+pos = (231,778);
 }
 );
 layerId = m01;
 shapes = (
 {
-pos = (-60,168);
+pos = (-84,168);
 ref = circumflexcomb_hookabovecomb;
 }
 );

@@ -10,7 +10,7 @@ shapes = (
 ref = I;
 },
 {
-pos = (-239,0);
+pos = (-259,0);
 ref = dotbelowcomb.case;
 }
 );

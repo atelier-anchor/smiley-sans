@@ -6,13 +6,13 @@ layers = (
 layerId = m01;
 shapes = (
 {
-pos = (0,109);
+pos = (27,109);
 ref = circumflexcomb;
 scale = (1,0.8354);
 },
 {
 alignment = -1;
-pos = (53,208);
+pos = (80,208);
 ref = tildecomb;
 scale = (1,0.8959);
 }

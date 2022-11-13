@@ -9,11 +9,11 @@ shapes = (
 ref = u;
 },
 {
-pos = (-69,-55);
+pos = (127,-55);
 ref = horncomb;
 }
 );
-width = 414;
+width = 415;
 }
 );
 unicode = 432;

@@ -6,18 +6,18 @@ layers = (
 anchors = (
 {
 name = _top;
-pos = (289,778);
+pos = (283,778);
 }
 );
 layerId = m01;
 shapes = (
 {
-pos = (7,181);
+pos = (1,181);
 ref = brevecomb;
 },
 {
 alignment = -1;
-pos = (6,325);
+pos = (0,325);
 ref = tildecomb;
 }
 );

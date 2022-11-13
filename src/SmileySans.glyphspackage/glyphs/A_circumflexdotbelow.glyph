@@ -10,11 +10,11 @@ shapes = (
 ref = A;
 },
 {
-pos = (-92,0);
+pos = (-111,0);
 ref = dotbelowcomb.case;
 },
 {
-pos = (10,0);
+pos = (16,0);
 ref = circumflexcomb.case;
 }
 );

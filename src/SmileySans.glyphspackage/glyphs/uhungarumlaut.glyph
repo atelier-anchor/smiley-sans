@@ -9,10 +9,11 @@ shapes = (
 ref = u;
 },
 {
+pos = (18,0);
 ref = hungarumlautcomb;
 }
 );
-width = 414;
+width = 415;
 }
 );
 unicode = 369;

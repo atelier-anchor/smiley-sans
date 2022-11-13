@@ -10,7 +10,7 @@ shapes = (
 ref = a;
 },
 {
-pos = (15,0);
+pos = (18,0);
 ref = brevecomb;
 }
 );

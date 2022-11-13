@@ -6,11 +6,11 @@ layers = (
 layerId = m01;
 shapes = (
 {
-pos = (80,0);
+pos = (74,0);
 ref = brevecomb;
 },
 {
-pos = (91,144);
+pos = (34,144);
 ref = gravecomb;
 }
 );

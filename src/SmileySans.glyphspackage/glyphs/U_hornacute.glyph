@@ -10,7 +10,7 @@ shapes = (
 ref = Uhorn;
 },
 {
-pos = (39,0);
+pos = (105,0);
 ref = acutecomb.case;
 }
 );

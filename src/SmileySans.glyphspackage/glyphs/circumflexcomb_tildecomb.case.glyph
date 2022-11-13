@@ -6,22 +6,22 @@ layers = (
 anchors = (
 {
 name = _top;
-pos = (307,778);
+pos = (284,778);
 },
 {
 name = top;
-pos = (336,914);
+pos = (313,914);
 }
 );
 layerId = m01;
 shapes = (
 {
-pos = (-20,237);
+pos = (-43,237);
 ref = circumflexcomb;
 scale = (1,0.8959);
 },
 {
-pos = (33,387);
+pos = (-1,387);
 ref = tildecomb;
 scale = (1,0.8959);
 }

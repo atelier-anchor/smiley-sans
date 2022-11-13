@@ -10,7 +10,7 @@ shapes = (
 ref = a;
 },
 {
-pos = (-45,0);
+pos = (-33,0);
 ref = brevecomb_acutecomb;
 }
 );

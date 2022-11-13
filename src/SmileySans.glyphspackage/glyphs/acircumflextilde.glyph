@@ -7,10 +7,12 @@ layers = (
 layerId = m01;
 shapes = (
 {
+alignment = -1;
 ref = a;
 },
 {
-pos = (-27,-14);
+alignment = -1;
+pos = (-28,-14);
 ref = circumflexcomb_tildecomb;
 }
 );

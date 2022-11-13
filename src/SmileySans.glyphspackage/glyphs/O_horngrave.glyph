@@ -10,7 +10,6 @@ shapes = (
 ref = Ohorn;
 },
 {
-pos = (69,0);
 ref = gravecomb.case;
 }
 );

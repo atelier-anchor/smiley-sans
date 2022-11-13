@@ -16,7 +16,7 @@ shapes = (
 ref = A;
 },
 {
-pos = (62,0);
+pos = (46,0);
 ref = ogonekcomb.case;
 }
 );

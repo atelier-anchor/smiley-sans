@@ -24,7 +24,7 @@ shapes = (
 ref = O;
 },
 {
-pos = (52,0);
+pos = (62,0);
 ref = brevecomb.case;
 }
 );

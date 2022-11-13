@@ -6,12 +6,12 @@ layers = (
 layerId = m01;
 shapes = (
 {
-pos = (60,0);
+pos = (71,0);
 ref = brevecomb;
 },
 {
 alignment = -1;
-pos = (70,144);
+pos = (68,144);
 ref = tildecomb;
 }
 );
