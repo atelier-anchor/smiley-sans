@@ -10,3 +10,5 @@ UIState.plist
 *.woff
 *.woff2
 *.zip
+
+build
