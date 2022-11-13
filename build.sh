@@ -1,5 +1,7 @@
-datetime=$(date +"%Y-%m-%d %H:%M:%S")
-sed -i -E "s/(^ +Version .+)/\1 (dev $datetime)/g" src/SmileySans.ttx
+if [ "$1" = "dev" ]; then
+    datetime=$(date +"%Y-%m-%d %H:%M:%S")
+    sed -i -E "s/(^ +Version .+)/\1 (dev $datetime)/g" src/SmileySans.ttx
+fi
 
 mkdir build
 fontmake \

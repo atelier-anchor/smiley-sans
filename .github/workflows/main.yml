@@ -14,7 +14,7 @@ jobs:
           python -m pip install -U pip
           pip install -r requirements.txt
       - name: Build fonts
-        run: source build.sh
+        run: source build.sh dev
       - uses: actions/upload-artifact@v3
         with:
           name: smiley-sans
