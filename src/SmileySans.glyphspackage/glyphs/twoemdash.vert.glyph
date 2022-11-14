@@ -1,0 +1,31 @@
+{
+color = 8;
+glyphname = twoemdash.vert;
+layers = (
+{
+anchors = (
+{
+name = BSB;
+pos = (400,-600);
+},
+{
+name = TSB;
+pos = (400,1400);
+}
+);
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(367,1330,l),
+(367,-540,l),
+(435,-540,l),
+(435,1330,l)
+);
+}
+);
+width = 800;
+}
+);
+}

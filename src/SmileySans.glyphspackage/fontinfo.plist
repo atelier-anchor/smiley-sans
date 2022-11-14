@@ -377,6 +377,7 @@ sub semicolon by semicolon.vert;
 sub comma.full by comma.full.vert;
 sub underscore.full by underscore.full.vert;
 sub emdash by emdash.vert;
+sub twoemdash by twoemdash.vert;
 sub anglebracketleft by anglebracketleft.vert;
 sub anglebracketright by anglebracketright.vert;
 sub blacklenticularbracketleft by blacklenticularbracketleft.vert;
@@ -411,6 +412,7 @@ sub semicolon by semicolon.vert;
 sub comma.full by comma.full.vert;
 sub underscore.full by underscore.full.vert;
 sub emdash by emdash.vert;
+sub twoemdash by twoemdash.vert;
 sub anglebracketleft by anglebracketleft.vert;
 sub anglebracketright by anglebracketright.vert;
 sub blacklenticularbracketleft by blacklenticularbracketleft.vert;
@@ -475,7 +477,9 @@ sub t' [i idotless iacute icaron icircumflex idieresis idotaccent idotbelow igra
 tag = calt;
 },
 {
-code = "sub S H D zero zero numbersign by heartBlackSuit;";
+code = "sub emdash emdash by twoemdash;
+sub S H D zero zero numbersign by heartBlackSuit;
+";
 tag = ccmp;
 }
 );

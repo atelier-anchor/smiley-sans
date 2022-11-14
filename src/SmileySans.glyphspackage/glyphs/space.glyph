@@ -6,5 +6,5 @@ layerId = m01;
 width = 190;
 }
 );
-unicode = 32;
+unicode = (32,160);
 }
