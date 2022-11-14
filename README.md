@@ -2,7 +2,7 @@
 
 [![build](https://github.com/atelier-anchor/smiley-sans/workflows/build/badge.svg)](https://github.com/atelier-anchor/smiley-sans/actions)
 
-<h1 align="center"><img src="images/smiley-sans.light.svg#gh-light-mode-only" title="Smiley Sans"><img src="images/smiley-sans.dark.svg#gh-dark-mode-only" title="Smiley Sans"></h1>
+<center><img src="images/smiley-sans.light.svg#gh-light-mode-only" title="Smiley Sans"><img src="images/smiley-sans.dark.svg#gh-dark-mode-only" title="Smiley Sans"></center>
 
 ## 下载
 
