@@ -17,15 +17,6 @@
     <namerecord nameID="6" platformID="1" platEncID="0" langID="0x0" unicode="True">
       SmileySans-Oblique
     </namerecord>
-    <namerecord nameID="11" platformID="1" platEncID="0" langID="0x0" unicode="True">
-      https://atelier-anchor.com
-    </namerecord>
-    <namerecord nameID="12" platformID="1" platEncID="0" langID="0x0" unicode="True">
-      https://atelier-anchor.com
-    </namerecord>
-    <namerecord nameID="14" platformID="1" platEncID="0" langID="0x0" unicode="True">
-      https://scripts.sil.org/OFL
-    </namerecord>
     <namerecord nameID="0" platformID="3" platEncID="1" langID="0x409">
       Copyright © 2022 atelierAnchor. All rights reserved.
     </namerecord>
@@ -76,9 +67,6 @@
     </namerecord>
     <namerecord nameID="1" platformID="3" platEncID="1" langID="0x804">
       得意黑
-    </namerecord>
-    <namerecord nameID="2" platformID="3" platEncID="1" langID="0x804">
-      Regular
     </namerecord>
     <namerecord nameID="4" platformID="3" platEncID="1" langID="0x804">
       得意黑 斜体

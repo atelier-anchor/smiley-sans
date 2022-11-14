@@ -103,6 +103,24 @@ name = itgroup;
 );
 customParameters = (
 {
+name = unicodeRanges;
+value = (
+0,
+1,
+49,
+50,
+59
+);
+},
+{
+name = codePageRanges;
+value = (
+"1252",
+"1250",
+"936"
+);
+},
+{
 name = "Guides Palette Config";
 value = {
 showAngle = 1;
