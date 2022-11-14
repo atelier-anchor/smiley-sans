@@ -1,8 +1,10 @@
-# 得意黑 Smiley Sans
+<h1 align="center">
+  <img src="images/smiley-sans.light.svg#gh-light-mode-only" title="Smiley Sans">
+  <img src="images/smiley-sans.dark.svg#gh-dark-mode-only" title="Smiley Sans">
+</h1>
 
-[![build](https://github.com/atelier-anchor/smiley-sans/workflows/build/badge.svg)](https://github.com/atelier-anchor/smiley-sans/actions)
-
-<center><img src="images/smiley-sans.light.svg#gh-light-mode-only" title="Smiley Sans"><img src="images/smiley-sans.dark.svg#gh-dark-mode-only" title="Smiley Sans"></center>
+[![Build Status](https://github.com/atelier-anchor/smiley-sans/workflows/build/badge.svg)](https://github.com/atelier-anchor/smiley-sans/actions)
+[![GitHub release](https://img.shields.io/github/release/atelier-anchor/smiley-sans/all.svg)](https://github.com/atelier-anchor/smiley-sans/releases/latest)
 
 ## 下载
 
