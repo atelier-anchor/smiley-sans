@@ -12,7 +12,7 @@
       Smiley Sans Oblique
     </namerecord>
     <namerecord nameID="5" platformID="1" platEncID="0" langID="0x0" unicode="True">
-      Version 1.000
+      Version 1.0.0
     </namerecord>
     <namerecord nameID="6" platformID="1" platEncID="0" langID="0x0" unicode="True">
       SmileySans-Oblique
@@ -27,13 +27,13 @@
       Regular
     </namerecord>
     <namerecord nameID="3" platformID="3" platEncID="1" langID="0x409">
-      1.000;UKWN;SmileySans-Oblique
+      1.0.0;UKWN;SmileySans-Oblique
     </namerecord>
     <namerecord nameID="4" platformID="3" platEncID="1" langID="0x409">
       Smiley Sans Oblique
     </namerecord>
     <namerecord nameID="5" platformID="3" platEncID="1" langID="0x409">
-      Version 1.000
+      Version 1.0.0
     </namerecord>
     <namerecord nameID="6" platformID="3" platEncID="1" langID="0x409">
       SmileySans-Oblique
