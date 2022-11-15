@@ -1,0 +1,3 @@
+*.plist linguist-detectable=true
+*.glyphs linguist-detectable=true
+*.glyph linguist-language=Glyph
