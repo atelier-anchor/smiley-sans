@@ -1,0 +1,27 @@
+name: Character Request
+description: Request Smiley Sans to support a character.
+title: "[Character Request] "
+labels: ["\U0001F170️ Character Request"]
+# assignees:
+#   - stone-zeng
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to submit you issue using the following template!
+        By opening this issue you confirm that you have searched for similar issues/PRs here already.
+  - type: input
+    id: character
+    attributes:
+      label: Character
+      description: "Please provide the character you want to request."
+      placeholder: ex. 𐌰
+    validations:
+      required: true
+  - type: textarea
+    id: justification
+    attributes:
+      label: Justification
+      description: "Please provide the justification for the character."
+      placeholder: |
+        Please provide justification here.
