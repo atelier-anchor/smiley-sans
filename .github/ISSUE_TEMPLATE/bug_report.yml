@@ -1,0 +1,53 @@
+name: Bug Report
+description: Create a report to help us improve.
+title: "[Bug] "
+labels: ["\U0001F41E Bug"]
+# assignees:
+#   - stone-zeng
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to submit you issue using the following template!
+        By opening this issue you confirm that you have searched for similar issues/PRs here already.
+        Failing to do so will most likely result in closing of this issue without any explanation.
+        Incomplete form details below might also result in closing of the issue.
+  - type: input
+    id: name
+    attributes:
+      label: Font Version
+      description: "Please provide the version of the font."
+      placeholder: ex. 1.0.0
+    validations:
+      required: true
+  - type: input
+    id: operating-system
+    attributes:
+      label: Operating System(name and version)
+      description: "Please provide the operating system."
+      placeholder: ex. Ubuntu 22.04 LTS/macOS 12.4
+    validations:
+      required: true
+  - type: input
+    attributes:
+      label: Installation Method
+      description: "Please provide the method you used to install the font."
+      placeholder: ex. Release page/Packages Manager(apt, pacman, scoop, choco, etc.)
+    validations:
+      required: true
+  - type: input
+    attributes:
+      label: Application Using the Font
+      description: "Please provide the application you are using the font."
+      placeholder: ex. LibreOffice Writer/Terminal
+    validations:
+      required: true
+  - type: textarea
+    id: current-behaviour
+    attributes:
+      label: Current Behaviour
+      description: "A clear and concise description of the behaviour."
+      placeholder: |
+        Describe your problem here. Provide pictures and files if necessary.
+    validations:
+      required: true
