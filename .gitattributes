@@ -1,0 +1,7 @@
+* text  eol=lf
+
+*.otf   binary
+*.pdf   binary
+*.ttf   binary
+*.woff2 binary
+*.zip   binary
