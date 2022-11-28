@@ -1,5 +1,5 @@
 {
-.appVersion = "3145";
+.appVersion = "3149";
 .formatVersion = 3;
 classes = (
 {
@@ -639,9 +639,9 @@ pos = 8;
 name = Oblique;
 userData = {
 GSCornerRadius = 40;
-GSOffsetHorizontal = -2;
+GSOffsetHorizontal = 2;
 GSOffsetKeepCompatible = 1;
-GSOffsetVertical = -1;
+GSOffsetVertical = 2;
 };
 visible = 1;
 }
