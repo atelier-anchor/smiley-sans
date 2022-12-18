@@ -16,6 +16,11 @@
 - 本字体的开发版本使用 [GitHub Actions](https://github.com/atelier-anchor/smiley-sans/actions) 构建，可在其中选择最新成功的构建结果，并下载对应的 Artifacts。
 - 字体的安装方式取决于具体的系统或软件，请按照对应的说明操作，例如：
   - [macOS](https://support.apple.com/zh-cn/HT201749)
+    - macOS亦可用[Homebrew](https://brew.sh/index_zh-cn)进行安装，在命令行中输入以下指令（这要求您已经安装好Homebrew）：
+      ```bash
+      brew tap homebrew/cask-fonts         # 只需要在第一次安装时执行
+      brew install font-smiley-sans
+      ```
   - [Adobe](https://glyphsapp.com/zh/learn/testing-your-fonts-in-adobe-apps)
   - [Office](https://support.microsoft.com/zh-cn/office/下载和安装自定义字体以便在-office-中使用-0ee09e74-edc1-480c-81c2-5cf9537c70ce)
   - [Procreate](https://procreate.art/cn/handbook/procreate/text/text-fonts/)
