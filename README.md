@@ -6,7 +6,7 @@
 [![Build Status](https://github.com/atelier-anchor/smiley-sans/workflows/build/badge.svg)](https://github.com/atelier-anchor/smiley-sans/actions)
 [![GitHub release](https://img.shields.io/github/release/atelier-anchor/smiley-sans/all.svg)](https://github.com/atelier-anchor/smiley-sans/releases/latest)
 
-得意黑是一款在人文观感和几何特征中寻找平衡的中文黑体。整体字身窄而斜，细节融入了取法手绘美术字的特殊造型。字体支持简体中文常用字（覆盖 GB 2312 编码字符集）、拉丁字母、日文假名、阿拉伯数字和各类标点符号。
+得意黑是一款在人文观感和几何特征中寻找平衡的中文黑体。整体字身窄而斜，细节融入了取法手绘美术字的特殊造型。字体支持简体中文常用字（覆盖 GB/T 2312-1980 编码字符集）、拉丁字母、日文假名、阿拉伯数字和各类标点符号。
 
 ## 下载安装
 
