@@ -15,7 +15,7 @@
   - `.woff2` 为网页字体格式，供网站开发人员使用。
 - 本字体的开发版本使用 [GitHub Actions](https://github.com/atelier-anchor/smiley-sans/actions) 构建，可在其中选择最新成功的构建结果，并下载对应的 Artifacts。
 - 字体的安装方式取决于具体的系统或软件，请按照对应的说明操作，例如：
-  - [macOS](https://support.apple.com/zh-cn/HT201749)
+  - [MacOS](https://support.apple.com/zh-cn/HT201749)
     - 也可使用 [Homebrew](https://brew.sh/index_zh-cn) 进行安装，在命令行中输入以下指令（这要求已经安装好 Homebrew）：
       ```bash
       brew tap homebrew/cask-fonts  # 只需要在第一次安装时执行
