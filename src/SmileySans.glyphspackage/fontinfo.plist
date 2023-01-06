@@ -1,5 +1,5 @@
 {
-.appVersion = "3149";
+.appVersion = "3150";
 .formatVersion = 3;
 classes = (
 {
@@ -1752,7 +1752,7 @@ key = copyrights;
 values = (
 {
 language = dflt;
-value = "Copyright © 2022 atelierAnchor. All rights reserved.";
+value = "Copyright © 2022–2023 atelierAnchor. All rights reserved.";
 }
 );
 },

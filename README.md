@@ -6,7 +6,7 @@
 [![Build Status](https://github.com/atelier-anchor/smiley-sans/workflows/build/badge.svg)](https://github.com/atelier-anchor/smiley-sans/actions)
 [![GitHub release](https://img.shields.io/github/release/atelier-anchor/smiley-sans/all.svg)](https://github.com/atelier-anchor/smiley-sans/releases/latest)
 
-得意黑是一款在人文观感和几何特征中寻找平衡的中文黑体。整体字身窄而斜，细节融入了取法手绘美术字的特殊造型。字体支持简体中文常用字（覆盖 [GB/T 2312-1980](https://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=5664A728BD9D523DE3B99BC37AC7A2CC) 编码字符集）、拉丁字母、日文假名、阿拉伯数字和各类标点符号。
+得意黑是一款在人文观感和几何特征中寻找平衡的中文黑体。整体字身窄而斜，细节融入了取法手绘美术字的特殊造型。字体支持简体中文常用字（覆盖 [GB/T 2312-1980](https://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=5664A728BD9D523DE3B99BC37AC7A2CC) 编码字符集）、拉丁字母、西里尔字母、希腊字母、日文假名、阿拉伯数字和各类标点符号。
 
 ## 下载安装
 
@@ -37,6 +37,14 @@
 
 - 除基础拉丁字母外，覆盖欧洲、美洲、南亚各种语言所需的字符共 415 个，另加入必要的变体和本地化字形，可支持 100 余种语言，包括英语、法语、德语、西班牙语、芬兰语、越南语等等。
 
+### 西里尔字母
+
+- 支持基础西里尔字母共 80 个。
+
+### 希腊字母
+
+- 支持基础希腊字母共 71 个。
+
 ### 日文假名
 
 - 支持平假名、片假名字符共 174 个。
@@ -65,4 +73,4 @@
 
 ---
 
-Copyright &copy; 2022 by [atelierAnchor](https://atelier-anchor.com).
+Copyright © 2022–2023 [atelierAnchor](https://atelier-anchor.com). All rights reserved.
