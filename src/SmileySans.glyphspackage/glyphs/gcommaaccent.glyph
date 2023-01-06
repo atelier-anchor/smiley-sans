@@ -1,5 +1,7 @@
 {
 glyphname = gcommaaccent;
+kernLeft = g;
+kernRight = g;
 layers = (
 {
 layerId = m01;

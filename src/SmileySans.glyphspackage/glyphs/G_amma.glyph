@@ -1,0 +1,17 @@
+{
+glyphname = Gamma;
+kernLeft = H;
+kernRight = "Ge-cy";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = "Ge-cy";
+}
+);
+width = 419;
+}
+);
+unicode = 915;
+}

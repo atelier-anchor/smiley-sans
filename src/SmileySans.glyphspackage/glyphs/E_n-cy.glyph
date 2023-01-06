@@ -1,0 +1,17 @@
+{
+glyphname = "En-cy";
+kernLeft = H;
+kernRight = H;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = H;
+}
+);
+width = 513;
+}
+);
+unicode = 1053;
+}

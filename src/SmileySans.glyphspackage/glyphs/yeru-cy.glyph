@@ -1,0 +1,24 @@
+{
+glyphname = "yeru-cy";
+kernLeft = n;
+kernRight = n;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = "softsign-cy";
+},
+{
+alignment = -1;
+pos = (385,0);
+ref = idotless;
+}
+);
+width = 580;
+}
+);
+metricLeft = n;
+metricRight = n;
+unicode = 1099;
+}

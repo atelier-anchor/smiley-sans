@@ -1,0 +1,30 @@
+{
+glyphname = "shcha-cy";
+kernLeft = n;
+kernRight = "de-cy";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = "sha-cy";
+},
+{
+closed = 1;
+nodes = (
+(625,-181,l),
+(667,58,l),
+(320,58,l),
+(308,-30,l),
+(563,-30,l),
+(537,-181,l)
+);
+}
+);
+width = 704;
+}
+);
+metricLeft = n;
+metricRight = "tse-cy";
+unicode = 1097;
+}

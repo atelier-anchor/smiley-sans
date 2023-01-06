@@ -1,0 +1,27 @@
+{
+glyphname = "hardsign-cy";
+kernRight = "softsign-cy";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+pos = (49,0);
+ref = "softsign-cy";
+},
+{
+closed = 1;
+nodes = (
+(10,492,l),
+(189,492,l),
+(202,580,l),
+(23,580,l)
+);
+}
+);
+width = 447;
+}
+);
+metricRight = "ve-cy";
+unicode = 1098;
+}

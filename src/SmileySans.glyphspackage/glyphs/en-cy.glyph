@@ -1,0 +1,43 @@
+{
+glyphname = "en-cy";
+kernLeft = n;
+kernRight = n;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(188,580,l),
+(91,580,l),
+(5,-30,l),
+(102,-30,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(429,580,l),
+(332,580,l),
+(246,-30,l),
+(343,-30,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(99,238,l),
+(327,238,l),
+(327,329,l),
+(99,329,l)
+);
+}
+);
+width = 438;
+}
+);
+metricLeft = n;
+metricRight = n;
+unicode = 1085;
+}

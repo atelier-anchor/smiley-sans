@@ -1,0 +1,19 @@
+{
+glyphname = "Iigrave-cy";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = "Ii-cy";
+},
+{
+pos = (16,0);
+ref = gravecomb.case;
+}
+);
+width = 555;
+}
+);
+unicode = 1037;
+}

@@ -1,0 +1,26 @@
+{
+glyphname = "ge-cy";
+kernLeft = n;
+kernRight = "ge-cy";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(334,580,l),
+(91,580,l),
+(5,-30,l),
+(102,-30,l),
+(175,489,l),
+(320,489,l)
+);
+}
+);
+width = 313;
+}
+);
+metricLeft = n;
+unicode = 1075;
+}

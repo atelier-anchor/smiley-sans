@@ -1,5 +1,7 @@
 {
 glyphname = edotbelow;
+kernLeft = o;
+kernRight = e;
 layers = (
 {
 layerId = m01;

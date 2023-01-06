@@ -11,7 +11,7 @@ ref = circumflexcomb;
 },
 {
 alignment = -1;
-pos = (219,94);
+pos = (160,94);
 ref = gravecomb;
 }
 );

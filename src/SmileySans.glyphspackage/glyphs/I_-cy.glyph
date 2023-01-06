@@ -1,0 +1,15 @@
+{
+glyphname = "I-cy";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = I;
+}
+);
+width = 211;
+}
+);
+unicode = 1030;
+}

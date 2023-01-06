@@ -1,0 +1,21 @@
+{
+glyphname = etatonos;
+kernLeft = n;
+kernRight = n;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = eta;
+},
+{
+pos = (-37,0);
+ref = tonos;
+}
+);
+width = 436;
+}
+);
+unicode = 942;
+}

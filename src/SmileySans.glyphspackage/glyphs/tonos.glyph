@@ -1,0 +1,16 @@
+{
+glyphname = tonos;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+pos = (100,0);
+ref = acutecomb;
+}
+);
+width = 600;
+}
+);
+unicode = 900;
+}

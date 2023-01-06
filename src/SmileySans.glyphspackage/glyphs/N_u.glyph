@@ -1,0 +1,17 @@
+{
+glyphname = Nu;
+kernLeft = H;
+kernRight = H;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = N;
+}
+);
+width = 555;
+}
+);
+unicode = 925;
+}

@@ -1,5 +1,6 @@
 {
 glyphname = ecircumflexacute;
+kernLeft = o;
 layers = (
 {
 layerId = m01;

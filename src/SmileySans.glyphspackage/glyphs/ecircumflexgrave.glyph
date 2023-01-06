@@ -1,5 +1,6 @@
 {
 glyphname = ecircumflexgrave;
+kernLeft = o;
 layers = (
 {
 layerId = m01;

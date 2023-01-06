@@ -1,5 +1,7 @@
 {
 glyphname = gdotaccent;
+kernLeft = g;
+kernRight = g;
 layers = (
 {
 layerId = m01;

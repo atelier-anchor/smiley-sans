@@ -1,0 +1,17 @@
+{
+glyphname = Upsilon;
+kernLeft = Y;
+kernRight = Y;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = Y;
+}
+);
+width = 408;
+}
+);
+unicode = 933;
+}

@@ -1,0 +1,44 @@
+{
+glyphname = "Tse-cy";
+kernLeft = H;
+kernRight = "De-cy";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(313,-30,l),
+(413,-30,l),
+(526,778,l),
+(426,778,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(11,-30,l),
+(111,-30,l),
+(224,778,l),
+(124,778,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(459,-181,l),
+(502,62,l),
+(55,62,l),
+(42,-30,l),
+(397,-30,l),
+(371,-181,l)
+);
+}
+);
+width = 534;
+}
+);
+metricLeft = H;
+unicode = 1062;
+}

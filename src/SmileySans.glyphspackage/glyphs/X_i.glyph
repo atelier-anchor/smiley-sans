@@ -1,0 +1,41 @@
+{
+glyphname = Xi;
+kernLeft = Xi;
+kernRight = Xi;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(101,683,l),
+(441,683,l),
+(454,778,l),
+(113,778,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(-9,-30,l),
+(351,-30,l),
+(364,65,l),
+(3,65,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(83,347,l),
+(363,347,l),
+(376,442,l),
+(95,442,l)
+);
+}
+);
+width = 431;
+}
+);
+unicode = 926;
+}

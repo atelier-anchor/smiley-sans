@@ -1,0 +1,33 @@
+{
+glyphname = "Sha-cy";
+kernLeft = H;
+kernRight = H;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(286,62,l),
+(124,62,l),
+(224,778,l),
+(124,778,l),
+(11,-30,l),
+(630,-30,l),
+(748,778,l),
+(648,778,l),
+(543,62,l),
+(386,62,l),
+(486,778,l),
+(386,778,l)
+);
+}
+);
+width = 734;
+}
+);
+metricLeft = H;
+metricRight = H;
+unicode = 1064;
+}

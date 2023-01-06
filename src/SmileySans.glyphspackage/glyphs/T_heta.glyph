@@ -1,0 +1,26 @@
+{
+glyphname = Theta;
+kernLeft = O;
+kernRight = O;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = O;
+},
+{
+closed = 1;
+nodes = (
+(182,351,l),
+(358,351,l),
+(372,437,l),
+(196,437,l)
+);
+}
+);
+width = 527;
+}
+);
+unicode = 920;
+}

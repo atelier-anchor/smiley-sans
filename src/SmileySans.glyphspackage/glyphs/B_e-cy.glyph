@@ -1,0 +1,27 @@
+{
+glyphname = "Be-cy";
+kernLeft = H;
+kernRight = "Be-cy";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(149,682,l),
+(444,682,l),
+(459,778,l),
+(162,778,l)
+);
+},
+{
+ref = "Softsign-cy";
+}
+);
+width = 470;
+}
+);
+metricLeft = H;
+unicode = 1041;
+}

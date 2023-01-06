@@ -1,0 +1,26 @@
+{
+glyphname = tonos.case;
+layers = (
+{
+anchors = (
+{
+name = _topleft;
+pos = (441,778);
+}
+);
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(297,682,l),
+(366,682,l),
+(424,843,l),
+(325,843,l)
+);
+}
+);
+width = 600;
+}
+);
+}

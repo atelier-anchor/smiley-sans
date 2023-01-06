@@ -1,0 +1,21 @@
+{
+glyphname = iotadieresistonos;
+kernLeft = iota;
+kernRight = mu;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = iota;
+},
+{
+pos = (-204,0);
+ref = dieresistonos;
+}
+);
+width = 255;
+}
+);
+unicode = 912;
+}

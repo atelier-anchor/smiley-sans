@@ -1,0 +1,25 @@
+{
+glyphname = "geupturn-cy";
+kernRight = "ge-cy";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = "ge-cy";
+},
+{
+closed = 1;
+nodes = (
+(333,489,l),
+(368,675,l),
+(280,675,l),
+(244,489,l)
+);
+}
+);
+width = 329;
+}
+);
+unicode = 1169;
+}

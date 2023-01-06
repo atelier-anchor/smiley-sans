@@ -1,0 +1,29 @@
+{
+glyphname = "pe-cy";
+kernLeft = n;
+kernRight = n;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(176,495,l),
+(320,495,l),
+(246,-30,l),
+(343,-30,l),
+(429,580,l),
+(91,580,l),
+(5,-30,l),
+(102,-30,l)
+);
+}
+);
+width = 438;
+}
+);
+metricLeft = n;
+metricRight = n;
+unicode = 1087;
+}

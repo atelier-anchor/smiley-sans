@@ -1,0 +1,19 @@
+{
+glyphname = "iegrave-cy";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = "ie-cy";
+},
+{
+pos = (-59,0);
+ref = gravecomb;
+}
+);
+width = 449;
+}
+);
+unicode = 1104;
+}

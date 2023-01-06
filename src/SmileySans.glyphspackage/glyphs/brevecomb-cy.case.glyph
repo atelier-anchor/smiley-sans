@@ -1,0 +1,15 @@
+{
+glyphname = "brevecomb-cy.case";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+pos = (97,0);
+ref = brevecomb.case;
+}
+);
+width = 600;
+}
+);
+}

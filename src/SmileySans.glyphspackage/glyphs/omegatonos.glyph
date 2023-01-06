@@ -1,0 +1,21 @@
+{
+glyphname = omegatonos;
+kernLeft = omega;
+kernRight = omega;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = omega;
+},
+{
+pos = (49,0);
+ref = tonos;
+}
+);
+width = 665;
+}
+);
+unicode = 974;
+}

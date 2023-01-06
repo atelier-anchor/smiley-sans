@@ -1,0 +1,25 @@
+{
+glyphname = apostrophemod;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(116,692,o),
+(93,624,o),
+(62,551,c),
+(119,527,l),
+(156,588,o),
+(194,669,o),
+(228,760,c),
+(138,782,l)
+);
+}
+);
+width = 198;
+}
+);
+unicode = 700;
+}

@@ -1,0 +1,17 @@
+{
+glyphname = "Ie-cy";
+kernLeft = H;
+kernRight = E;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = E;
+}
+);
+width = 429;
+}
+);
+unicode = 1045;
+}

@@ -1,0 +1,32 @@
+{
+glyphname = "te-cy";
+kernLeft = "te-cy";
+kernRight = "te-cy";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(33,492,l),
+(354,492,l),
+(367,580,l),
+(46,580,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(255,580,l),
+(158,580,l),
+(72,-30,l),
+(169,-30,l)
+);
+}
+);
+width = 331;
+}
+);
+unicode = 1090;
+}

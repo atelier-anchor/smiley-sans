@@ -6,7 +6,7 @@ layers = (
 layerId = m01;
 shapes = (
 {
-pos = (-61,71);
+pos = (-30,71);
 ref = braceleft;
 }
 );

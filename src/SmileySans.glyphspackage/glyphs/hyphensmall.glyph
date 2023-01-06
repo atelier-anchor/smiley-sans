@@ -6,7 +6,7 @@ layers = (
 layerId = m01;
 shapes = (
 {
-pos = (40,0);
+pos = (53,0);
 ref = hyphen;
 }
 );

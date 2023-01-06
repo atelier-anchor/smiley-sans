@@ -1,0 +1,21 @@
+{
+glyphname = upsilondieresistonos;
+kernLeft = n;
+kernRight = upsilon;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = upsilon;
+},
+{
+pos = (-88,0);
+ref = dieresistonos;
+}
+);
+width = 460;
+}
+);
+unicode = 944;
+}
