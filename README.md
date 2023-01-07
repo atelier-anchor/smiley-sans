@@ -15,6 +15,17 @@
   - `.woff2` 为网页字体格式，供网站开发人员使用。
 - 本字体的开发版本使用 [GitHub Actions](https://github.com/atelier-anchor/smiley-sans/actions) 构建，可在其中选择最新成功的构建结果，并下载对应的 Artifacts。
 - 字体的安装方式取决于具体的系统或软件，请按照对应的说明操作，例如：
+  - Linux
+    - Arch Linux 可以从 AUR 获取 [ttf-smiley-sans](https://aur.archlinux.org/packages?O=0&SeB=nd&K=ttf-smiley-sans&outdated=&SB=p&SO=d&PP=50&submit=Go) 其他 Linux 可以参考 AUR 包的 PKGBUILD 文件，自行修改移植。
+    ```bash
+    # Arch Linux 及其衍生版
+    # 从得意黑 Smiley Sans (ttf) 源码编译安装发行版
+    yay -S ttf-smiley-sans
+    # 从得意黑 Smiley Sans (ttf) 二进制发行版安装
+    yay -S ttf-smiley-sans-bin
+    # 从得意黑 Smiley Sans (ttf) 源码编译安装开发版
+    yay -S ttf-smiley-sans-git
+    ```
   - [Windows](https://support.microsoft.com/zh-cn/windows/如何在-windows-中安装或删除字体-f12d0657-2fc8-7613-c76f-88d043b334b8) 
   - [macOS](https://support.apple.com/zh-cn/HT201749)
     - 也可使用 [Homebrew](https://brew.sh/index_zh-cn) 进行安装，在命令行中输入以下指令（这要求已经安装好 Homebrew）：
