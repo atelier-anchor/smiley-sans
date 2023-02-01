@@ -33,6 +33,7 @@
   - [Office](https://support.microsoft.com/zh-cn/office/下载和安装自定义字体以便在-office-中使用-0ee09e74-edc1-480c-81c2-5cf9537c70ce)
   - [Procreate](https://procreate.art/cn/handbook/procreate/text/text-fonts/)
 - 如需预览得意黑的设计，可以[下载样张](docs/smiley-sans-specimen.pdf)。
+- 查看在线展示 [中文网字计划](https://chinese-font.netlify.app/#/fonts/dyh/SmileySans-Oblique)
 
 ## 字符支持
 
