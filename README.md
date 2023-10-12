@@ -1,6 +1,8 @@
 <h1 align="center">
-  <img src="docs/images/smiley-sans.light.svg#gh-light-mode-only" title="Smiley Sans">
-  <img src="docs/images/smiley-sans.dark.svg#gh-dark-mode-only" title="Smiley Sans">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="docs/images/smiley-sans.dark.svg">
+    <img src="docs/images/smiley-sans.light.svg" alt="Smiley Sans" title="Smiley Sans">
+  </picture>
 </h1>
 
 [![Build Status](https://github.com/atelier-anchor/smiley-sans/workflows/build/badge.svg)](https://github.com/atelier-anchor/smiley-sans/actions)
@@ -15,7 +17,7 @@
   - `.woff2` 为网页字体格式，供网站开发人员使用。
 - 本字体的开发版本使用 [GitHub Actions](https://github.com/atelier-anchor/smiley-sans/actions) 构建，可在其中选择最新成功的构建结果，并下载对应的 Artifacts。
 - 字体的安装方式取决于具体的系统或软件，请按照对应的说明操作，例如：
-  - [Windows](https://support.microsoft.com/zh-cn/windows/如何在-windows-中安装或删除字体-f12d0657-2fc8-7613-c76f-88d043b334b8) 
+  - [Windows](https://support.microsoft.com/zh-cn/windows/如何在-windows-中安装或删除字体-f12d0657-2fc8-7613-c76f-88d043b334b8)
   - [macOS](https://support.apple.com/zh-cn/HT201749)
     - 也可使用 [Homebrew](https://brew.sh/index_zh-cn) 进行安装，在命令行中输入以下指令（这要求已经安装好 Homebrew）：
       ```bash

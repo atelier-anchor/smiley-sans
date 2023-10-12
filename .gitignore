@@ -12,3 +12,4 @@ UIState.plist
 *.zip
 
 build
+venv
