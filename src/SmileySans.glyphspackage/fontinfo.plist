@@ -464,6 +464,7 @@ sub K by K.ss01;
 sub Q by Q.ss01;
 sub a by a.ss01;
 sub f by f.ss01;
+sub l by l.ss01;
 sub r by r.ss01;
 sub ampersand by ampersand.ss01;
 sub numero by numero.ss01;
