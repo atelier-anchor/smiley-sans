@@ -1,5 +1,5 @@
 {
-.appVersion = "3150";
+.appVersion = "3227";
 .formatVersion = 3;
 classes = (
 {
@@ -1701,15 +1701,11 @@ type = "italic angle";
 );
 properties = (
 {
-key = familyNames;
+key = copyrights;
 values = (
 {
 language = dflt;
-value = "Smiley Sans";
-},
-{
-language = ZHS;
-value = "得意黑";
+value = "Copyright © 2022–2023 atelierAnchor. All rights reserved.";
 }
 );
 },
@@ -1731,28 +1727,15 @@ key = designerURL;
 value = "https://atelier-anchor.com";
 },
 {
-key = manufacturers;
+key = familyNames;
 values = (
 {
 language = dflt;
-value = atelierAnchor;
+value = "Smiley Sans";
 },
 {
 language = ZHS;
-value = "atelierAnchor 锚坞";
-}
-);
-},
-{
-key = manufacturerURL;
-value = "https://atelier-anchor.com";
-},
-{
-key = copyrights;
-values = (
-{
-language = dflt;
-value = "Copyright © 2022–2023 atelierAnchor. All rights reserved.";
+value = "得意黑";
 }
 );
 },
@@ -1768,6 +1751,23 @@ value = "This Font Software is licensed under the SIL Open Font License, Version
 {
 key = licenseURL;
 value = "https://scripts.sil.org/OFL";
+},
+{
+key = manufacturers;
+values = (
+{
+language = dflt;
+value = atelierAnchor;
+},
+{
+language = ZHS;
+value = "atelierAnchor 锚坞";
+}
+);
+},
+{
+key = manufacturerURL;
+value = "https://atelier-anchor.com";
 }
 );
 unitsPerEm = 1000;

@@ -12,6 +12,7 @@ pos = (231,778);
 layerId = m01;
 shapes = (
 {
+alignment = -1;
 pos = (-84,168);
 ref = circumflexcomb_hookabovecomb;
 }

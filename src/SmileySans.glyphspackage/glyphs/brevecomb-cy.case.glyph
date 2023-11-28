@@ -5,6 +5,7 @@ layers = (
 layerId = m01;
 shapes = (
 {
+alignment = -1;
 pos = (97,0);
 ref = brevecomb.case;
 }
