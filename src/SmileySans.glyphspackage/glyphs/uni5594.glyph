@@ -8,6 +8,246 @@ shapes = (
 {
 closed = 1;
 nodes = (
+(786,834,o),
+(756,856,o),
+(712,856,cs),
+(427,856,l),
+(419,783,l),
+(733,783,l),
+(703,811,l),
+(688,674,l),
+(729,700,l),
+(410,700,l),
+(403,627,l),
+(764,627,l),
+(781,789,ls)
+);
+},
+{
+closed = 1;
+nodes = (
+(373,99,o),
+(408,342,o),
+(431,561,cs),
+(462,856,l),
+(382,856,l),
+(351,562,ls),
+(321,277,o),
+(288,108,o),
+(239,-47,c),
+(317,-80,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(217,773,l),
+(182,737,l),
+(286,737,l),
+(260,773,l),
+(192,151,l),
+(227,186,l),
+(80,186,l),
+(71,106,l),
+(262,106,l),
+(333,742,ls),
+(338,790,o),
+(318,818,o),
+(270,818,cs),
+(145,818,l),
+(62,41,l),
+(138,41,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(405,179,l),
+(397,102,l),
+(695,102,l),
+(704,179,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(569,-47,l),
+(602,268,l),
+(526,268,l),
+(493,-47,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(402,562,l),
+(394,485,l),
+(748,485,l),
+(757,562,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(509,460,o),
+(482,408,o),
+(431,327,c),
+(502,312,l),
+(561,405,o),
+(586,458,o),
+(625,551,c),
+(548,551,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(714,346,o),
+(701,395,o),
+(678,462,c),
+(612,441,l),
+(635,380,o),
+(646,332,o),
+(662,264,c),
+(729,284,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(518,297,o),
+(604,311,o),
+(699,332,c),
+(690,400,l),
+(602,381,o),
+(524,369,o),
+(421,362,c),
+(425,286,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(367,12,l),
+(358,-65,l),
+(695,-65,l),
+(704,12,l)
+);
+}
+);
+userData = {
+assembly = "SVTCA[0]	/* SetFreedomAndProjectionVectorToAxis */
+PUSHW[ ]	/* 1 value pushed */
+13 
+MDAP[1]	/* MoveDirectAbsPt */
+PUSHW[ ]	/* 1 value pushed */
+0 
+RCVT[ ]	/* ReadCVT */
+IF[ ]	/* If */
+PUSHW[ ]	/* 1 value pushed */
+40 
+MDAP[1]	/* MoveDirectAbsPt */
+ELSE[ ]	/* Else */
+PUSHW[ ]	/* 2 values pushed */
+40 5 
+MIAP[0]	/* MoveIndirectAbsPt */
+EIF[ ]	/* EndIf */
+PUSHW[ ]	/* 4 values pushed */
+85 1 82 4 
+CALL[ ]	/* CallFunction */
+PUSHW[ ]	/* 4 values pushed */
+10 1 7 4 
+CALL[ ]	/* CallFunction */
+PUSHW[ ]	/* 4 values pushed */
+26 1 36 4 
+CALL[ ]	/* CallFunction */
+PUSHW[ ]	/* 4 values pushed */
+4 1 1 4 
+CALL[ ]	/* CallFunction */
+PUSHW[ ]	/* 4 values pushed */
+51 1 48 4 
+CALL[ ]	/* CallFunction */
+PUSHW[ ]	/* 1 value pushed */
+10 
+SRP0[ ]	/* SetRefPoint0 */
+PUSHW[ ]	/* 1 value pushed */
+18 
+MDRP[10000]	/* MoveDirectRelPt */
+PUSHW[ ]	/* 1 value pushed */
+40 
+SRP0[ ]	/* SetRefPoint0 */
+PUSHW[ ]	/* 1 value pushed */
+75 
+MDRP[11100]	/* MoveDirectRelPt */
+PUSHW[ ]	/* 3 values pushed */
+33 40 75 
+SRP1[ ]	/* SetRefPoint1 */
+SRP2[ ]	/* SetRefPoint2 */
+IP[ ]	/* InterpolatePts */
+PUSHW[ ]	/* 3 values pushed */
+34 40 75 
+SRP1[ ]	/* SetRefPoint1 */
+SRP2[ ]	/* SetRefPoint2 */
+IP[ ]	/* InterpolatePts */
+PUSHW[ ]	/* 3 values pushed */
+38 36 26 
+SRP1[ ]	/* SetRefPoint1 */
+SRP2[ ]	/* SetRefPoint2 */
+IP[ ]	/* InterpolatePts */
+PUSHW[ ]	/* 1 value pushed */
+40 
+SRP0[ ]	/* SetRefPoint0 */
+PUSHW[ ]	/* 2 values pushed */
+42 1 
+MIRP[10100]	/* MoveIndirectRelPt */
+PUSHW[ ]	/* 2 values pushed */
+39 1 
+MIRP[10100]	/* MoveIndirectRelPt */
+PUSHW[ ]	/* 1 value pushed */
+40 
+SRP0[ ]	/* SetRefPoint0 */
+PUSHW[ ]	/* 2 values pushed */
+44 1 
+MIRP[10100]	/* MoveIndirectRelPt */
+PUSHW[ ]	/* 1 value pushed */
+85 
+SRP0[ ]	/* SetRefPoint0 */
+PUSHW[ ]	/* 2 values pushed */
+46 1 
+MIRP[10100]	/* MoveIndirectRelPt */
+PUSHW[ ]	/* 1 value pushed */
+48 
+SRP0[ ]	/* SetRefPoint0 */
+PUSHW[ ]	/* 2 values pushed */
+53 1 
+MIRP[10100]	/* MoveIndirectRelPt */
+PUSHW[ ]	/* 3 values pushed */
+59 40 75 
+SRP1[ ]	/* SetRefPoint1 */
+SRP2[ ]	/* SetRefPoint2 */
+IP[ ]	/* InterpolatePts */
+PUSHW[ ]	/* 1 value pushed */
+44 
+SRP0[ ]	/* SetRefPoint0 */
+PUSHW[ ]	/* 1 value pushed */
+74 
+MDRP[10000]	/* MoveDirectRelPt */
+PUSHW[ ]	/* 1 value pushed */
+74 
+MDAP[1]	/* MoveDirectAbsPt */
+IUP[0]	/* InterpolateUntPts */
+IUP[1]	/* InterpolateUntPts */";
+};
+width = 800;
+},
+{
+associatedMasterId = m01;
+layerId = "F28FB798-4562-433E-B2C6-24EE084C55CB";
+name = "23年9月13日 12:53";
+shapes = (
+{
+closed = 1;
+nodes = (
 (776,834,o),
 (746,856,o),
 (702,856,cs),
