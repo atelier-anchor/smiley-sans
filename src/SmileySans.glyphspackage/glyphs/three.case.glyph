@@ -1,6 +1,6 @@
 {
 color = 1;
-glyphname = three.lf;
+glyphname = three.case;
 kernLeft = three;
 kernRight = three;
 layers = (
@@ -57,7 +57,7 @@ nodes = (
 );
 }
 );
-width = 447;
+width = 448;
 }
 );
 metricLeft = three;

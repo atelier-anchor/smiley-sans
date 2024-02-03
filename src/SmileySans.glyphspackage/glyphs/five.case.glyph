@@ -1,6 +1,6 @@
 {
 color = 1;
-glyphname = five.lf;
+glyphname = five.case;
 kernLeft = five;
 kernRight = five;
 layers = (
@@ -54,7 +54,7 @@ nodes = (
 );
 }
 );
-width = 438;
+width = 430;
 }
 );
 metricLeft = five;

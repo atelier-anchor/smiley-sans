@@ -8,7 +8,7 @@ shapes = (
 {
 alignment = -1;
 pos = (-18,0);
-ref = zero.lf;
+ref = zero.case;
 }
 );
 width = 470;

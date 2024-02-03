@@ -1,6 +1,6 @@
 {
 color = 1;
-glyphname = four.lf;
+glyphname = four.case;
 kernLeft = four;
 kernRight = four;
 layers = (
@@ -32,7 +32,7 @@ nodes = (
 );
 }
 );
-width = 444;
+width = 450;
 }
 );
 metricLeft = four;

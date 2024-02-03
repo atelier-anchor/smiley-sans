@@ -1,6 +1,6 @@
 {
 color = 1;
-glyphname = seven.lf;
+glyphname = seven.case;
 kernLeft = seven;
 kernRight = seven;
 layers = (
@@ -25,7 +25,7 @@ nodes = (
 );
 }
 );
-width = 394;
+width = 396;
 }
 );
 metricLeft = seven;

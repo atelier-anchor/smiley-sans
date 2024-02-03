@@ -1,5 +1,5 @@
 {
-.appVersion = "3227";
+.appVersion = "3236";
 .formatVersion = 3;
 classes = (
 {
@@ -13,16 +13,16 @@ six
 seven
 eight
 nine
-zero.lf
-one.lf
-two.lf
-three.lf
-four.lf
-five.lf
-six.lf
-seven.lf
-eight.lf
-nine.lf
+zero.case
+one.case
+two.case
+three.case
+four.case
+five.case
+six.case
+seven.case
+eight.case
+nine.case
 zero.tf
 one.tf
 two.tf

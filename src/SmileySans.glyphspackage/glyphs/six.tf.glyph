@@ -8,7 +8,7 @@ shapes = (
 {
 alignment = -1;
 pos = (-11,0);
-ref = six.lf;
+ref = six.case;
 }
 );
 width = 470;

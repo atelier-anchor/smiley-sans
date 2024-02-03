@@ -1,6 +1,6 @@
 {
 color = 1;
-glyphname = nine.lf;
+glyphname = nine.case;
 kernLeft = nine;
 kernRight = nine;
 layers = (
@@ -10,12 +10,12 @@ shapes = (
 {
 alignment = -1;
 angle = 180;
-pos = (513,738);
+pos = (520,738);
 ref = six;
 slant = (1,0);
 }
 );
-width = 473;
+width = 483;
 }
 );
 metricLeft = nine;
