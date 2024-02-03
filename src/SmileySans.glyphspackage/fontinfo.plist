@@ -33,8 +33,11 @@ six.tf
 seven.tf
 eight.tf
 nine.tf
+onehalf
+onequarter
+threequarters
 ";
-name = allNumbers;
+name = Numbers;
 },
 {
 code = "colon.number
@@ -51,7 +54,7 @@ divide.number
 notequal.number
 hyphen.number
 ";
-name = symbolflex.number;
+name = SymbolFlex.number;
 },
 {
 code = "colon
@@ -68,11 +71,11 @@ divide
 notequal
 hyphen
 ";
-name = symbolflex;
+name = SymbolFlex;
 },
 {
 automatic = 1;
-code = "A Aacute Abreve Abreveacute Abrevedotbelow Abrevegrave Abrevehookabove Abrevetilde Acaron Acircumflex Acircumflexacute Acircumflexdotbelow Acircumflexgrave Acircumflexhookabove Acircumflextilde Adieresis Adotbelow Agrave Ahookabove Amacron Aogonek Aring Atilde AE B C Cacute Ccaron Ccedilla Cdotaccent D Eth Dcaron Dcroat E Eacute Ecaron Ecircumflex Ecircumflexacute Ecircumflexdotbelow Ecircumflexgrave Ecircumflexhookabove Ecircumflextilde Edieresis Edotaccent Edotbelow Egrave Ehookabove Emacron Eogonek Etilde Schwa F G Gbreve Gcommaaccent Gdotaccent Gmacron H Hbar I IJ Iacute Icaron Icircumflex Idieresis Idotaccent Idotbelow Igrave Ihookabove Imacron Iogonek Itilde J Jacute K Kcommaaccent L Lacute Lcaron Lcommaaccent Lslash M N Nacute Ncaron Ncommaaccent Ntilde O Oacute Ocaron Ocircumflex Ocircumflexacute Ocircumflexdotbelow Ocircumflexgrave Ocircumflexhookabove Ocircumflextilde Odieresis Odotbelow Ograve Ohookabove Ohorn Ohornacute Ohorndotbelow Ohorngrave Ohornhookabove Ohorntilde Ohungarumlaut Omacron Oslash Otilde OE P Thorn Q R Racute Rcaron Rcommaaccent S Sacute Scaron Scedilla Scommaaccent T Tcaron Tcedilla Tcommaaccent U Uacute Ucaron Ucircumflex Udieresis Udieresisacute Udieresiscaron Udieresisgrave Udieresismacron Udotbelow Ugrave Uhookabove Uhorn Uhornacute Uhorndotbelow Uhorngrave Uhornhookabove Uhorntilde Uhungarumlaut Umacron Uogonek Uring Utilde V W Wacute Wcircumflex Wdieresis Wgrave X Y Yacute Ycircumflex Ydieresis Ydotbelow Ygrave Yhookabove Ytilde Z Zacute Zcaron Zdotaccent Lcommaaccent.loclMAH Ncommaaccent.loclMAH K.ss01";
+code = "A Aacute Abreve Abreveacute Abrevedotbelow Abrevegrave Abrevehookabove Abrevetilde Acaron Acircumflex Acircumflexacute Acircumflexdotbelow Acircumflexgrave Acircumflexhookabove Acircumflextilde Adieresis Adotbelow Agrave Ahookabove Amacron Aogonek Aring Atilde AE B C Cacute Ccaron Ccedilla Ccircumflex Cdotaccent D Dcaron Dcroat Eth E Eacute Ecaron Ecircumflex Ecircumflexacute Ecircumflexdotbelow Ecircumflexgrave Ecircumflexhookabove Ecircumflextilde Edieresis Edotaccent Edotbelow Egrave Ehookabove Emacron Eogonek Etilde Schwa F G Gbreve Gcircumflex Gcommaaccent Gdotaccent Gmacron H Hbar Hcircumflex I IJ Iacute Icaron Icircumflex Idieresis Idotaccent Idotbelow Igrave Ihookabove Imacron Iogonek Itilde J Jacute Jcircumflex K Kcommaaccent L Lacute Lcaron Lcommaaccent Lslash M N Nacute Ncaron Ncommaaccent Ntilde O Oacute Obreve Ocaron Ocircumflex Ocircumflexacute Ocircumflexdotbelow Ocircumflexgrave Ocircumflexhookabove Ocircumflextilde Odieresis Odotbelow Ograve Ohookabove Ohorn Ohornacute Ohorndotbelow Ohorngrave Ohornhookabove Ohorntilde Ohungarumlaut Omacron Oslash Otilde OE P Thorn Q R Racute Rcaron Rcommaaccent S Sacute Scaron Scedilla Scircumflex Scommaaccent Germandbls T Tcaron Tcedilla Tcommaaccent U Uacute Ubreve Ucaron Ucircumflex Udieresis Udieresisacute Udieresiscaron Udieresisgrave Udieresismacron Udotbelow Ugrave Uhookabove Uhorn Uhornacute Uhorndotbelow Uhorngrave Uhornhookabove Uhorntilde Uhungarumlaut Umacron Uogonek Uring Utilde V W Wacute Wcircumflex Wdieresis Wgrave X Y Yacute Ycircumflex Ydieresis Ydotbelow Ygrave Yhookabove Ytilde Z Zacute Zcaron Zdotaccent A.full B.full C.full D.full E.full F.full G.full H.full I.full J.full K.full L.full M.full N.full O.full P.full Q.full R.full S.full T.full U.full V.full W.full X.full Y.full Z.full Lcommaaccent.loclMAH Ncommaaccent.loclMAH J.ss01 K.ss01 Q.ss01 A-cy Be-cy Ve-cy Ge-cy Geupturn-cy De-cy Ie-cy Iegrave-cy Io-cy Zhe-cy Ze-cy Ii-cy Iishort-cy Iigrave-cy Ka-cy El-cy Em-cy En-cy O-cy Pe-cy Er-cy Es-cy Te-cy U-cy Ushort-cy Ef-cy Ha-cy Che-cy Tse-cy Sha-cy Shcha-cy Softsign-cy Yeru-cy Hardsign-cy E-cy Ereversed-cy I-cy Yi-cy Yu-cy Ya-cy Alpha Beta Gamma Delta Epsilon Zeta Eta Theta Iota Kappa Lambda Mu Nu Xi Omicron Pi Rho Sigma Tau Upsilon Phi Chi Psi Omega Alphatonos Epsilontonos Etatonos Iotatonos Omicrontonos Upsilontonos Omegatonos Iotadieresis Upsilondieresis Sampi";
 name = Uppercase;
 },
 {
@@ -86,19 +89,20 @@ idotaccent
 idotbelow
 igrave
 ihookabove
-ij
 imacron
 iogonek
 itilde
+ij
 j
 jdotless
 jacute
+jcircumflex
 t
+tbar
 tcaron
 tcedilla
-tcommaaccent
-";
-name = itgroup;
+tcommaaccent";
+name = ITGroup;
 }
 );
 customParameters = (
@@ -164,57 +168,72 @@ feature frac;
 feature ordn;
 feature pnum;
 feature tnum;
+feature case;
 feature fwid;
 feature vert;
 feature vrt2;
 feature ss01;
 feature ss02;
-feature calt;
 ";
 tag = aalt;
 },
 {
+code = "lookup ccmp_Other_1 {
+	lookupflag 0;
+	@Markscomb = [brevecomb-cy tonos];
+	@MarkscombCase = [brevecomb-cy.case tonos.case];
+	sub @Uppercase @Markscomb' by @MarkscombCase;
+} ccmp_Other_1;
+
+lookup ccmp_Other_2 {
+	lookupflag 0;
+	sub @MarkscombCase @Markscomb' by @MarkscombCase;
+} ccmp_Other_2;
+
+sub emdash emdash by twoemdash;
+sub S H D zero zero numbersign by heartBlackSuit;
+";
+tag = ccmp;
+},
+{
 automatic = 1;
-code = "lookup locl_latn_0 {
-	script latn;
-	language AZE;
-	sub i by idotaccent;
-	language CRT;
-	sub i by idotaccent;
-	language KAZ;
-	sub i by idotaccent;
-	language TAT;
-	sub i by idotaccent;
-	language TRK;
+code = "script latn;
+language AZE;
+lookup locl_latn_0 {
 	sub i by idotaccent;
 } locl_latn_0;
+language CRT;
+lookup locl_latn_0;
+language KAZ;
+lookup locl_latn_0;
+language TAT;
+lookup locl_latn_0;
+language TRK;
+lookup locl_latn_0;
 
+script latn;
+language ROM;
 lookup locl_latn_1 {
-	script latn;
-	language ROM;
-	sub Scedilla by Scommaaccent;
-	sub scedilla by scommaaccent;
-	sub Tcedilla by Tcommaaccent;
-	sub tcedilla by tcommaaccent;
-	language MOL;
 	sub Scedilla by Scommaaccent;
 	sub scedilla by scommaaccent;
 	sub Tcedilla by Tcommaaccent;
 	sub tcedilla by tcommaaccent;
 } locl_latn_1;
+language MOL;
+lookup locl_latn_1;
 
+script latn;
+language MAH;
 lookup locl_latn_2 {
-	script latn;
-	language MAH;
 	sub Lcommaaccent by Lcommaaccent.loclMAH;
 	sub Ncommaaccent by Ncommaaccent.loclMAH;
 	sub lcommaaccent by lcommaaccent.loclMAH;
 	sub ncommaaccent by ncommaaccent.loclMAH;
 } locl_latn_2;
 
+script latn;
+language NLD;
 lookup locl_latn_3 {
-	script latn;
-	language NLD;
 	sub iacute j' by jacute;
 	sub Iacute J' by Jacute;
 } locl_latn_3;
@@ -274,6 +293,20 @@ sub eight by eight.tf;
 sub nine by nine.tf;
 ";
 tag = tnum;
+},
+{
+code = "sub zero by zero.case;
+sub one by one.case;
+sub two by two.case;
+sub three by three.case;
+sub four by four.case;
+sub five by five.case;
+sub six by six.case;
+sub seven by seven.case;
+sub eight by eight.case;
+sub nine by nine.case;
+";
+tag = case;
 },
 {
 automatic = 1;
@@ -469,12 +502,6 @@ sub r by r.ss01;
 sub ampersand by ampersand.ss01;
 sub numero by numero.ss01;
 ";
-labels = (
-{
-language = dflt;
-value = "";
-}
-);
 tag = ss01;
 },
 {
@@ -490,20 +517,16 @@ value = "";
 tag = ss02;
 },
 {
-code = "sub [@allNumbers @Uppercase] @symbolflex' [@allNumbers @Uppercase] by @symbolflex.number;
-###This action is to alter symbol after uppercase and numbers by a upper version
-sub f' [i idotless iacute icaron icircumflex idieresis idotaccent idotbelow igrave ihookabove ij imacron iogonek itilde j jdotless jacute t tcaron tcedilla tcommaaccent] by f.before-it;
-###This action is to alter f before iandtgroup by fwithlogerbar
-sub t' [i idotless iacute icaron icircumflex idieresis idotaccent idotbelow igrave ihookabove ij imacron iogonek itilde j jdotless jacute t tcaron tcedilla tcommaaccent] by t.before-it;
-###This action is to alter t before iandtgroup by twithlogerbar
+code = "# Alter symbol after uppercase and numbers by a upper version
+sub [@Numbers @Uppercase] @SymbolFlex' [@Numbers @Uppercase] by @SymbolFlex.number;
+
+# Alter f before i, (j) and t group by f with longer bar
+sub f' @ITGroup by f.before-it;
+
+# Alter t before i, (j) and t group by t with longer bar
+sub t' @ITGroup by t.before-it;
 ";
 tag = calt;
-},
-{
-code = "sub emdash emdash by twoemdash;
-sub S H D zero zero numbersign by heartBlackSuit;
-";
-tag = ccmp;
 }
 );
 fontMaster = (
