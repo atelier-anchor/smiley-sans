@@ -7,11 +7,6 @@ shapes = (
 {
 closed = 1;
 nodes = (
-);
-},
-{
-closed = 1;
-nodes = (
 (411,286,l),
 (368,251,l),
 (665,251,l),
