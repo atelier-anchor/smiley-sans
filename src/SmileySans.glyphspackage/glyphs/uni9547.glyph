@@ -174,7 +174,6 @@ width = 800;
 },
 {
 associatedMasterId = m01;
-color = 4;
 guides = (
 {
 pos = (430,93);
@@ -214,7 +213,6 @@ width = 800;
 },
 {
 associatedMasterId = m01;
-color = 4;
 guides = (
 {
 pos = (430,93);

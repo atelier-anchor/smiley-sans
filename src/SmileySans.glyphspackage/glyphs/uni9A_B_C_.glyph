@@ -222,7 +222,6 @@ width = 800;
 },
 {
 associatedMasterId = m01;
-color = 4;
 layerId = "CCD6A566-B830-4118-8763-E2C195075A16";
 name = "22年11月7日 16:48";
 shapes = (
@@ -275,7 +274,6 @@ width = 800;
 },
 {
 associatedMasterId = m01;
-color = 4;
 layerId = "EBAC9B69-B003-43D4-A7D2-480EB56EC857";
 name = "23年9月13日 12:53";
 shapes = (
