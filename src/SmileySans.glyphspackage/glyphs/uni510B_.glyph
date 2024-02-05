@@ -165,68 +165,6 @@ nodes = (
 );
 }
 );
-userData = {
-assembly = "SVTCA[0]	/* SetFreedomAndProjectionVectorToAxis */
-PUSHW[ ]	/* 1 value pushed */
-16 
-MDAP[1]	/* MoveDirectAbsPt */
-PUSHW[ ]	/* 1 value pushed */
-39 
-MDAP[1]	/* MoveDirectAbsPt */
-PUSHW[ ]	/* 1 value pushed */
-6 
-MDAP[1]	/* MoveDirectAbsPt */
-PUSHW[ ]	/* 1 value pushed */
-47 
-MDAP[1]	/* MoveDirectAbsPt */
-PUSHW[ ]	/* 4 values pushed */
-88 1 81 4 
-CALL[ ]	/* CallFunction */
-PUSHW[ ]	/* 4 values pushed */
-28 1 25 4 
-CALL[ ]	/* CallFunction */
-PUSHW[ ]	/* 4 values pushed */
-83 1 90 4 
-CALL[ ]	/* CallFunction */
-PUSHW[ ]	/* 3 values pushed */
-15 36 3 
-CALL[ ]	/* CallFunction */
-PUSHW[ ]	/* 4 values pushed */
-95 1 92 4 
-CALL[ ]	/* CallFunction */
-PUSHW[ ]	/* 4 values pushed */
-76 1 73 4 
-CALL[ ]	/* CallFunction */
-PUSHW[ ]	/* 4 values pushed */
-72 1 69 4 
-CALL[ ]	/* CallFunction */
-PUSHW[ ]	/* 4 values pushed */
-78 1 79 4 
-CALL[ ]	/* CallFunction */
-PUSHW[ ]	/* 1 value pushed */
-15 
-SRP0[ ]	/* SetRefPoint0 */
-PUSHW[ ]	/* 2 values pushed */
-0 1 
-MIRP[10100]	/* MoveIndirectRelPt */
-PUSHW[ ]	/* 3 values pushed */
-2 15 0 
-SRP1[ ]	/* SetRefPoint1 */
-SRP2[ ]	/* SetRefPoint2 */
-IP[ ]	/* InterpolatePts */
-PUSHW[ ]	/* 3 values pushed */
-17 6 39 
-SRP1[ ]	/* SetRefPoint1 */
-SRP2[ ]	/* SetRefPoint2 */
-IP[ ]	/* InterpolatePts */
-PUSHW[ ]	/* 3 values pushed */
-49 6 39 
-SRP1[ ]	/* SetRefPoint1 */
-SRP2[ ]	/* SetRefPoint2 */
-IP[ ]	/* InterpolatePts */
-IUP[0]	/* InterpolateUntPts */
-IUP[1]	/* InterpolateUntPts */";
-};
 width = 800;
 },
 {
@@ -394,68 +332,6 @@ nodes = (
 );
 }
 );
-userData = {
-assembly = "SVTCA[0]	/* SetFreedomAndProjectionVectorToAxis */
-PUSHW[ ]	/* 1 value pushed */
-16 
-MDAP[1]	/* MoveDirectAbsPt */
-PUSHW[ ]	/* 1 value pushed */
-39 
-MDAP[1]	/* MoveDirectAbsPt */
-PUSHW[ ]	/* 1 value pushed */
-6 
-MDAP[1]	/* MoveDirectAbsPt */
-PUSHW[ ]	/* 1 value pushed */
-47 
-MDAP[1]	/* MoveDirectAbsPt */
-PUSHW[ ]	/* 4 values pushed */
-88 1 81 4 
-CALL[ ]	/* CallFunction */
-PUSHW[ ]	/* 4 values pushed */
-28 1 25 4 
-CALL[ ]	/* CallFunction */
-PUSHW[ ]	/* 4 values pushed */
-83 1 90 4 
-CALL[ ]	/* CallFunction */
-PUSHW[ ]	/* 3 values pushed */
-15 36 3 
-CALL[ ]	/* CallFunction */
-PUSHW[ ]	/* 4 values pushed */
-95 1 92 4 
-CALL[ ]	/* CallFunction */
-PUSHW[ ]	/* 4 values pushed */
-76 1 73 4 
-CALL[ ]	/* CallFunction */
-PUSHW[ ]	/* 4 values pushed */
-72 1 69 4 
-CALL[ ]	/* CallFunction */
-PUSHW[ ]	/* 4 values pushed */
-78 1 79 4 
-CALL[ ]	/* CallFunction */
-PUSHW[ ]	/* 1 value pushed */
-15 
-SRP0[ ]	/* SetRefPoint0 */
-PUSHW[ ]	/* 2 values pushed */
-0 1 
-MIRP[10100]	/* MoveIndirectRelPt */
-PUSHW[ ]	/* 3 values pushed */
-2 15 0 
-SRP1[ ]	/* SetRefPoint1 */
-SRP2[ ]	/* SetRefPoint2 */
-IP[ ]	/* InterpolatePts */
-PUSHW[ ]	/* 3 values pushed */
-17 6 39 
-SRP1[ ]	/* SetRefPoint1 */
-SRP2[ ]	/* SetRefPoint2 */
-IP[ ]	/* InterpolatePts */
-PUSHW[ ]	/* 3 values pushed */
-49 6 39 
-SRP1[ ]	/* SetRefPoint1 */
-SRP2[ ]	/* SetRefPoint2 */
-IP[ ]	/* InterpolatePts */
-IUP[0]	/* InterpolateUntPts */
-IUP[1]	/* InterpolateUntPts */";
-};
 width = 800;
 }
 );

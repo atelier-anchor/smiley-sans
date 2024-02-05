@@ -178,20 +178,6 @@ nodes = (
 );
 }
 );
-userData = {
-assembly = "SVTCA[0]	/* SetFreedomAndProjectionVectorToAxis */
-PUSHW[ ]	/* 1 value pushed */
-19 
-MDAP[1]	/* MoveDirectAbsPt */
-PUSHW[ ]	/* 1 value pushed */
-14 
-MDAP[1]	/* MoveDirectAbsPt */
-PUSHW[ ]	/* 4 values pushed */
-10 1 7 4 
-CALL[ ]	/* CallFunction */
-IUP[0]	/* InterpolateUntPts */
-IUP[1]	/* InterpolateUntPts */";
-};
 width = 800;
 },
 {
@@ -372,20 +358,6 @@ nodes = (
 );
 }
 );
-userData = {
-assembly = "SVTCA[0]	/* SetFreedomAndProjectionVectorToAxis */
-PUSHW[ ]	/* 1 value pushed */
-19 
-MDAP[1]	/* MoveDirectAbsPt */
-PUSHW[ ]	/* 1 value pushed */
-14 
-MDAP[1]	/* MoveDirectAbsPt */
-PUSHW[ ]	/* 4 values pushed */
-10 1 7 4 
-CALL[ ]	/* CallFunction */
-IUP[0]	/* InterpolateUntPts */
-IUP[1]	/* InterpolateUntPts */";
-};
 width = 800;
 }
 );

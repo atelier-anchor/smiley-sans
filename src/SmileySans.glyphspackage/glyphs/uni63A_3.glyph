@@ -164,32 +164,6 @@ nodes = (
 );
 }
 );
-userData = {
-assembly = "SVTCA[0]	/* SetFreedomAndProjectionVectorToAxis */
-PUSHW[ ]	/* 1 value pushed */
-26 
-MDAP[1]	/* MoveDirectAbsPt */
-PUSHW[ ]	/* 4 values pushed */
-0 1 8 4 
-CALL[ ]	/* CallFunction */
-PUSHW[ ]	/* 4 values pushed */
-4 1 23 4 
-CALL[ ]	/* CallFunction */
-PUSHW[ ]	/* 4 values pushed */
-22 1 19 4 
-CALL[ ]	/* CallFunction */
-PUSHW[ ]	/* 4 values pushed */
-18 1 15 4 
-CALL[ ]	/* CallFunction */
-PUSHW[ ]	/* 1 value pushed */
-23 
-SRP0[ ]	/* SetRefPoint0 */
-PUSHW[ ]	/* 2 values pushed */
-24 1 
-MIRP[10100]	/* MoveIndirectRelPt */
-IUP[0]	/* InterpolateUntPts */
-IUP[1]	/* InterpolateUntPts */";
-};
 width = 800;
 }
 );

@@ -157,60 +157,6 @@ nodes = (
 );
 }
 );
-userData = {
-assembly = "SVTCA[0]	/* SetFreedomAndProjectionVectorToAxis */
-PUSHW[ ]	/* 1 value pushed */
-18 
-MDAP[1]	/* MoveDirectAbsPt */
-PUSHW[ ]	/* 4 values pushed */
-82 1 89 4 
-CALL[ ]	/* CallFunction */
-PUSHW[ ]	/* 4 values pushed */
-77 1 86 4 
-CALL[ ]	/* CallFunction */
-PUSHW[ ]	/* 4 values pushed */
-70 1 67 4 
-CALL[ ]	/* CallFunction */
-PUSHW[ ]	/* 4 values pushed */
-34 1 31 4 
-CALL[ ]	/* CallFunction */
-PUSHW[ ]	/* 4 values pushed */
-55 1 49 4 
-CALL[ ]	/* CallFunction */
-PUSHW[ ]	/* 4 values pushed */
-51 1 57 4 
-CALL[ ]	/* CallFunction */
-PUSHW[ ]	/* 3 values pushed */
-39 89 82 
-SRP1[ ]	/* SetRefPoint1 */
-SRP2[ ]	/* SetRefPoint2 */
-IP[ ]	/* InterpolatePts */
-PUSHW[ ]	/* 1 value pushed */
-67 
-SRP0[ ]	/* SetRefPoint0 */
-PUSHW[ ]	/* 2 values pushed */
-72 1 
-MIRP[10100]	/* MoveIndirectRelPt */
-PUSHW[ ]	/* 1 value pushed */
-70 
-SRP0[ ]	/* SetRefPoint0 */
-PUSHW[ ]	/* 1 value pushed */
-73 
-MDRP[11100]	/* MoveDirectRelPt */
-PUSHW[ ]	/* 1 value pushed */
-82 
-SRP0[ ]	/* SetRefPoint0 */
-PUSHW[ ]	/* 2 values pushed */
-80 1 
-MIRP[10100]	/* MoveIndirectRelPt */
-PUSHW[ ]	/* 3 values pushed */
-84 89 82 
-SRP1[ ]	/* SetRefPoint1 */
-SRP2[ ]	/* SetRefPoint2 */
-IP[ ]	/* InterpolatePts */
-IUP[0]	/* InterpolateUntPts */
-IUP[1]	/* InterpolateUntPts */";
-};
 width = 800;
 }
 );
