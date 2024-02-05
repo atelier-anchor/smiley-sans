@@ -1,11 +1,38 @@
 {
-color = 6;
-export = 0;
 glyphname = postalmark;
 layers = (
 {
 layerId = m01;
-width = 800;
+shapes = (
+{
+closed = 1;
+nodes = (
+(246,533,l),
+(872,533,l),
+(885,628,l),
+(259,628,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(219,343,l),
+(845,343,l),
+(858,438,l),
+(232,438,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(432,-12,l),
+(532,-12,l),
+(587,380,l),
+(487,380,l)
+);
+}
+);
+width = 1000;
 }
 );
 unicode = 12306;

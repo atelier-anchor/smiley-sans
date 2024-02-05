@@ -1,11 +1,26 @@
 {
-color = 10;
-export = 0;
 glyphname = blackstar;
 layers = (
 {
 layerId = m01;
-width = 600;
+shapes = (
+{
+closed = 1;
+nodes = (
+(494,165,l),
+(710,4,l),
+(662,279,l),
+(926,460,l),
+(635,460,l),
+(576,747,l),
+(437,460,l),
+(146,460,l),
+(358,279,l),
+(234,4,l)
+);
+}
+);
+width = 1000;
 }
 );
 unicode = 9733;

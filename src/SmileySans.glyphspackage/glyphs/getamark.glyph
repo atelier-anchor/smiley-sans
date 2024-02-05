@@ -1,11 +1,29 @@
 {
-color = 6;
-export = 0;
 glyphname = getamark;
 layers = (
 {
 layerId = m01;
-width = 800;
+shapes = (
+{
+closed = 1;
+nodes = (
+(205,417,l),
+(829,417,l),
+(864,663,l),
+(240,663,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(152,37,l),
+(776,37,l),
+(811,283,l),
+(187,283,l)
+);
+}
+);
+width = 1000;
 }
 );
 unicode = 12307;
