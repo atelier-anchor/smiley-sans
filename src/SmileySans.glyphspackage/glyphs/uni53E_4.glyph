@@ -60,12 +60,6 @@ width = 800;
 },
 {
 associatedMasterId = m01;
-layerId = "84D24D78-FA83-422F-B3F3-CDCBDAE7D2DE";
-name = "22年10月19日 15:38";
-width = 800;
-},
-{
-associatedMasterId = m01;
 layerId = "8EBA2814-5EE3-4D84-805D-3ECA89D6BCD0";
 name = "22年11月7日 11:29";
 shapes = (

@@ -111,18 +111,6 @@ nodes = (
 }
 );
 width = 800;
-},
-{
-associatedMasterId = m01;
-layerId = "30F80E8B-F66A-464A-A1AD-0A41989EB8C4";
-name = "22年11月2日 10:50";
-width = 800;
-},
-{
-associatedMasterId = m01;
-layerId = "3932F5C1-3230-4160-891B-976A300E8DAB";
-name = "22年11月2日 10:51";
-width = 800;
 }
 );
 unicode = 30596;

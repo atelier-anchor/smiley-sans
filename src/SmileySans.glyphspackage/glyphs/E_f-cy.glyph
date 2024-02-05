@@ -4,12 +4,6 @@ kernLeft = "Ef-cy";
 kernRight = "Ef-cy";
 layers = (
 {
-associatedMasterId = m01;
-layerId = "9EF5BB59-041F-497B-A1DE-AE95D02024A1";
-name = "Nov 21, 22, 17:43";
-width = 600;
-},
-{
 layerId = m01;
 name = Oblique;
 shapes = (

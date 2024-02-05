@@ -144,12 +144,6 @@ nodes = (
 }
 );
 width = 800;
-},
-{
-associatedMasterId = m01;
-layerId = "E774C266-73C8-4E01-9A9F-FB50515BCCB3";
-name = "22年9月28日 10:32";
-width = 800;
 }
 );
 unicode = 33328;

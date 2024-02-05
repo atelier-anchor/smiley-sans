@@ -173,12 +173,6 @@ width = 800;
 },
 {
 associatedMasterId = m01;
-layerId = "42C7F068-E8F1-4480-8BD1-9176568AF984";
-name = "22年10月20日 11:25";
-width = 800;
-},
-{
-associatedMasterId = m01;
 color = 4;
 layerId = "034A0CA8-A2E1-4719-9379-83A4B5693803";
 name = "22年11月7日 16:48";
