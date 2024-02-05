@@ -8,17 +8,5 @@
 		<key>predicate</key>
 		<string>colorIndex == 5</string>
 	</dict>
-	<dict>
-		<key>name</key>
-		<string>拼字</string>
-		<key>predicate</key>
-		<string>colorIndex == 10</string>
-	</dict>
-	<dict>
-		<key>name</key>
-		<string>改</string>
-		<key>predicate</key>
-		<string>colorIndex == 7 OR colorIndex == 9 OR colorIndex == 0</string>
-	</dict>
 </array>
 </plist>

@@ -1,9 +1,7 @@
 {
-color = 7;
 glyphname = uni9547;
 layers = (
 {
-color = 4;
 guides = (
 {
 pos = (430,93);

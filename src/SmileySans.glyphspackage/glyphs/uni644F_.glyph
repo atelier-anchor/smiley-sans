@@ -1,5 +1,4 @@
 {
-color = 7;
 glyphname = uni644F;
 layers = (
 {
@@ -49,7 +48,6 @@ nodes = (
 }
 );
 };
-color = 2;
 layerId = m01;
 shapes = (
 {

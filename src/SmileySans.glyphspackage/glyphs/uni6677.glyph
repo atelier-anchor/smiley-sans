@@ -1,9 +1,7 @@
 {
-color = 10;
 glyphname = uni6677;
 layers = (
 {
-color = 4;
 layerId = m01;
 shapes = (
 {

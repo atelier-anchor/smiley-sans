@@ -1,5 +1,4 @@
 {
-color = 1;
 glyphname = two.case;
 kernLeft = two;
 kernRight = two;
