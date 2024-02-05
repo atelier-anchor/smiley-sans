@@ -311,13 +311,6 @@ tag = case;
 },
 {
 automatic = 1;
-code = "lookupflag IgnoreMarks;
-sub t i by t_i.liga;
-";
-tag = liga;
-},
-{
-automatic = 1;
 code = "sub A by A.full;
 sub B by B.full;
 sub C by C.full;
