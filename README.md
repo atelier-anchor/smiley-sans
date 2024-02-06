@@ -8,7 +8,7 @@
 [![Build Status](https://github.com/atelier-anchor/smiley-sans/workflows/build/badge.svg)](https://github.com/atelier-anchor/smiley-sans/actions)
 [![GitHub release](https://img.shields.io/github/release/atelier-anchor/smiley-sans/all.svg)](https://github.com/atelier-anchor/smiley-sans/releases/latest)
 
-得意黑是一款在人文观感和几何特征中寻找平衡的中文黑体。整体字身窄而斜，细节融入了取法手绘美术字的特殊造型。字体支持简体中文常用字（覆盖 [GB/T 2312-1980](https://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=5664A728BD9D523DE3B99BC37AC7A2CC) 编码字符集）、拉丁字母、西里尔字母、希腊字母、日文假名、阿拉伯数字和各类标点符号。
+得意黑是一款在人文观感和几何特征中寻找平衡的中文黑体。整体字身窄而斜，细节融入了取法手绘美术字的特殊造型。字体支持简体中文常用字（覆盖 [GB/T 2312-1980](https://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=5664A728BD9D523DE3B99BC37AC7A2CC) 编码字符集和[《通用规范汉字表》](http://www.moe.gov.cn/jyb_sjzl/ziliao/A19/201306/t20130601_186002.html)）、拉丁字母、西里尔字母、希腊字母、日文假名、阿拉伯数字和各类标点符号。
 
 ## 下载安装
 
@@ -40,13 +40,31 @@
 
 | 文字 | 支持情况 |
 |:-:|:-:|
-| 汉字       | 字体覆盖 [GB/T 2312-1980](https://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=5664A728BD9D523DE3B99BC37AC7A2CC) 编码字符集中的全部 6763 个汉字，并额外补充了 `啰`、`喰`、`瞭`、`𬌗` 4 个字，共计支持汉字 6767 个 |
+| 汉字       | 字体覆盖 [GB/T 2312-1980](https://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=5664A728BD9D523DE3B99BC37AC7A2CC) 编码字符集中的全部 6763 个汉字和[《通用规范汉字表》](http://www.moe.gov.cn/jyb_sjzl/ziliao/A19/201306/t20130601_186002.html)中的全部 8105 个汉字，并额外进行了补充，共计支持汉字 8335 个 |
 | 拉丁字母   | 除基础拉丁字母外，覆盖欧洲、美洲、南亚各种语言所需的字符共 415 个，另加入必要的变体和本地化字形，可支持 100 余种语言，包括英语、法语、德语、西班牙语、芬兰语、越南语等 |
 | 西里尔字母 | 支持基础西里尔字母共 80 个 |
 | 希腊字母   | 支持基础希腊字母共 71 个 |
 | 日文假名   | 支持平假名、片假名字符共 174 个 |
 | 数字       | 支持阿拉伯数字、大小写罗马数字，以及其他 4 种样式的序数字 `㈠`、`②`、`⑶` 和 `⒋` |
 | 标点符号   | 包含标点和其他各类符号共 200 余个 |
+
+## OpenType 特性
+
+| 特性 | 说明 |
+|:-:|:-:|
+| `ordn`         | 序数词形式：`1ª`、`2º` 等 |
+| `frac`         | 分数：`½`、`¼`、`¾` |
+| `sups`         | 上标：`¹`、`²`、`³` |
+| `pnum`         | 比例数字（默认开启） |
+| `tnum`         | 等宽数字 |
+| `case`         | 与大写字母匹配的数字 |
+| `fwid`         | 全宽数字和符号 |
+| `vert`、`vrt2` | 竖排标点 |
+| `locl`         | 地区变体：罗马尼亚语 `Ş` → `Ș`、荷兰语 `íj` → `íȷ́` 等（默认开启） |
+| `ss01`         | 变体形式：`J`、`K`、`Q`、`a`、`f`、`l`、`r`、`&`、`№` |
+| `ss02`         | 变体形式：`f` |
+| `calt`         | 上下文替换：`1+2`、`9:41`、`fi`、`tj` 等（默认开启） |
+| `ccmp`         | 字符拼合：破折号 `⸺`（默认开启） |
 
 ## 注意事项
 
@@ -68,4 +86,4 @@
 
 ---
 
-Copyright © 2022–2023 [atelierAnchor](https://atelier-anchor.com). All rights reserved.
+Copyright © 2022–2024 [atelierAnchor](https://atelier-anchor.com). All rights reserved.
