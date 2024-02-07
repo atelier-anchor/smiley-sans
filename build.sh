@@ -3,7 +3,10 @@ if [ "$1" = "dev" ]; then
     sed -i -E "s/(^ +Version .+)/\1 (dev $datetime)/g" src/SmileySans.ttx
 fi
 
-mkdir build
+if [ ! -d "build" ]; then
+    mkdir build
+fi
+
 fontmake \
     -g src/SmileySans.glyphspackage \
     --output-dir build \
