@@ -34,7 +34,7 @@
   - [Adobe](https://glyphsapp.com/zh/learn/testing-your-fonts-in-adobe-apps)
   - [Office](https://support.microsoft.com/zh-cn/office/下载和安装自定义字体以便在-office-中使用-0ee09e74-edc1-480c-81c2-5cf9537c70ce)
   - [Procreate](https://procreate.art/cn/handbook/procreate/text/text-fonts/)
-- 如需预览得意黑的设计，可以[下载样张](docs/smiley-sans-specimen.pdf)。
+- 如需预览得意黑的设计，可在 [docs](docs/) 文件夹中查看样张。
 
 ## 字符支持
 
