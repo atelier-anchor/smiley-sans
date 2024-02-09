@@ -1,10 +1,10 @@
 blank_issues_enabled: true
 contact_links:
   - name: 添加汉字
-    url: https://github.com/atelier-anchor/smiley-sans/issues/73
+    url: https://github.com/atelier-anchor/smiley-sans/issues/139
     about: 请求添加新的汉字
   - name: 调整、修复汉字
-    url: https://github.com/atelier-anchor/smiley-sans/issues/74
+    url: https://github.com/atelier-anchor/smiley-sans/issues/140
     about: 请求调整、修复已有汉字的设计
   - name: 问题求助
     url: https://github.com/atelier-anchor/smiley-sans/discussions
