@@ -21,7 +21,6 @@
   - [macOS](https://support.apple.com/zh-cn/HT201749)
     - 也可使用 [Homebrew](https://brew.sh/index_zh-cn) 进行安装，在命令行中输入以下指令（这要求已经安装好 Homebrew）：
       ```bash
-      brew tap homebrew/cask-fonts  # 只需要在第一次安装时执行
       brew install font-smiley-sans
       ```
   - Linux
